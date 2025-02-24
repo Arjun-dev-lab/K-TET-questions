@@ -1,0 +1,852 @@
+[
+    {
+        "id": 1,
+        "question": "What is the fraction 3/4 expressed as a decimal?",
+        "options": [
+            "0.75",
+            "1.25",
+            "0.5",
+            "1.75"
+        ],
+        "answer": "0.75"
+    },
+    {
+        "id": 2,
+        "question": "Simplify the fraction 18/24.",
+        "options": [
+            "3/4",
+            "2/3",
+            "4/5",
+            "5/6"
+        ],
+        "answer": "3/4"
+    },
+    {
+        "id": 3,
+        "question": "What is 25% of 200?",
+        "options": [
+            "25",
+            "50",
+            "75",
+            "100"
+        ],
+        "answer": "50"
+    },
+    {
+        "id": 4,
+        "question": "Calculate the simple interest on a loan of ₹5000 at 5% per annum for 2 years.",
+        "options": [
+            "₹250",
+            "₹400",
+            "₹500",
+            "₹1000"
+        ],
+        "answer": "₹500"
+    },
+    {
+        "id": 5,
+        "question": "Find the average of the numbers 10, 15, and 20.",
+        "options": [
+            "15",
+            "16",
+            "18",
+            "20"
+        ],
+        "answer": "15"
+    },
+    {
+        "id": 6,
+        "question": "If the average of four numbers is 20, and one of the numbers is replaced by 30, making the new average 22, what is the replaced number?",
+        "options": [
+            "10",
+            "15",
+            "20",
+            "25"
+        ],
+        "answer": "10"
+    },
+    {
+        "id": 7,
+        "question": "What is the result of (-5) + (-3)?",
+        "options": [
+            "-8",
+            "8",
+            "-2",
+            "2"
+        ],
+        "answer": "-8"
+    },
+    {
+        "id": 8,
+        "question": "Calculate (-6) × 3.",
+        "options": [
+            "-18",
+            "18",
+            "-9",
+            "9"
+        ],
+        "answer": "-18"
+    },
+    {
+        "id": 9,
+        "question": "What is the value of 2³?",
+        "options": [
+            "6",
+            "8",
+            "9",
+            "12"
+        ],
+        "answer": "8"
+    },
+    {
+        "id": 10,
+        "question": "Simplify 24 ÷ 6.",
+        "options": [
+            "2",
+            "4",
+            "8",
+            "16"
+        ],
+        "answer": "4"
+    },
+    {
+        "id": 11,
+        "question": "If the ratio of boys to girls in a class is 3:2 and there are 15 boys, how many girls are there?",
+        "options": [
+            "5",
+            "10",
+            "15",
+            "20"
+        ],
+        "answer": "10"
+    },
+    {
+        "id": 12,
+        "question": "If a recipe requires 2 cups of flour for every 3 cups of sugar, how many cups of flour are needed for 9 cups of sugar?",
+        "options": [
+            "3",
+            "4",
+            "6",
+            "9"
+        ],
+        "answer": "6"
+    },
+    {
+        "id": 13,
+        "question": "If y is inversely proportional to x, and y = 5 when x = 2, what is the value of y when x = 10?",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "answer": "1"
+    },
+    {
+        "id": 14,
+        "question": "If a car travels 100 km in 2 hours, what is its average speed?",
+        "options": [
+            "25 km/h",
+            "50 km/h",
+            "75 km/h",
+            "100 km/h"
+        ],
+        "answer": "50 km/h"
+    },
+    {
+        "id": 15,
+        "question": "A train travels from city A to city B in 4 hours at a speed of 60 km/h. How far is city B from city A?",
+        "options": [
+            "120 km",
+            "180 km",
+            "240 km",
+            "300 km"
+        ],
+        "answer": "240 km"
+    },
+    {
+        "id": 16,
+        "question": "Solve the equation: 2x + 3 = 11.",
+        "options": [
+            "2",
+            "3",
+            "4",
+            "5"
+        ],
+        "answer": "4"
+    },
+    {
+        "id": 17,
+        "question": "What is the value of x if 3(x − 1) = 12?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "answer": "6"
+    },
+    {
+        "id": 18,
+        "question": "Simplify: 3(x + 2) + 4x.",
+        "options": [
+            "3x + 2",
+            "3x + 8",
+            "7x + 6",
+            "7x + 2"
+        ],
+        "answer": "7x + 6"
+    },
+    {
+        "id": 19,
+        "question": "Expand: (a + b)².",
+        "options": [
+            "a² + b²",
+            "a² + 2ab + b²",
+            "a² − 2ab + b²",
+            "a² − b²"
+        ],
+        "answer": "a² + 2ab + b²"
+    },
+    {
+        "id": 20,
+        "question": "If 2x − 3 = 7, what is the value of 4x − 6?",
+        "options": [
+            "2",
+            "4",
+            "8",
+            "14"
+        ],
+        "answer": "14"
+    },
+    {
+        "id": 21,
+        "question": "What is 40% of 80?",
+        "options": [
+            "20",
+            "24",
+            "32",
+            "36"
+        ],
+        "answer": "32"
+    },
+    {
+        "id": 22,
+        "question": "Calculate the compound interest on ₹5000 for 2 years at 10% per annum, compounded annually.",
+        "options": [
+            "₹1000",
+            "₹1050",
+            "₹1100",
+            "₹1210"
+        ],
+        "answer": "₹1210"
+    },
+    {
+        "id": 23,
+        "question": "Find the average of the numbers 12, 14, 16, and 18.",
+        "options": [
+            "14",
+            "15",
+            "16",
+            "17"
+        ],
+        "answer": "15"
+    },
+    {
+        "id": 24,
+        "question": "Express 8 1/2 as a decimal.",
+        "options": [
+            "8",
+            "9",
+            "16",
+            "18"
+        ],
+        "answer": "9"
+    },
+    {
+        "id": 25,
+        "question": "What is the ratio of 50 to 200?",
+        "options": [
+            "1:4",
+            "2:5",
+            "1:5",
+            "4:5"
+        ],
+        "answer": "1:4"
+    },
+    {
+        "id": 26,
+        "question": "What is the fraction 7/10 expressed as a decimal?",
+        "options": ["0.7", "1.7", "0.1", "1.0"],
+        "answer": "0.7"
+    },
+    {
+        "id": 27,
+        "question": "Simplify the fraction 24/36.",
+        "options": ["2/3", "3/4", "4/5", "5/6"],
+        "answer": "2/3"
+    },
+    {
+        "id": 28,
+        "question": "What is 15% of 300?",
+        "options": ["30", "45", "60", "90"],
+        "answer": "45"
+    },
+    {
+        "id": 29,
+        "question": "Calculate the simple interest on a loan of \u20b98000 at 4% per annum for 3 years.",
+        "options": ["\u20b9640", "\u20b9800", "\u20b9960", "\u20b91200"],
+        "answer": "\u20b9960"
+    },
+    {
+        "id": 30,
+        "question": "Find the average of the numbers 5, 10, 15, and 20.",
+        "options": ["10", "12.5", "15", "17.5"],
+        "answer": "12.5"
+    },
+    {
+        "id": 31,
+        "question": "If the average of five numbers is 18, and one of the numbers is replaced by 28, making the new average 20, what is the replaced number?",
+        "options": ["10", "12", "14", "16"],
+        "answer": "12"
+    },
+    {
+        "id": 32,
+        "question": "What is the result of (-8) + 5?",
+        "options": ["-3", "-13", "3", "13"],
+        "answer": "-3"
+    },
+    {
+        "id": 33,
+        "question": "Calculate (-7) \u00d7 4.",
+        "options": ["-28", "28", "-11", "11"],
+        "answer": "-28"
+    },
+    {
+        "id": 34,
+        "question": "What is the value of 3\u2074?",
+        "options": ["12", "27", "64", "81"],
+        "answer": "81"
+    },
+    {
+        "id": 35,
+        "question": "Simplify 5\u00b3 \u00f7 5\u00b9.",
+        "options": ["5", "10", "15", "25"],
+        "answer": "5"
+    },
+    {
+        "id": 36,
+        "question": "If the ratio of apples to oranges in a basket is 4:3 and there are 28 apples, how many oranges are there?",
+        "options": ["7", "14", "21", "24"],
+        "answer": "21"
+    },
+    {
+        "id": 37,
+        "question": "If a solution requires 5 parts water for every 2 parts alcohol, how many parts of alcohol are needed for 20 parts of water?",
+        "options": ["4", "6", "8", "10"],
+        "answer": "8"
+    },
+    {
+        "id": 38,
+        "question": "If y is inversely proportional to x, and y = 10 when x = 3, what is the value of y when x = 5?",
+        "options": ["2", "3", "5", "6"],
+        "answer": "6"
+    },
+    {
+        "id": 39,
+        "question": "If a cyclist covers 80 km in 4 hours, what is their average speed?",
+        "options": ["10 km/h", "20 km/h", "30 km/h", "40 km/h"],
+        "answer": "20 km/h"
+    },
+    {
+        "id": 40,
+        "question": "A bus travels from city X to city Y in 5 hours at a speed of 70 km/h. How far is city Y from city X?",
+        "options": ["250 km", "300 km", "350 km", "400 km"],
+        "answer": "350 km"
+    },
+    {
+        "id": 41,
+        "question": "Solve the equation: 4x - 5 = 19.",
+        "options": ["3", "4", "5", "6"],
+        "answer": "6"
+    },
+    {
+        "id": 42,
+        "question": "What is the value of x if 2(x + 3) = 14?",
+        "options": ["2", "3", "4", "5"],
+        "answer": "4"
+    },
+    {
+        "id": 43,
+        "question": "Simplify: 5(x - 2) + 2x.",
+        "options": ["5x - 2", "7x - 10", "10x - 2", "10x - 5"],
+        "answer": "7x - 10"
+    },
+    {
+        "id": 44,
+        "question": "Expand: (a - b)\u00b2.",
+        "options": ["a\u00b2 + b\u00b2", "a\u00b2 + 2ab + b\u00b2", "a\u00b2 - 2ab + b\u00b2", "a\u00b2 - b\u00b2"],
+        "answer": "a\u00b2 - 2ab + b\u00b2"
+    },
+    {
+        "id": 45,
+        "question": "If 3x + 2 = 11, what is the value of 6x - 4?",
+        "options": ["10", "12", "14", "16"],
+        "answer": "16"
+    },
+    {
+        "id": 46,
+        "question": "What is 60% of 150?",
+        "options": ["60", "75", "90", "105"],
+        "answer": "90"
+    },
+    {
+        "id": 47,
+        "question": "Calculate the compound interest on \u20b96000 for 3 years at 8% per annum, compounded annually.",
+        "options": ["\u20b91440", "\u20b91526.40", "\u20b91624.80", "\u20b91728"],
+        "answer": "\u20b91526.40"
+    },
+    {
+        "id": 48,
+        "question": "Find the average of the numbers 8, 12, 16, and 20.",
+        "options": ["12", "14", "16", "18"],
+        "answer": "14"
+    },
+    {
+        "id": 49,
+        "question": "Express 6\u2074 \u00f7 1\u00b3 as a decimal.",
+        "options": ["2", "3", "4", "8"],
+        "answer": "4"
+    },
+    {
+        "id": 50,
+        "question": "What is the ratio of 75 to 300?",
+        "options": ["1:3", "1:4", "1:5", "1:6"],
+        "answer": "1:4"
+    },
+    {
+        "id": 51,
+        "question": "What is the degree measure of a right angle?",
+        "options": ["45 degrees", "90 degrees", "120 degrees", "180 degrees"],
+        "answer": "90 degrees"
+    },
+    {
+        "id": 52,
+        "question": "If two lines intersect to form a right angle, what is the relationship between the lines?",
+        "options": ["Parallel", "Perpendicular", "Acute", "Obtuse"],
+        "answer": "Perpendicular"
+    },
+    {
+        "id": 53,
+        "question": "What is the sum of the angles in a triangle?",
+        "options": ["90 degrees", "180 degrees", "270 degrees", "360 degrees"],
+        "answer": "180 degrees"
+    },
+    {
+        "id": 54,
+        "question": "What is the measure of each angle in an equilateral triangle?",
+        "options": ["45 degrees", "60 degrees", "90 degrees", "120 degrees"],
+        "answer": "60 degrees"
+    },
+    {
+        "id": 55,
+        "question": "Which quadrilateral has exactly one pair of parallel sides?",
+        "options": ["Square", "Rectangle", "Parallelogram", "Trapezium"],
+        "answer": "Trapezium"
+    },
+    {
+        "id": 56,
+        "question": "What is the area of a triangle with a base of 8 cm and a height of 5 cm?",
+        "options": ["20 cm²", "25 cm²", "30 cm²", "40 cm²"],
+        "answer": "20 cm²"
+    },
+    {
+        "id": 57,
+        "question": "What is the relationship between two lines that never intersect and are always the same distance apart?",
+        "options": ["Perpendicular", "Parallel", "Skew", "Intersecting"],
+        "answer": "Parallel"
+    },
+    {
+        "id": 58,
+        "question": "Which property is not a characteristic of a rhombus?",
+        "options": ["All sides are equal", "Opposite angles are equal", "Diagonals bisect each other at right angles", "All angles are right angles"],
+        "answer": "All angles are right angles"
+    },
+    {
+        "id": 59,
+        "question": "How many degrees are there in the sum of the interior angles of a quadrilateral?",
+        "options": ["180 degrees", "270 degrees", "360 degrees", "540 degrees"],
+        "answer": "360 degrees"
+    },
+    {
+        "id": 60,
+        "question": "What is the volume of a rectangular prism with dimensions 4 cm, 5 cm, and 6 cm?",
+        "options": ["30 cm³", "60 cm³", "120 cm³", "240 cm³"],
+        "answer": "120 cm³"
+    },
+    {
+        "id": 61,
+        "question": "Which type of triangle has one angle greater than 90 degrees?",
+        "options": ["Acute triangle", "Right triangle", "Obtuse triangle", "Equilateral triangle"],
+        "answer": "Obtuse triangle"
+    },
+    {
+        "id": 62,
+        "question": "If the sides of a triangle are 5 cm, 12 cm, and 13 cm, what type of triangle is it?",
+        "options": ["Acute triangle", "Right triangle", "Obtuse triangle", "Isosceles triangle"],
+        "answer": "Right triangle"
+    },
+    {
+        "id": 63,
+        "question": "What is the formula for the area of a rectangle?",
+        "options": ["length × width", "length + width", "length × height", "width × height"],
+        "answer": "length × width"
+    },
+    {
+        "id": 64,
+        "question": "What is the measure of each interior angle of a regular pentagon?",
+        "options": ["90 degrees", "108 degrees", "120 degrees", "135 degrees"],
+        "answer": "108 degrees"
+    },
+    {
+        "id": 65,
+        "question": "Which of the following statements is true for an isosceles triangle?",
+        "options": ["All three sides are equal", "All angles are equal", "At least two sides are equal", "None of the sides are equal"],
+        "answer": "At least two sides are equal"
+    },
+    {
+        "id": 66,
+        "question": "What is the surface area of a rectangular prism with dimensions 3 cm, 4 cm, and 5 cm?",
+        "options": ["46 cm²", "52 cm²", "94 cm²", "100 cm²"],
+        "answer": "94 cm²"
+    },
+    {
+        "id": 67,
+        "question": "In a parallelogram, which of the following is always true?",
+        "options": ["Opposite sides are not equal", "Opposite angles are not equal", "Diagonals bisect each other", "All angles are right angles"],
+        "answer": "Diagonals bisect each other"
+    },
+    {
+        "id": 68,
+        "question": "What is the measure of the third angle in a triangle if two of its angles measure 50 degrees and 70 degrees?",
+        "options": ["50 degrees", "60 degrees", "70 degrees", "80 degrees"],
+        "answer": "60 degrees"
+    },
+    {
+        "id": 69,
+        "question": "Which quadrilateral has all sides equal and opposite angles equal?",
+        "options": ["Square", "Rectangle", "Parallelogram", "Rhombus"],
+        "answer": "Rhombus"
+    },
+    {
+        "id": 70,
+        "question": "How many faces does a rectangular prism have?",
+        "options": ["4", "6", "8", "10"],
+        "answer": "6"
+    },
+    {
+        "id": 71,
+        "question": "What is the area of a trapezium with bases of 6 cm and 8 cm, and a height of 4 cm?",
+        "options": ["28 cm²", "32 cm²", "40 cm²", "44 cm²"],
+        "answer": "28 cm²"
+    },
+    {
+        "id": 72,
+        "question": "In a frequency table, what is the term for the number of occurrences of each data point?",
+        "options": ["Tally", "Interval", "Frequency", "Class"],
+        "answer": "Frequency"
+    },
+    {
+        "id": 73,
+        "question": "What type of graph uses sectors to represent data?",
+        "options": ["Bar graph", "Line graph", "Pie chart", "Histogram"],
+        "answer": "Pie chart"
+    },
+    {
+        "id": 74,
+        "question": "Which graph is best suited for comparing the parts of a whole?",
+        "options": ["Bar graph", "Line graph", "Pie chart", "Histogram"],
+        "answer": "Pie chart"
+    },
+    {
+        "id": 75,
+        "question": "If the base of a triangle is 10 cm and the height is 5 cm, what is its area?",
+        "options": ["15 cm²", "20 cm²", "25 cm²", "50 cm²"],
+        "answer": "25 cm²"
+    },
+    {
+        "id": 76,
+        "question": "Consider a circle divided into 360 equal parts. What is the degree measure of each part?",
+        "options": [
+        "1 degree",
+        "5 degrees",
+        "10 degrees",
+        "15 degrees"
+        ],
+        "answer": "1 degree"
+    },
+    {
+        "id": 77,
+        "question": "Imagine two lines intersecting to form four angles. If one of the angles measures 90 degrees, what is the relationship between the two lines?",
+        "options": [
+        "Parallel",
+        "Perpendicular",
+        "Acute",
+        "Obtuse"
+        ],
+        "answer": "Perpendicular"
+    },
+    {
+        "id": 78,
+        "question": "Visualize a triangle with angles measuring 60 degrees each. What type of triangle is this?",
+        "options": [
+        "Right triangle",
+        "Isosceles triangle",
+        "Equilateral triangle",
+        "Scalene triangle"
+        ],
+        "answer": "Equilateral triangle"
+    },
+    {
+        "id": 79,
+        "question": "Imagine a pair of parallel lines intersected by a third line, forming eight angles. What is the sum of any pair of corresponding angles?",
+        "options": [
+        "90 degrees",
+        "180 degrees",
+        "270 degrees",
+        "360 degrees"
+        ],
+        "answer": "180 degrees"
+    },
+    {
+        "id": 80,
+        "question": "Picture a quadrilateral with one pair of parallel sides and the other pair of non-parallel sides. What type of quadrilateral is this?",
+        "options": [
+        "Square",
+        "Rectangle",
+        "Parallelogram",
+        "Trapezium"
+        ],
+        "answer": "Trapezium"
+    },
+    {
+        "id": 81,
+        "question": "Imagine a triangle with a base of 10 cm and a height of 5 cm. What is the area of this triangle?",
+        "options": [
+        "15 cm\u00b2",
+        "20 cm\u00b2",
+        "25 cm\u00b2",
+        "30 cm\u00b2"
+        ],
+        "answer": "20 cm\u00b2"
+    },
+    {
+        "id": 82,
+        "question": "Visualize two parallel lines intersected by a transversal, forming alternate interior angles. What is the relationship between these angles?",
+        "options": [
+        "Equal",
+        "Supplementary",
+        "Complementary",
+        "Adjacent"
+        ],
+        "answer": "Equal"
+    },
+    {
+        "id": 83,
+        "question": "Consider a rhombus with all sides equal and diagonals bisecting each other at right angles. Which of the following properties does not belong to the rhombus?",
+        "options": [
+        "All sides are equal",
+        "Opposite angles are equal",
+        "Diagonals bisect each other at right angles",
+        "All angles are right angles"
+        ],
+        "answer": "All angles are right angles"
+    },
+    {
+        "id": 84,
+        "question": "Visualize a quadrilateral with all interior angles adding up to 360 degrees. What type of quadrilateral is this?",
+        "options": [
+        "Square",
+        "Rectangle",
+        "Any quadrilateral",
+        "Trapezium"
+        ],
+        "answer": "Any quadrilateral"
+    },
+    {
+        "id": 85,
+        "question": "Imagine a rectangular prism with dimensions of 4 cm, 5 cm, and 6 cm. What is its volume?",
+        "options": [
+        "60 cm\u00b3",
+        "90 cm\u00b3",
+        "120 cm\u00b3",
+        "150 cm\u00b3"
+        ],
+        "answer": "120 cm\u00b3"
+    },
+    {
+        "id": 86,
+        "question": "Visualize a triangle with one angle measuring more than 90 degrees. What type of triangle is this?",
+        "options": [
+        "Acute triangle",
+        "Right triangle",
+        "Obtuse triangle",
+        "Equilateral triangle"
+        ],
+        "answer": "Obtuse triangle"
+    },
+    {
+        "id": 87,
+        "question": "Consider a triangle with side lengths of 6 cm, 8 cm, and 10 cm. What type of triangle is this?",
+        "options": [
+        "Acute triangle",
+        "Right triangle",
+        "Obtuse triangle",
+        "Isosceles triangle"
+        ],
+        "answer": "Right triangle"
+    },
+    {
+        "id": 88,
+        "question": "Visualize a rectangle with a length of 10 cm and a width of 5 cm. What is its area?",
+        "options": [
+        "15 cm\u00b2",
+        "25 cm\u00b2",
+        "50 cm\u00b2",
+        "75 cm\u00b2"
+        ],
+        "answer": "50 cm\u00b2"
+    },
+    {
+        "id": 89,
+        "question": "Imagine a regular pentagon. What is the measure of each interior angle?",
+        "options": [
+        "90 degrees",
+        "108 degrees",
+        "120 degrees",
+        "135 degrees"
+        ],
+        "answer": "108 degrees"
+    },
+    {
+        "id": 90,
+        "question": "Consider an isosceles triangle with two equal sides and two equal angles. What is the measure of the third angle if the two equal angles measure 70 degrees each?",
+        "options": [
+        "40 degrees",
+        "60 degrees",
+        "80 degrees",
+        "100 degrees"
+        ],
+        "answer": "40 degrees"
+    },
+    {
+        "id": 91,
+        "question": "Visualize a rectangular prism with dimensions of 3 cm, 4 cm, and 5 cm. What is its surface area?",
+        "options": [
+        "52 cm\u00b2",
+        "76 cm\u00b2",
+        "94 cm\u00b2",
+        "100 cm\u00b2"
+        ],
+        "answer": "94 cm\u00b2"
+    },
+    {
+        "id": 92,
+        "question": "Consider a parallelogram. Which of the following properties is always true?",
+        "options": [
+        "Opposite sides are not equal",
+        "Opposite angles are not equal",
+        "Diagonals bisect each other",
+        "All angles are right angles"
+        ],
+        "answer": "Diagonals bisect each other"
+    },
+    {
+        "id": 93,
+        "question": "Imagine a triangle with angles measuring 50 degrees and 70 degrees. What is the measure of the third angle?",
+        "options": [
+        "50 degrees",
+        "60 degrees",
+        "70 degrees",
+        "80 degrees"
+        ],
+        "answer": "60 degrees"
+    },
+    {
+        "id": 94,
+        "question": "Visualize a quadrilateral with all sides equal and opposite angles equal. What type of quadrilateral is this?",
+        "options": [
+        "Square",
+        "Rectangle",
+        "Parallelogram",
+        "Rhombus"
+        ],
+        "answer": "Rhombus"
+    },
+    {
+        "id": 95,
+        "question": "Consider a rectangular prism. How many faces does it have?",
+        "options": [
+        "4",
+        "6",
+        "8",
+        "10"
+        ],
+        "answer": "6"
+    },
+    {
+        "id": 96,
+        "question": "Visualize a trapezium with bases of 7 cm and 9 cm, and a height of 6 cm. What is its area?",
+        "options": [
+        "24 cm\u00b2",
+        "32 cm\u00b2",
+        "48 cm\u00b2",
+        "54 cm\u00b2"
+        ],
+        "answer": "48 cm\u00b2"
+    },
+    {
+        "id": 97,
+        "question": "Consider a frequency table where the number of occurrences of each data point is represented. What is this number called?",
+        "options": [
+        "Tally",
+        "Interval",
+        "Frequency",
+        "Class"
+        ],
+        "answer": "Frequency"
+    },
+    {
+        "id": 98,
+        "question": "Imagine a pie chart representing data. What type of graph is this?",
+        "options": [
+        "Bar graph",
+        "Line graph",
+        "Pie chart",
+        "Histogram"
+        ],
+        "answer": "Pie chart"
+    },
+    {
+        "id": 99,
+        "question": "Which graph is best suited for representing parts of a whole?",
+        "options": [
+        "Bar graph",
+        "Line graph",
+        "Pie chart",
+        "Histogram"
+        ],
+        "answer": "Pie chart"
+    },
+    {
+        "id": 100,
+        "question": "Visualize a triangle with a base of 12 cm and a height of 6 cm. What is its area?",
+        "options": [
+        "18 cm\u00b2",
+        "24 cm\u00b2",
+        "36 cm\u00b2",
+        "72 cm\u00b2"
+        ],
+        "answer": "36 cm\u00b2"
+    }      
+]

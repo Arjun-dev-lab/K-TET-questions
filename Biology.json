@@ -1,0 +1,980 @@
+[
+    
+    
+  {
+    "id": 1,
+    "question": "Which of the following is the first step in seed germination?",
+    "options": [
+      "Growth of the radicle",
+      "Seed coat rupture",
+      "Absorption of water",
+      "Growth of the plumule"
+    ],
+    "answer": "Absorption of water"
+  },
+  {
+    "id": 2,
+    "question": "Which adaptation helps desert plants conserve water?",
+    "options": [
+      "Broad leaves",
+      "Deep roots",
+      "Thin stems",
+      "Wide leaves"
+    ],
+    "answer": "Deep roots"
+  },
+  {
+    "id": 3,
+    "question": "Which of the following is an example of biological pest control?",
+    "options": [
+      "Use of insecticides",
+      "Use of pesticides",
+      "Use of natural predators",
+      "Use of herbicides"
+    ],
+    "answer": "Use of natural predators"
+  },
+  {
+    "id": 4,
+    "question": "The basic unit of life is:",
+    "options": [
+      "Atom",
+      "Molecule",
+      "Cell",
+      "Tissue"
+    ],
+    "answer": "Cell"
+  },
+  {
+    "id": 5,
+    "question": "Which organelle is known as the powerhouse of the cell?",
+    "options": [
+      "Nucleus",
+      "Mitochondria",
+      "Ribosome",
+      "Golgi apparatus"
+    ],
+    "answer": "Mitochondria"
+  },
+  {
+    "id": 6,
+    "question": "Which of the following is a type of connective tissue?",
+    "options": [
+      "Muscle",
+      "Nervous",
+      "Blood",
+      "Epithelial"
+    ],
+    "answer": "Blood"
+  },
+  {
+    "id": 7,
+    "question": "Which organ system is responsible for transporting nutrients and oxygen to cells?",
+    "options": [
+      "Digestive system",
+      "Respiratory system",
+      "Circulatory system",
+      "Excretory system"
+    ],
+    "answer": "Circulatory system"
+  },
+  {
+    "id": 8,
+    "question": "Which level of organization includes groups of tissues working together to perform a specific function?",
+    "options": [
+      "Cell",
+      "Tissue",
+      "Organ",
+      "Organ system"
+    ],
+    "answer": "Organ"
+  },
+  {
+    "id": 9,
+    "question": "Bacteria, viruses, fungi, and protozoa are collectively known as:",
+    "options": [
+      "Microorganisms",
+      "Antibiotics",
+      "Vaccines",
+      "Antigens"
+    ],
+    "answer": "Microorganisms"
+  },
+  {
+    "id": 10,
+    "question": "Which of the following is a mode of disease transmission?",
+    "options": [
+      "Direct contact",
+      "Ingestion of contaminated food",
+      "Inhalation of airborne pathogens",
+      "All of the above"
+    ],
+    "answer": "All of the above"
+  },
+  {
+    "id": 11,
+    "question": "Which of the following is a common preventive measure against infectious diseases?",
+    "options": [
+      "Vaccination",
+      "Smoking",
+      "Eating junk food",
+      "Overuse of antibiotics"
+    ],
+    "answer": "Vaccination"
+  },
+  {
+    "id": 12,
+    "question": "Which of the following is not a type of pollution?",
+    "options": [
+      "Air pollution",
+      "Water pollution",
+      "Light pollution",
+      "Food pollution"
+    ],
+    "answer": "Food pollution"
+  },
+  {
+    "id": 13,
+    "question": "Which of the following is a non-biodegradable pollutant?",
+    "options": [
+      "Paper",
+      "Plastic",
+      "Food waste",
+      "Cotton"
+    ],
+    "answer": "Plastic"
+  },
+  {
+    "id": 14,
+    "question": "What is one major problem caused by plastic waste in the environment?",
+    "options": [
+      "It decomposes quickly",
+      "It is easily recyclable",
+      "It causes harm to wildlife",
+      "It improves soil fertility"
+    ],
+    "answer": "It causes harm to wildlife"
+  },
+  {
+    "id": 15,
+    "question": "What is the process of a seedling emerging from the seed called?",
+    "options": [
+      "Photosynthesis",
+      "Germination",
+      "Pollination",
+      "Fermentation"
+    ],
+    "answer": "Germination"
+  },
+  {
+    "id": 16,
+    "question": "Which plant adaptation is primarily seen in aquatic plants?",
+    "options": [
+      "Deep roots",
+      "Floating leaves",
+      "Thick bark",
+      "Needle-like leaves"
+    ],
+    "answer": "Floating leaves"
+  },
+  {
+    "id": 17,
+    "question": "What is the main advantage of using biological pest control over chemical pest control?",
+    "options": [
+      "It is faster",
+      "It is less costly",
+      "It is environmentally friendly",
+      "It requires less effort"
+    ],
+    "answer": "It is environmentally friendly"
+  },
+  {
+    "id": 18,
+    "question": "Which cell organelle is involved in protein synthesis?",
+    "options": [
+      "Nucleus",
+      "Endoplasmic reticulum",
+      "Mitochondria",
+      "Lysosome"
+    ],
+    "answer": "Endoplasmic reticulum"
+  },
+  {
+    "id": 19,
+    "question": "Which organelle is responsible for cellular respiration?",
+    "options": [
+      "Chloroplast",
+      "Nucleus",
+      "Mitochondria",
+      "Ribosome"
+    ],
+    "answer": "Mitochondria"
+  },
+  {
+    "id": 20,
+    "question": "Which type of tissue covers body surfaces and lines body cavities?",
+    "options": [
+      "Connective",
+      "Epithelial",
+      "Nervous",
+      "Muscle"
+    ],
+    "answer": "Epithelial"
+  },
+  {
+    "id": 21,
+    "question": "Which organ system controls and coordinates body activities?",
+    "options": [
+      "Digestive system",
+      "Respiratory system",
+      "Nervous system",
+      "Circulatory system"
+    ],
+    "answer": "Nervous system"
+  },
+  {
+    "id": 22,
+    "question": "Which level of organization is the most complex?",
+    "options": [
+      "Cell",
+      "Tissue",
+      "Organ",
+      "Organ system"
+    ],
+    "answer": "Organ system"
+  },
+  {
+    "id": 23,
+    "question": "Which microorganism is used in the production of bread and alcohol?",
+    "options": [
+      "Bacteria",
+      "Virus",
+      "Fungus",
+      "Protozoa"
+    ],
+    "answer": "Fungus"
+  },
+  {
+    "id": 24,
+    "question": "Which disease is transmitted by mosquitoes?",
+    "options": [
+      "Malaria",
+      "Cholera",
+      "Tuberculosis",
+      "Measles"
+    ],
+    "answer": "Malaria"
+  },
+  {
+    "id": 25,
+    "question": "Which of the following practices helps in preventing the spread of diseases?",
+    "options": [
+      "Regular handwashing",
+      "Sharing personal items",
+      "Overuse of antibiotics",
+      "Ignoring symptoms"
+    ],
+    "answer": "Regular handwashing"
+  },
+  {
+    "id": 26,
+    "question": "Which part of the seed grows into the root?",
+    "options": [
+      "Radicle",
+      "Plumule",
+      "Cotyledon",
+      "Seed coat"
+    ],
+    "answer": "Radicle"
+  },
+  {
+    "id": 27,
+    "question": "What is the term for the process in which seeds begin to grow and develop into new plants?",
+    "options": [
+      "Photosynthesis",
+      "Germination",
+      "Fertilization",
+      "Pollination"
+    ],
+    "answer": "Germination"
+  },
+  {
+    "id": 28,
+    "question": "Which adaptation is characteristic of plants in wetland environments?",
+    "options": [
+      "Thick cuticles",
+      "Stomata on upper leaf surface",
+      "Deep roots",
+      "Needle-like leaves"
+    ],
+    "answer": "Stomata on upper leaf surface"
+  },
+  {
+    "id": 29,
+    "question": "Which method is commonly used in chemical pest control?",
+    "options": [
+      "Introducing natural predators",
+      "Using insecticides",
+      "Employing crop rotation",
+      "Applying organic mulch"
+    ],
+    "answer": "Using insecticides"
+  },
+  {
+    "id": 30,
+    "question": "Which organelle is responsible for photosynthesis in plant cells?",
+    "options": [
+      "Mitochondria",
+      "Chloroplast",
+      "Ribosome",
+      "Nucleus"
+    ],
+    "answer": "Chloroplast"
+  },
+  {
+    "id": 31,
+    "question": "Which of the following is an example of epithelial tissue?",
+    "options": [
+      "Blood",
+      "Skin",
+      "Bone",
+      "Muscle"
+    ],
+    "answer": "Skin"
+  },
+  {
+    "id": 32,
+    "question": "What is the primary function of the respiratory system?",
+    "options": [
+      "Digestion of food",
+      "Circulation of blood",
+      "Exchange of gases",
+      "Excretion of waste"
+    ],
+    "answer": "Exchange of gases"
+  },
+  {
+    "id": 33,
+    "question": "In which level of organization do similar cells work together to perform a specific function?",
+    "options": [
+      "Organ system",
+      "Organ",
+      "Tissue",
+      "Cell"
+    ],
+    "answer": "Tissue"
+  },
+  {
+    "id": 34,
+    "question": "What type of microorganism is known for causing the common cold?",
+    "options": [
+      "Bacteria",
+      "Fungi",
+      "Virus",
+      "Protozoa"
+    ],
+    "answer": "Virus"
+  },
+  {
+    "id": 35,
+    "question": "Which of the following diseases is transmitted through contaminated water?",
+    "options": [
+      "Malaria",
+      "Cholera",
+      "Tuberculosis",
+      "Influenza"
+    ],
+    "answer": "Cholera"
+  },
+  {
+    "id": 36,
+    "question": "Which measure is most effective in preventing the spread of infectious diseases?",
+    "options": [
+      "Regular exercise",
+      "Vaccination",
+      "High-fat diet",
+      "Smoking"
+    ],
+    "answer": "Vaccination"
+  },
+  {
+    "id": 37,
+    "question": "What type of pollution is caused by excessive noise?",
+    "options": [
+      "Air pollution",
+      "Water pollution",
+      "Light pollution",
+      "Noise pollution"
+    ],
+    "answer": "Noise pollution"
+  },
+  {
+    "id": 38,
+    "question": "Which of the following materials is biodegradable?",
+    "options": [
+      "Plastic",
+      "Glass",
+      "Paper",
+      "Metal"
+    ],
+    "answer": "Paper"
+  },
+  {
+    "id": 39,
+    "question": "What is the primary source of plastic waste in the environment?",
+    "options": [
+      "Organic farming",
+      "Industrial emissions",
+      "Single-use plastic products",
+      "Composting"
+    ],
+    "answer": "Single-use plastic products"
+  },
+  {
+    "id": 40,
+    "question": "Which hormone is essential for the process of germination?",
+    "options": [
+      "Insulin",
+      "Adrenaline",
+      "Gibberellin",
+      "Thyroxine"
+    ],
+    "answer": "Gibberellin"
+  },
+  {
+    "id": 41,
+    "question": "Which plant adaptation helps to reduce water loss in arid environments?",
+    "options": [
+      "Wide leaves",
+      "Shallow roots",
+      "Thick cuticles",
+      "Soft stems"
+    ],
+    "answer": "Thick cuticles"
+  },
+  {
+    "id": 42,
+    "question": "What is the main purpose of using pesticides in agriculture?",
+    "options": [
+      "Promote plant growth",
+      "Control pest population",
+      "Enhance soil fertility",
+      "Increase water retention"
+    ],
+    "answer": "Control pest population"
+  },
+  {
+    "id": 43,
+    "question": "Which cell organelle is known as the 'control center' of the cell?",
+    "options": [
+      "Lysosome",
+      "Endoplasmic reticulum",
+      "Nucleus",
+      "Golgi apparatus"
+    ],
+    "answer": "Nucleus"
+  },
+  {
+    "id": 44,
+    "question": "Which tissue type is specialized for contraction and movement?",
+    "options": [
+      "Epithelial",
+      "Connective",
+      "Nervous",
+      "Muscle"
+    ],
+    "answer": "Muscle"
+  },
+  {
+    "id": 45,
+    "question": "Which organ system includes the heart and blood vessels?",
+    "options": [
+      "Respiratory system",
+      "Nervous system",
+      "Circulatory system",
+      "Digestive system"
+    ],
+    "answer": "Circulatory system"
+  },
+  {
+    "id": 46,
+    "question": "What is the role of ribosomes in the cell?",
+    "options": [
+      "Energy production",
+      "Protein synthesis",
+      "DNA replication",
+      "Waste disposal"
+    ],
+    "answer": "Protein synthesis"
+  },
+  {
+    "id": 47,
+    "question": "Which microorganism is used in the fermentation process to make yogurt?",
+    "options": [
+      "Virus",
+      "Bacteria",
+      "Fungus",
+      "Algae"
+    ],
+    "answer": "Bacteria"
+  },
+  {
+    "id": 48,
+    "question": "Which of the following is a vector-borne disease?",
+    "options": [
+      "Malaria",
+      "Diabetes",
+      "Hypertension",
+      "Asthma"
+    ],
+    "answer": "Malaria"
+  },
+  {
+    "id": 49,
+    "question": "Which measure is part of good hygiene practices to prevent disease?",
+    "options": [
+      "Sharing utensils",
+      "Regular handwashing",
+      "Overuse of antibiotics",
+      "Touching face frequently"
+    ],
+    "answer": "Regular handwashing"
+  },
+  {
+    "id": 50,
+    "question": "Which of the following pollutants is most harmful to marine life?",
+    "options": [
+      "Oil spills",
+      "Noise pollution",
+      "Light pollution",
+      "Air pollution"
+    ],
+    "answer": "Oil spills"
+  },
+  {
+    "id": 51,
+    "question": "What is the primary function of the heart?",
+    "options": [
+      "To pump blood",
+      "To produce lymph",
+      "To aid in digestion",
+      "To filter blood"
+    ],
+    "answer": "To pump blood"
+  },
+  {
+    "id": 52,
+    "question": "Which vessels carry blood away from the heart?",
+    "options": [
+      "Veins",
+      "Capillaries",
+      "Arteries",
+      "Lymphatics"
+    ],
+    "answer": "Arteries"
+  },
+  {
+    "id": 53,
+    "question": "What process involves the movement of water across a semi-permeable membrane?",
+    "options": [
+      "Diffusion",
+      "Active transport",
+      "Osmosis",
+      "Filtration"
+    ],
+    "answer": "Osmosis"
+  },
+  {
+    "id": 54,
+    "question": "Which type of transport requires energy?",
+    "options": [
+      "Passive transport",
+      "Osmosis",
+      "Active transport",
+      "Diffusion"
+    ],
+    "answer": "Active transport"
+  },
+  {
+    "id": 55,
+    "question": "Which organ is primarily responsible for filtering blood to form urine?",
+    "options": [
+      "Skin",
+      "Liver",
+      "Kidney",
+      "Spleen"
+    ],
+    "answer": "Kidney"
+  },
+  {
+    "id": 56,
+    "question": "Which excretory organ also plays a role in regulating body temperature?",
+    "options": [
+      "Liver",
+      "Skin",
+      "Lungs",
+      "Kidneys"
+    ],
+    "answer": "Skin"
+  },
+  {
+    "id": 57,
+    "question": "Which agent is NOT a common pollinator?",
+    "options": [
+      "Bees",
+      "Wind",
+      "Water",
+      "Rocks"
+    ],
+    "answer": "Rocks"
+  },
+  {
+    "id": 58,
+    "question": "Which type of fruit develops from a single ovary?",
+    "options": [
+      "Aggregate fruit",
+      "Multiple fruit",
+      "Simple fruit",
+      "Compound fruit"
+    ],
+    "answer": "Simple fruit"
+  },
+  {
+    "id": 59,
+    "question": "Which part of the digestive system is responsible for nutrient absorption?",
+    "options": [
+      "Stomach",
+      "Large intestine",
+      "Small intestine",
+      "Esophagus"
+    ],
+    "answer": "Small intestine"
+  },
+  {
+    "id": 60,
+    "question": "What term describes the addition of harmful substances to food?",
+    "options": [
+      "Food enrichment",
+      "Food adulteration",
+      "Food fortification",
+      "Food preservation"
+    ],
+    "answer": "Food adulteration"
+  },
+  {
+    "id": 61,
+    "question": "Which part of the brain is responsible for coordinating voluntary movements?",
+    "options": [
+      "Cerebrum",
+      "Brainstem",
+      "Cerebellum",
+      "Medulla oblongata"
+    ],
+    "answer": "Cerebellum"
+  },
+  {
+    "id": 62,
+    "question": "Which disorder affects the nervous system?",
+    "options": [
+      "Hypertension",
+      "Diabetes",
+      "Epilepsy",
+      "Arthritis"
+    ],
+    "answer": "Epilepsy"
+  },
+  {
+    "id": 63,
+    "question": "What type of joint is found in the shoulder and hip?",
+    "options": [
+      "Hinge joint",
+      "Ball and socket joint",
+      "Pivot joint",
+      "Gliding joint"
+    ],
+    "answer": "Ball and socket joint"
+  },
+  {
+    "id": 64,
+    "question": "Which first aid technique is used for someone who is choking?",
+    "options": [
+      "CPR",
+      "Heimlich maneuver",
+      "Defibrillation",
+      "Bandaging"
+    ],
+    "answer": "Heimlich maneuver"
+  },
+  {
+    "id": 65,
+    "question": "What process involves the conversion of nitrogen gas into a usable form for plants?",
+    "options": [
+      "Photosynthesis",
+      "Nitrogen fixation",
+      "Respiration",
+      "Transpiration"
+    ],
+    "answer": "Nitrogen fixation"
+  },
+  {
+    "id": 66,
+    "question": "Which method is NOT a form of vegetative propagation?",
+    "options": [
+      "Budding",
+      "Grafting",
+      "Layering",
+      "Pollination"
+    ],
+    "answer": "Pollination"
+  },
+  {
+    "id": 67,
+    "question": "Which farming practice involves growing different types of crops in succession on the same land?",
+    "options": [
+      "Monocropping",
+      "Crop rotation",
+      "Hydroponics",
+      "Aquaponics"
+    ],
+    "answer": "Crop rotation"
+  },
+  {
+    "id": 68,
+    "question": "What term describes the cultivation of fish?",
+    "options": [
+      "Pisciculture",
+      "Sericulture",
+      "Apiculture",
+      "Horticulture"
+    ],
+    "answer": "Pisciculture"
+  },
+  {
+    "id": 69,
+    "question": "Which fertilizer is made from living organisms?",
+    "options": [
+      "Chemical fertilizer",
+      "Bio fertilizer",
+      "Organic fertilizer",
+      "Inorganic fertilizer"
+    ],
+    "answer": "Bio fertilizer"
+  },
+  {
+    "id": 70,
+    "question": "Which disease is commonly controlled by fungicides?",
+    "options": [
+      "Viral infections",
+      "Bacterial infections",
+      "Fungal infections",
+      "Insect infestations"
+    ],
+    "answer": "Fungal infections"
+  },
+  {
+    "id": 71,
+    "question": "Who introduced the binomial nomenclature system?",
+    "options": [
+      "Aristotle",
+      "Charles Darwin",
+      "Carl Linnaeus",
+      "Gregor Mendel"
+    ],
+    "answer": "Carl Linnaeus"
+  },
+  {
+    "id": 72,
+    "question": "Which kingdom includes multicellular, photosynthetic organisms?",
+    "options": [
+      "Animalia",
+      "Fungi",
+      "Plantae",
+      "Protista"
+    ],
+    "answer": "Plantae"
+  },
+  {
+    "id": 73,
+    "question": "Which term describes a linear sequence of organisms where each is eaten by the next?",
+    "options": [
+      "Food web",
+      "Food chain",
+      "Food pyramid",
+      "Trophic level"
+    ],
+    "answer": "Food chain"
+  },
+  {
+    "id": 74,
+    "question": "What type of interaction occurs when one organism benefits while the other is neither helped nor harmed?",
+    "options": [
+      "Mutualism",
+      "Commensalism",
+      "Parasitism",
+      "Predation"
+    ],
+    "answer": "Commensalism"
+  },
+  {
+    "id": 75,
+    "question": "Which area is known for its high level of biodiversity and endemism?",
+    "options": [
+      "Biosphere reserve",
+      "National park",
+      "Hotspot",
+      "Zoological park"
+    ],
+    "answer": "Hotspot"
+  },
+  {
+    "id": 76,
+    "question": "Which organ system is responsible for transporting oxygen and nutrients throughout the body?",
+    "options": ["Nervous system", "Respiratory system", "Circulatory system", "Digestive system"],
+    "answer": "Circulatory system"
+  },
+  {
+    "id": 77,
+    "question": "What type of blood vessel carries blood back to the heart?",
+    "options": ["Arteries", "Veins", "Capillaries", "Lymph vessels"],
+    "answer": "Veins"
+  },
+  {
+    "id": 78,
+    "question": "Which process is involved in the exchange of gases in the lungs?",
+    "options": ["Diffusion", "Osmosis", "Active transport", "Endocytosis"],
+    "answer": "Diffusion"
+  },
+  {
+    "id": 79,
+    "question": "What term describes the semi-fluid substance inside a cell, excluding the nucleus?",
+    "options": ["Cytoplasm", "Mitochondria", "Golgi apparatus", "Lysosome"],
+    "answer": "Cytoplasm"
+  },
+  {
+    "id": 80,
+    "question": "Which organ is responsible for detoxifying chemicals and metabolizing drugs in the body?",
+    "options": ["Liver", "Kidney", "Spleen", "Pancreas"],
+    "answer": "Liver"
+  },
+  {
+    "id": 81,
+    "question": "What is the main function of the large intestine in the digestive system?",
+    "options": ["Absorb nutrients", "Absorb water and electrolytes", "Produce bile", "Digest proteins"],
+    "answer": "Absorb water and electrolytes"
+  },
+  {
+    "id": 82,
+    "question": "Which part of a flower is typically responsible for producing pollen?",
+    "options": ["Stigma", "Style", "Ovary", "Anther"],
+    "answer": "Anther"
+  },
+  {
+    "id": 83,
+    "question": "What type of symmetry do most animals in the phylum Arthropoda exhibit?",
+    "options": ["Radial symmetry", "Bilateral symmetry", "Asymmetry", "Spherical symmetry"],
+    "answer": "Bilateral symmetry"
+  },
+  {
+    "id": 84,
+    "question": "Which vitamin is essential for blood clotting?",
+    "options": ["Vitamin A", "Vitamin B12", "Vitamin K", "Vitamin D"],
+    "answer": "Vitamin K"
+  },
+  {
+    "id": 85,
+    "question": "What type of muscle is found in the walls of hollow organs, such as the intestines?",
+    "options": ["Skeletal muscle", "Cardiac muscle", "Smooth muscle", "Striated muscle"],
+    "answer": "Smooth muscle"
+  },
+  {
+    "id": 86,
+    "question": "Which hormone regulates blood sugar levels by facilitating the uptake of glucose into cells?",
+    "options": ["Insulin", "Glucagon", "Adrenaline", "Thyroxine"],
+    "answer": "Insulin"
+  },
+  {
+    "id": 87,
+    "question": "What is the structural unit of the nervous system?",
+    "options": ["Neuron", "Glial cell", "Axon", "Dendrite"],
+    "answer": "Neuron"
+  },
+  {
+    "id": 88,
+    "question": "Which condition is characterized by the loss of bone density and increased risk of fractures?",
+    "options": ["Arthritis", "Osteoporosis", "Scoliosis", "Rickets"],
+    "answer": "Osteoporosis"
+  },
+  {
+    "id": 89,
+    "question": "What technique is used to revive a person whose heart has stopped beating?",
+    "options": ["CPR (Cardiopulmonary resuscitation)", "Heimlich maneuver", "Defibrillation", "Tracheotomy"],
+    "answer": "CPR (Cardiopulmonary resuscitation)"
+  },
+  {
+    "id": 90,
+    "question": "Which process involves the use of green plants to convert sunlight into chemical energy?",
+    "options": ["Respiration", "Photosynthesis", "Transpiration", "Nitrogen fixation"],
+    "answer": "Photosynthesis"
+  },
+  {
+    "id": 91,
+    "question": "Which practice involves growing plants without soil, using mineral nutrient solutions?",
+    "options": ["Hydroponics", "Aquaponics", "Organic farming", "Crop rotation"],
+    "answer": "Hydroponics"
+  },
+  {
+    "id": 92,
+    "question": "What is the main purpose of crop rotation in agriculture?",
+    "options": ["Increase soil fertility", "Maximize crop yield", "Control pests and diseases", "All of the above"],
+    "answer": "All of the above"
+  },
+  {
+    "id": 93,
+    "question": "Which substance is often used as a bio fertilizer due to its nitrogen-fixing bacteria?",
+    "options": ["Rhizobium", "Bacillus", "E. coli", "Staphylococcus"],
+    "answer": "Rhizobium"
+  },
+  {
+    "id": 94,
+    "question": "Which stage of mitosis is characterized by the alignment of chromosomes along the cell's equatorial plane?",
+    "options": ["Prophase", "Metaphase", "Anaphase", "Telophase"],
+    "answer": "Metaphase"
+  },
+  {
+    "id": 95,
+    "question": "Which ecological term describes a group of interconnected food chains?",
+    "options": ["Food web", "Ecosystem", "Trophic level", "Biomass"],
+    "answer": "Food web"
+  },
+  {
+    "id": 96,
+    "question": "What type of conservation area is established to protect the natural habitat of endangered species?",
+    "options": ["Biosphere reserve", "National park", "Hotspot", "Gene bank"],
+    "answer": "National park"
+  },
+  {
+    "id": 97,
+    "question": "Which scientist is known for the theory of natural selection?",
+    "options": ["Charles Darwin", "Gregor Mendel", "Louis Pasteur", "Alfred Wallace"],
+    "answer": "Charles Darwin"
+  },
+  {
+    "id": 98,
+    "question": "What is the main role of decomposers in an ecosystem?",
+    "options": ["Produce energy", "Fix nitrogen", "Break down organic matter", "Compete for resources"],
+    "answer": "Break down organic matter"
+  },
+  {
+    "id": 99,
+    "question": "Which organelle is known as the 'powerhouse of the cell'?",
+    "options": ["Nucleus", "Mitochondria", "Ribosome", "Endoplasmic reticulum"],
+    "answer": "Mitochondria"
+  },
+  {
+    "id": 100,
+    "question": "What is the term for the smallest unit of a chemical element that retains its chemical properties?",
+    "options": ["Molecule", "Atom", "Ion", "Compound"],
+    "answer": "Atom"
+  }
+
+]

@@ -1,0 +1,1102 @@
+[
+    {
+        "id": 1,
+        "question": "What type of bond is formed by the sharing of electrons?",
+        "options": [
+            "Ionic bond",
+            "Covalent bond",
+            "Metallic bond",
+            "Hydrogen bond"
+        ],
+        "answer": "Covalent bond"
+    },
+    {
+        "id": 2,
+        "question": "Who proposed the atomic theory?",
+        "options": [
+            "Newton",
+            "Einstein",
+            "Dalton",
+            "Bohr"
+        ],
+        "answer": "Dalton"
+    },
+    {
+        "id": 3,
+        "question": "Which of the following pH values represents a strong acid?",
+        "options": [
+            "13",
+            "9",
+            "3",
+            "7"
+        ],
+        "answer": "3"
+    },
+    {
+        "id": 4,
+        "question": "What does the octet rule state?",
+        "options": [
+            "Atoms tend to gain, lose, or share electrons to achieve 8 electrons in their outer shell",
+            "Atoms always gain electrons",
+            "Atoms never lose electrons",
+            "Atoms have a maximum of 8 protons"
+        ],
+        "answer": "Atoms tend to gain, lose, or share electrons to achieve 8 electrons in their outer shell"
+    },
+    {
+        "id": 5,
+        "question": "What is valency?",
+        "options": [
+            "The energy required to remove an electron",
+            "The ability of an atom to attract electrons",
+            "The combining capacity of an atom",
+            "The energy released when an electron is added"
+        ],
+        "answer": "The combining capacity of an atom"
+    },
+    {
+        "id": 6,
+        "question": "Who proposed the planetary model of the atom?",
+        "options": [
+            "Dalton",
+            "Thomson",
+            "Rutherford",
+            "Bohr"
+        ],
+        "answer": "Bohr"
+    },
+    {
+        "id": 7,
+        "question": "Which property is NOT typical of metals?",
+        "options": [
+            "Malleability",
+            "Ductility",
+            "Brittleness",
+            "Conductivity"
+        ],
+        "answer": "Brittleness"
+    },
+    {
+        "id": 8,
+        "question": "Which method is commonly used to separate a soluble solid from a liquid?",
+        "options": [
+            "Filtration",
+            "Evaporation",
+            "Decantation",
+            "Distillation"
+        ],
+        "answer": "Evaporation"
+    },
+    {
+        "id": 9,
+        "question": "Who discovered the electron?",
+        "options": [
+            "Thomson",
+            "Dalton",
+            "Bohr",
+            "Rutherford"
+        ],
+        "answer": "Thomson"
+    },
+    {
+        "id": 10,
+        "question": "What is the smallest unit of an element?",
+        "options": [
+            "Molecule",
+            "Atom",
+            "Proton",
+            "Neutron"
+        ],
+        "answer": "Atom"
+    },
+    {
+        "id": 11,
+        "question": "What does the atomic number of an element represent?",
+        "options": [
+            "Number of neutrons",
+            "Number of protons",
+            "Number of electrons",
+            "Number of nucleons"
+        ],
+        "answer": "Number of protons"
+    },
+    {
+        "id": 12,
+        "question": "Which of the following is a harmful effect of chemical reactions on nature?",
+        "options": [
+            "Photosynthesis",
+            "Combustion",
+            "Evaporation",
+            "Condensation"
+        ],
+        "answer": "Combustion"
+    },
+    {
+        "id": 13,
+        "question": "What does atomicity refer to?",
+        "options": [
+            "Number of protons in an atom",
+            "Number of atoms in a molecule",
+            "Number of neutrons in an atom",
+            "Number of molecules in a compound"
+        ],
+        "answer": "Number of atoms in a molecule"
+    },
+    {
+        "id": 14,
+        "question": "What is a homogeneous mixture?",
+        "options": [
+            "A mixture with visibly different parts",
+            "A mixture with the same composition throughout",
+            "A mixture of two solids",
+            "A mixture of metals"
+        ],
+        "answer": "A mixture with the same composition throughout"
+    },
+    {
+        "id": 15,
+        "question": "What is formed when an acid reacts with a base?",
+        "options": [
+            "Water and Salt",
+            "Oxygen and Salt",
+            "Hydrogen and Water",
+            "Carbon dioxide and Water"
+        ],
+        "answer": "Water and Salt"
+    },
+    {
+        "id": 16,
+        "question": "Which state of matter has a definite shape and volume?",
+        "options": [
+            "Solid",
+            "Liquid",
+            "Gas",
+            "Plasma"
+        ],
+        "answer": "Solid"
+    },
+    {
+        "id": 17,
+        "question": "Which gas is produced when acids react with carbonates?",
+        "options": [
+            "Oxygen",
+            "Hydrogen",
+            "Carbon dioxide",
+            "Nitrogen"
+        ],
+        "answer": "Carbon dioxide"
+    },
+    {
+        "id": 18,
+        "question": "What is an ion?",
+        "options": [
+            "A neutral atom",
+            "An atom with more protons than electrons",
+            "An atom with more electrons than protons",
+            "An atom or molecule with a net electric charge due to the loss or gain of one or more electrons"
+        ],
+        "answer": "An atom or molecule with a net electric charge due to the loss or gain of one or more electrons"
+    },
+    {
+        "id": 19,
+        "question": "Which of the following is a chemical reaction observed in everyday life?",
+        "options": [
+            "Dissolving sugar in water",
+            "Boiling of water",
+            "Rusting of iron",
+            "Melting of ice"
+        ],
+        "answer": "Rusting of iron"
+    },
+    {
+        "id": 20,
+        "question": "Which of the following methods is used to prevent corrosion?",
+        "options": [
+            "Galvanization",
+            "Fermentation",
+            "Sublimation",
+            "Distillation"
+        ],
+        "answer": "Galvanization"
+    },
+    {
+        "id": 21,
+        "question": "What is the symbol for Sodium?",
+        "options": [
+            "S",
+            "Na",
+            "K",
+            "Cl"
+        ],
+        "answer": "Na"
+    },
+    {
+        "id": 22,
+        "question": "What is the pH of a neutral solution?",
+        "options": [
+            "7",
+            "1",
+            "14",
+            "0"
+        ],
+        "answer": "7"
+    },
+    {
+        "id": 23,
+        "question": "Which of the following is a pure substance?",
+        "options": [
+            "Milk",
+            "Salt water",
+            "Oxygen gas",
+            "Blood"
+        ],
+        "answer": "Oxygen gas"
+    },
+    {
+        "id": 24,
+        "question": "What is the symbol for gold?",
+        "options": [
+            "Au",
+            "Ag",
+            "Fe",
+            "Pb"
+        ],
+        "answer": "Au"
+    },
+    {
+        "id": 25,
+        "question": "What is the basic unit of a chemical element?",
+        "options": [
+            "Molecule",
+            "Atom",
+            "Compound",
+            "Mixture"
+        ],
+        "answer": "Atom"
+    },
+    {
+        "id": 26,
+        "question": "Which of the following is a chemical property of water?",
+        "options": [
+            "Boiling point",
+            "Density",
+            "Reactivity",
+            "Melting point"
+        ],
+        "answer": "Reactivity"
+    },
+    {
+        "id": 27,
+        "question": "What is the formula for calculating pH?",
+        "options": [
+            "-log[H⁺]",
+            "log[H⁺]",
+            "-log[OH⁻]",
+            "log[OH⁻]"
+        ],
+        "answer": "-log[H⁺]"
+    },
+    {
+        "id": 28,
+        "question": "What is the atomic number of carbon?",
+        "options": [
+            "6",
+            "12",
+            "14",
+            "16"
+        ],
+        "answer": "6"
+    },
+    {
+        "id": 29,
+        "question": "Which method is commonly used to separate two immiscible liquids?",
+        "options": [
+            "Filtration",
+            "Distillation",
+            "Separating funnel",
+            "Crystallization"
+        ],
+        "answer": "Separating funnel"
+    },
+    {
+        "id": 30,
+        "question": "Which gas is liberated when metals react with acids?",
+        "options": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Nitrogen",
+            "Hydrogen"
+        ],
+        "answer": "Hydrogen"
+    },
+    {
+        "id": 31,
+        "question": "What is the common name for sodium chloride?",
+        "options": [
+            "Baking soda",
+            "Table salt",
+            "Epsom salt",
+            "Vinegar"
+        ],
+        "answer": "Table salt"
+    },
+    {
+        "id": 32,
+        "question": "What do you call a reaction that absorbs energy from its surroundings?",
+        "options": [
+            "Exothermic",
+            "Endothermic",
+            "Isothermal",
+            "Adiabatic"
+        ],
+        "answer": "Endothermic"
+    },
+    {
+        "id": 33,
+        "question": "Which substance is often used to test for the presence of carbon dioxide?",
+        "options": [
+            "Limewater",
+            "Litmus paper",
+            "Phenolphthalein",
+            "Bromine water"
+        ],
+        "answer": "Limewater"
+    },
+    {
+        "id": 34,
+        "question": "Who developed the first periodic table?",
+        "options": [
+            "Dalton",
+            "Mendeleev",
+            "Rutherford",
+            "Bohr"
+        ],
+        "answer": "Mendeleev"
+    },
+    {
+        "id": 35,
+        "question": "What is the molecular formula for methane?",
+        "options": [
+            "CH",
+            "CH₂",
+            "CH₃",
+            "CH₄"
+        ],
+        "answer": "CH₄"
+    },
+    {
+        "id": 36,
+        "question": "Which type of bond involves the transfer of electrons?",
+        "options": [
+            "Covalent bond",
+            "Ionic bond",
+            "Metallic bond",
+            "Hydrogen bond"
+        ],
+        "answer": "Ionic bond"
+    },
+    {
+        "id": 37,
+        "question": "What does the term 'catalyst' refer to in a chemical reaction?",
+        "options": [
+            "A substance that slows down the reaction",
+            "A substance that speeds up the reaction without being consumed",
+            "A product of the reaction",
+            "A reactant in the reaction"
+        ],
+        "answer": "A substance that speeds up the reaction without being consumed"
+    },
+    {
+        "id": 38,
+        "question": "What is the charge on a proton?",
+        "options": [
+            "Neutral",
+            "Positive",
+            "Negative",
+            "No charge"
+        ],
+        "answer": "Positive"
+    },
+    {
+        "id": 39,
+        "question": "What does the pH scale measure?",
+        "options": [
+            "Concentration of water",
+            "Concentration of hydrogen ions",
+            "Concentration of salt",
+            "Concentration of oxygen ions"
+        ],
+        "answer": "Concentration of hydrogen ions"
+    },
+    {
+        "id": 40,
+        "question": "What is the symbol for the element Iron?",
+        "options": [
+            "Ir",
+            "Fe",
+            "I",
+            "In"
+        ],
+        "answer": "Fe"
+    },
+    {
+        "id": 41,
+        "question": "Which process is used for extracting metals from their ores?",
+        "options": [
+            "Photosynthesis",
+            "Electrolysis",
+            "Digestion",
+            "Distillation"
+        ],
+        "answer": "Electrolysis"
+    },
+    {
+        "id": 42,
+        "question": "What is a molecule consisting of two identical atoms called?",
+        "options": [
+            "Monatomic molecule",
+            "Diatomic molecule",
+            "Triatomic molecule",
+            "Polyatomic molecule"
+        ],
+        "answer": "Diatomic molecule"
+    },
+    {
+        "id": 43,
+        "question": "Which of the following elements is a noble gas?",
+        "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Helium",
+            "Hydrogen"
+        ],
+        "answer": "Helium"
+    },
+    {
+        "id": 44,
+        "question": "Which substance is a common indicator used in acid-base titrations?",
+        "options": [
+            "Ethanol",
+            "Phenolphthalein",
+            "Sodium chloride",
+            "Sulfuric acid"
+        ],
+        "answer": "Phenolphthalein"
+    },
+    {
+        "id": 45,
+        "question": "What is the chemical formula for water?",
+        "options": [
+            "H₂O",
+            "O₂H",
+            "HO₂",
+            "H₂O₂"
+        ],
+        "answer": "H₂O"
+    },
+    {
+        "id": 46,
+        "question": "Which element has the highest electronegativity?",
+        "options": [
+            "Oxygen",
+            "Fluorine",
+            "Nitrogen",
+            "Chlorine"
+        ],
+        "answer": "Fluorine"
+    },
+    {
+        "id": 47,
+        "question": "What is the product when hydrogen peroxide decomposes?",
+        "options": [
+            "Water and oxygen",
+            "Hydrogen and oxygen",
+            "Water and hydrogen",
+            "Hydrogen and ozone"
+        ],
+        "answer": "Water and oxygen"
+    },
+    {
+        "id": 48,
+        "question": "What is the main component of natural gas?",
+        "options": [
+            "Ethane",
+            "Propane",
+            "Butane",
+            "Methane"
+        ],
+        "answer": "Methane"
+    },
+    {
+        "id": 49,
+        "question": "Which law states that mass cannot be created or destroyed in a chemical reaction?",
+        "options": [
+            "Law of Multiple Proportions",
+            "Law of Definite Proportions",
+            "Law of Conservation of Mass",
+            "Law of Reciprocal Proportions"
+        ],
+        "answer": "Law of Conservation of Mass"
+    },
+    {
+        "id": 50,
+        "question": "What is the common use of hydrochloric acid in daily life?",
+        "options": [
+            "Cleaning agent",
+            "Cooking ingredient",
+            "Preservative",
+            "Antiseptic"
+        ],
+        "answer": "Cleaning agent"
+    },
+    {
+        "id": 51,
+        "question": "What is the main component of limestone?",
+        "options": [
+            "Calcium carbonate",
+            "Sodium chloride",
+            "Potassium sulfate",
+            "Magnesium oxide"
+        ],
+        "answer": "Calcium carbonate"
+    },
+    {
+        "id": 52,
+        "question": "Which element is known as the 'king of chemicals'?",
+        "options": [
+            "Sodium",
+            "Sulfur",
+            "Carbon",
+            "Hydrogen"
+        ],
+        "answer": "Sulfur"
+    },
+    {
+        "id": 53,
+        "question": "What is the term for a substance that speeds up a chemical reaction?",
+        "options": [
+            "Inhibitor",
+            "Catalyst",
+            "Reactant",
+            "Product"
+        ],
+        "answer": "Catalyst"
+    },
+    {
+        "id": 54,
+        "question": "Which metal is the best conductor of electricity?",
+        "options": [
+            "Copper",
+            "Aluminum",
+            "Gold",
+            "Silver"
+        ],
+        "answer": "Silver"
+    },
+    {
+        "id": 55,
+        "question": "Which gas is used in the process of photosynthesis?",
+        "options": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Nitrogen",
+            "Hydrogen"
+        ],
+        "answer": "Carbon dioxide"
+    },
+    {
+        "id": 56,
+        "question": "Which acid is present in vinegar?",
+        "options": [
+            "Hydrochloric acid",
+            "Acetic acid",
+            "Sulfuric acid",
+            "Nitric acid"
+        ],
+        "answer": "Acetic acid"
+    },
+    {
+        "id": 57,
+        "question": "What is the chemical formula for table sugar (sucrose)?",
+        "options": [
+            "C₆H₁₂O₆",
+            "C₁₂H₂₂O₁₁",
+            "C₂H₆O",
+            "C₁₀H₁₄O"
+        ],
+        "answer": "C₁₂H₂₂O₁₁"
+    },
+    {
+        "id": 58,
+        "question": "Which of the following is an alkali metal?",
+        "options": [
+            "Magnesium",
+            "Calcium",
+            "Sodium",
+            "Iron"
+        ],
+        "answer": "Sodium"
+    },
+    {
+        "id": 59,
+        "question": "Which property is used to separate mixtures by chromatography?",
+        "options": [
+            "Density",
+            "Solubility",
+            "Melting point",
+            "Boiling point"
+        ],
+        "answer": "Solubility"
+    },
+    {
+        "id": 60,
+        "question": "What is the molecular formula for ethanol?",
+        "options": [
+            "CH₃OH",
+            "C₂H₄OH",
+            "C₂H₅OH",
+            "C₂H₆OH"
+        ],
+        "answer": "C₂H₅OH"
+    },
+    {
+        "id": 61,
+        "question": "Which element is the most abundant in the Earth's crust?",
+        "options": [
+            "Iron",
+            "Oxygen",
+            "Silicon",
+            "Aluminum"
+        ],
+        "answer": "Oxygen"
+    },
+    {
+        "id": 62,
+        "question": "Which of the following is a non-metallic element?",
+        "options": [
+            "Zinc",
+            "Copper",
+            "Carbon",
+            "Iron"
+        ],
+        "answer": "Carbon"
+    },
+    {
+        "id": 63,
+        "question": "What is the chemical name for baking soda?",
+        "options": [
+            "Sodium chloride",
+            "Sodium bicarbonate",
+            "Sodium carbonate",
+            "Sodium hydroxide"
+        ],
+        "answer": "Sodium bicarbonate"
+    },
+    {
+        "id": 64,
+        "question": "What type of reaction involves the exchange of ions between two compounds?",
+        "options": [
+            "Synthesis",
+            "Decomposition",
+            "Single displacement",
+            "Double displacement"
+        ],
+        "answer": "Double displacement"
+    },
+    {
+        "id": 65,
+        "question": "Which element is used as a catalyst in the Haber process for ammonia production?",
+        "options": [
+            "Iron",
+            "Platinum",
+            "Nickel",
+            "Copper"
+        ],
+        "answer": "Iron"
+    },
+    {
+        "id": 66,
+        "question": "Which gas is commonly known as 'laughing gas'?",
+        "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Nitrous oxide",
+            "Carbon monoxide"
+        ],
+        "answer": "Nitrous oxide"
+    },
+    {
+        "id": 67,
+        "question": "What is the pH of pure water at 25°C?",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "answer": "7"
+    },
+    {
+        "id": 68,
+        "question": "Which of the following is a noble gas?",
+        "options": [
+            "Oxygen",
+            "Nitrogen",
+            "Neon",
+            "Hydrogen"
+        ],
+        "answer": "Neon"
+    },
+    {
+        "id": 69,
+        "question": "Which process is used to separate crude oil into its components?",
+        "options": [
+            "Filtration",
+            "Crystallization",
+            "Fractional distillation",
+            "Sublimation"
+        ],
+        "answer": "Fractional distillation"
+    },
+    {
+        "id": 70,
+        "question": "What is the chemical formula for rust?",
+        "options": [
+            "FeO",
+            "Fe₂O₃",
+            "Fe₃O₄",
+            "Fe(OH)₃"
+        ],
+        "answer": "Fe₂O₃"
+    },
+    {
+        "id": 71,
+        "question": "Which chemical element has the symbol 'K'?",
+        "options": [
+            "Calcium",
+            "Potassium",
+            "Carbon",
+            "Krypton"
+        ],
+        "answer": "Potassium"
+    },
+    {
+        "id": 72,
+        "question": "What type of chemical reaction is represented by the equation A + B → AB?",
+        "options": [
+            "Synthesis",
+            "Decomposition",
+            "Combustion",
+            "Neutralization"
+        ],
+        "answer": "Synthesis"
+    },
+    {
+        "id": 73,
+        "question": "Which substance is used as a standard in pH measurements?",
+        "options": [
+            "Hydrochloric acid",
+            "Sodium hydroxide",
+            "Distilled water",
+            "Vinegar"
+        ],
+        "answer": "Distilled water"
+    },
+    {
+        "id": 74,
+        "question": "What is the chemical symbol for lead?",
+        "options": [
+            "Pb",
+            "Ld",
+            "P",
+            "Le"
+        ],
+        "answer": "Pb"
+    },
+    {
+        "id": 75,
+        "question": "Which chemical process is used to extract aluminum from bauxite ore?",
+        "options": [
+            "Electrolysis",
+            "Fractional distillation",
+            "Filtration",
+            "Decantation"
+        ],
+        "answer": "Electrolysis"
+    },
+    {
+        "id": 76,
+        "question": "What is the chemical name for quicklime?",
+        "options": [
+            "Calcium oxide",
+            "Calcium carbonate",
+            "Calcium hydroxide",
+            "Calcium sulfate"
+        ],
+        "answer": "Calcium oxide"
+    },
+    {
+        "id": 77,
+        "question": "Which element is commonly used in batteries?",
+        "options": [
+            "Sodium",
+            "Lithium",
+            "Potassium",
+            "Magnesium"
+        ],
+        "answer": "Lithium"
+    },
+    {
+        "id": 78,
+        "question": "What is the symbol for the element Tin?",
+        "options": [
+            "Sn",
+            "Tn",
+            "Ti",
+            "Ta"
+        ],
+        "answer": "Sn"
+    },
+    {
+        "id": 79,
+        "question": "Which gas is the primary component of Earth's atmosphere?",
+        "options": [
+            "Oxygen",
+            "Carbon dioxide",
+            "Nitrogen",
+            "Argon"
+        ],
+        "answer": "Nitrogen"
+    },
+    {
+        "id": 80,
+        "question": "What is the main chemical component of natural gas?",
+        "options": [
+            "Propane",
+            "Butane",
+            "Methane",
+            "Ethane"
+        ],
+        "answer": "Methane"
+    },
+    {
+        "id": 81,
+        "question": "What type of bond forms between two hydrogen atoms?",
+        "options": [
+            "Ionic bond",
+            "Covalent bond",
+            "Hydrogen bond",
+            "Metallic bond"
+        ],
+        "answer": "Covalent bond"
+    },
+    {
+        "id": 82,
+        "question": "What is the pH range of acidic solutions?",
+        "options": [
+            "0-6.9",
+            "7-14",
+            "8-14",
+            "0-7.5"
+        ],
+        "answer": "0-6.9"
+    },
+    {
+        "id": 83,
+        "question": "Which process is used to separate mixtures by boiling and condensation?",
+        "options": [
+            "Filtration",
+            "Distillation",
+            "Chromatography",
+            "Evaporation"
+        ],
+        "answer": "Distillation"
+    },
+    {
+        "id": 84,
+        "question": "Which element has the highest atomic number?",
+        "options": [
+            "Uranium",
+            "Plutonium",
+            "Radium",
+            "Oganesson"
+        ],
+        "answer": "Oganesson"
+    },
+    {
+        "id": 85,
+        "question": "What is the common name for HCl when dissolved in water?",
+        "options": [
+            "Hydrochloric acid",
+            "Sulfuric acid",
+            "Nitric acid",
+            "Acetic acid"
+        ],
+        "answer": "Hydrochloric acid"
+    },
+    {
+        "id": 86,
+        "question": "Which type of reaction involves the breaking down of a compound into simpler substances?",
+        "options": [
+            "Synthesis",
+            "Decomposition",
+            "Combustion",
+            "Neutralization"
+        ],
+        "answer": "Decomposition"
+    },
+    {
+        "id": 87,
+        "question": "What is the common name for sodium hydroxide?",
+        "options": [
+            "Baking soda",
+            "Washing soda",
+            "Caustic soda",
+            "Epsom salt"
+        ],
+        "answer": "Caustic soda"
+    },
+    {
+        "id": 88,
+        "question": "What is the chemical formula for ammonia?",
+        "options": [
+            "NH₃",
+            "NH₂",
+            "N₂H",
+            "NH₄"
+        ],
+        "answer": "NH₃"
+    },
+    {
+        "id": 89,
+        "question": "What is the term for a solid turning directly into a gas?",
+        "options": [
+            "Evaporation",
+            "Condensation",
+            "Sublimation",
+            "Deposition"
+        ],
+        "answer": "Sublimation"
+    },
+    {
+        "id": 90,
+        "question": "Which metal is liquid at room temperature?",
+        "options": [
+            "Mercury",
+            "Lead",
+            "Silver",
+            "Zinc"
+        ],
+        "answer": "Mercury"
+    },
+    {
+        "id": 91,
+        "question": "What is the molecular formula for acetic acid?",
+        "options": [
+            "CH₄O₂",
+            "C₂H₄O₂",
+            "C₂H₆O",
+            "C₃H₆O₂"
+        ],
+        "answer": "C₂H₄O₂"
+    },
+    {
+        "id": 92,
+        "question": "Which substance is used as an antiseptic in hospitals?",
+        "options": [
+            "Sulfuric acid",
+            "Ethanol",
+            "Chlorine",
+            "Phenol"
+        ],
+        "answer": "Ethanol"
+    },
+    {
+        "id": 93,
+        "question": "Which element is used in thermometers?",
+        "options": [
+            "Mercury",
+            "Lead",
+            "Silver",
+            "Zinc"
+        ],
+        "answer": "Mercury"
+    },
+    {
+        "id": 94,
+        "question": "What is the chemical name for rust?",
+        "options": [
+            "Iron sulfate",
+            "Iron chloride",
+            "Iron hydroxide",
+            "Iron oxide"
+        ],
+        "answer": "Iron oxide"
+    },
+    {
+        "id": 95,
+        "question": "What is the symbol for the element Phosphorus?",
+        "options": [
+            "P",
+            "Ph",
+            "Pt",
+            "Po"
+        ],
+        "answer": "P"
+    },
+    {
+        "id": 96,
+        "question": "Which process is used to make hard water soft?",
+        "options": [
+            "Filtration",
+            "Boiling",
+            "Distillation",
+            "Ion exchange"
+        ],
+        "answer": "Ion exchange"
+    },
+    {
+        "id": 97,
+        "question": "What type of chemical reaction is represented by the equation AB → A + B?",
+        "options": [
+            "Synthesis",
+            "Decomposition",
+            "Combustion",
+            "Neutralization"
+        ],
+        "answer": "Decomposition"
+    },
+    {
+        "id": 98,
+        "question": "Which of the following is a strong base?",
+        "options": [
+            "Ammonium hydroxide",
+            "Sodium hydroxide",
+            "Calcium hydroxide",
+            "Potassium hydroxide"
+        ],
+        "answer": "Sodium hydroxide"
+    },
+    {
+        "id": 99,
+        "question": "Which of the following is an endothermic process?",
+        "options": [
+            "Combustion",
+            "Melting",
+            "Freezing",
+            "Condensation"
+        ],
+        "answer": "Melting"
+    },
+    {
+        "id": 100,
+        "question": "What is the chemical formula for sulfuric acid?",
+        "options": [
+            "HCl",
+            "H₂SO₄",
+            "HNO₃",
+            "H₂CO₃"
+        ],
+        "answer": "H₂SO₄"
+    }    
+]

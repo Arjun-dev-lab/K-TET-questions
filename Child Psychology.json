@@ -1,0 +1,2053 @@
+[
+    {
+      "id": 1,
+      "question": "Which of the following is a method of studying child behavior?",
+      "options": ["Hypnosis", "Case study", "Meditation", "Acupuncture"],
+      "answer": "Case study"
+    },
+    {
+      "id": 2,
+      "question": "What is the concept of development in psychology?",
+      "options": ["Static growth", "Continuous process of change", "Random changes", "Instant transformation"],
+      "answer": "Continuous process of change"
+    },
+    {
+      "id": 3,
+      "question": "Which principle states that development occurs in a head-to-toe direction?",
+      "options": ["Cephalocaudal principle", "Proximodistal principle", "Mass-to-specific principle", "Cultural principle"],
+      "answer": "Cephalocaudal principle"
+    },
+    {
+      "id": 4,
+      "question": "What plays a significant role in human development?",
+      "options": ["Heredity", "Environment", "Both heredity and environment", "Neither heredity nor environment"],
+      "answer": "Both heredity and environment"
+    },
+    {
+      "id": 5,
+      "question": "Which theory of learning was developed by Ivan Pavlov?",
+      "options": ["Insight learning", "Operant conditioning", "Classical conditioning", "Social learning"],
+      "answer": "Classical conditioning"
+    },
+    {
+      "id": 6,
+      "question": "Who introduced the concept of operant conditioning?",
+      "options": ["B.F. Skinner", "Jean Piaget", "Lev Vygotsky", "Sigmund Freud"],
+      "answer": "B.F. Skinner"
+    },
+    {
+      "id": 7,
+      "question": "Which type of learning involves solving problems through insight?",
+      "options": ["Classical conditioning", "Operant conditioning", "Insight learning", "Rote learning"],
+      "answer": "Insight learning"
+    },
+    {
+      "id": 8,
+      "question": "What did Jean Piaget focus on in his theory?",
+      "options": ["Personality development", "Cognitive development", "Emotional development", "Social development"],
+      "answer": "Cognitive development"
+    },
+    {
+      "id": 9,
+      "question": "Who is known for the theory of moral development?",
+      "options": ["Jean Piaget", "Lev Vygotsky", "Lawrence Kohlberg", "B.F. Skinner"],
+      "answer": "Lawrence Kohlberg"
+    },
+    {
+      "id": 10,
+      "question": "What does the concept of learner readiness refer to?",
+      "options": ["Age-based learning", "Skill-based learning", "Maturation and development stage", "Random learning"],
+      "answer": "Maturation and development stage"
+    },
+    {
+      "id": 11,
+      "question": "Which educational approach emphasizes child-centered and progressive education?",
+      "options": ["Traditional teaching", "Lecture-based method", "Activity-based method", "Memorization technique"],
+      "answer": "Activity-based method"
+    },
+    {
+      "id": 12,
+      "question": "Which theory of intelligence was proposed by Howard Gardner?",
+      "options": ["Spearman's two-factor theory", "Guilford's structure of intellect", "Gardner's multiple intelligences", "Thurstone's primary mental abilities"],
+      "answer": "Gardner's multiple intelligences"
+    },
+    {
+      "id": 13,
+      "question": "Who proposed the theory of language acquisition?",
+      "options": ["Sigmund Freud", "Jean Piaget", "Noam Chomsky", "Erik Erikson"],
+      "answer": "Noam Chomsky"
+    },
+    {
+      "id": 14,
+      "question": "Which of the following is an example of gender as a social construct?",
+      "options": ["Biological sex", "Gender roles", "Genetic inheritance", "Physical traits"],
+      "answer": "Gender roles"
+    },
+    {
+      "id": 15,
+      "question": "What is continuous and comprehensive evaluation (CCE)?",
+      "options": ["Annual examination system", "One-time assessment", "Ongoing assessment of student performance", "Teacher evaluation only"],
+      "answer": "Ongoing assessment of student performance"
+    },
+    {
+      "id": 16,
+      "question": "Which assessment method focuses on enhancing student learning?",
+      "options": ["Assessment of learning", "Assessment for learning", "Standardized testing", "Summative assessment"],
+      "answer": "Assessment for learning"
+    },
+    {
+      "id": 17,
+      "question": "What is the main objective of formative assessment?",
+      "options": ["To assign grades", "To provide feedback for improvement", "To rank students", "To conduct final exams"],
+      "answer": "To provide feedback for improvement"
+    },
+    {
+      "id": 18,
+      "question": "Which type of personality approach is associated with Sigmund Freud?",
+      "options": ["Trait theory", "Humanistic approach", "Psychoanalytic theory", "Behavioral theory"],
+      "answer": "Psychoanalytic theory"
+    },
+    {
+      "id": 19,
+      "question": "What is an example of individual differences among learners?",
+      "options": ["Identical learning styles", "Uniform teaching methods", "Diversity in language, caste, gender, community, religion", "Homogeneous classroom environment"],
+      "answer": "Diversity in language, caste, gender, community, religion"
+    },
+    {
+      "id": 20,
+      "question": "What is the role of the teacher in a problem-based learning environment?",
+      "options": ["Sole knowledge provider", "Guide and facilitator", "Passive observer", "Grader only"],
+      "answer": "Guide and facilitator"
+    },
+    {
+      "id": 21,
+      "question": "Which approach focuses on the inner workings of the mind for understanding human behavior?",
+      "options": ["Behavioral approach", "Cognitive approach", "Psychoanalytic approach", "Sociocultural approach"],
+      "answer": "Psychoanalytic approach"
+    },
+    {
+      "id": 22,
+      "question": "Who proposed the stages of cognitive development?",
+      "options": ["Sigmund Freud", "Jean Piaget", "Lawrence Kohlberg", "B.F. Skinner"],
+      "answer": "Jean Piaget"
+    },
+    {
+      "id": 23,
+      "question": "Which theory emphasizes learning through social interaction?",
+      "options": ["Classical conditioning", "Operant conditioning", "Sociocultural theory", "Biological theory"],
+      "answer": "Sociocultural theory"
+    },
+    {
+      "id": 24,
+      "question": "What is the focus of constructivist teaching?",
+      "options": ["Teacher-centered instruction", "Passive learning", "Active, student-centered learning", "Rote memorization"],
+      "answer": "Active, student-centered learning"
+    },
+    {
+      "id": 25,
+      "question": "Which type of assessment aims to measure student achievement for grading purposes?",
+      "options": ["Formative assessment", "Diagnostic assessment", "Summative assessment", "Continuous assessment"],
+      "answer": "Summative assessment"
+    },
+    {
+      "id": 26,
+      "question": "Who introduced the concept of scaffolding in learning?",
+      "options": ["Jean Piaget", "Jerome Bruner", "Lev Vygotsky", "Howard Gardner"],
+      "answer": "Lev Vygotsky"
+    },
+    {
+      "id": 27,
+      "question": "What is the main purpose of psychological tests in education?",
+      "options": ["To diagnose physical illnesses", "To evaluate academic performance", "To assess mental abilities and personality", "To determine biological traits"],
+      "answer": "To assess mental abilities and personality"
+    },
+    {
+      "id": 28,
+      "question": "What is the concept of 'learner readiness'?",
+      "options": ["Age-based learning ability", "Maturation and developmental stage", "Fixed learning capacity", "Immediate learning response"],
+      "answer": "Maturation and developmental stage"
+    },
+    {
+    "id": 29,
+    "question": "Who proposed the theory of operant conditioning?",
+    "options": ["Ivan Pavlov", "John Dewey", "B.F. Skinner", "Carl Rogers"],
+    "answer": "B.F. Skinner"
+    },
+    {
+    "id": 30,
+    "question": "What does 'individual differences' in education refer to?",
+    "options": ["Identical learning styles", "Homogeneous groups", "Variations in learners' characteristics", "Uniform teaching methods"],
+    "answer": "Variations in learners' characteristics"
+    },
+    {
+        "id": 31,
+        "question": "Which approach emphasizes the role of culture in cognitive development?",
+        "options": ["Behaviorism", "Psychoanalytic theory", "Sociocultural theory", "Humanistic approach"],
+        "answer": "Sociocultural theory"
+    },
+    {
+        "id": 32,
+        "question": "What is the main idea behind Vygotsky's theory of cognitive development?",
+        "options": ["Cognitive stages", "Unconscious desires", "Social interaction and language", "Genetic inheritance"],
+        "answer": "Social interaction and language"
+    },
+    {
+        "id": 33,
+        "question": "Which type of learning is associated with reinforcement and punishment?",
+        "options": ["Classical conditioning", "Operant conditioning", "Insight learning", "Observational learning"],
+        "answer": "Operant conditioning"
+    },
+    {
+        "id": 34,
+        "question": "What is the primary focus of developmental psychology?",
+        "options": ["Studying the unconscious mind", "Understanding changes across the lifespan", "Analyzing social behavior", "Diagnosing mental disorders"],
+        "answer": "Understanding changes across the lifespan"
+    },
+    {
+        "id": 35,
+        "question": "Who proposed the theory of multiple intelligences?",
+        "options": ["Howard Gardner", "Albert Bandura", "Erik Erikson", "John Dewey"],
+        "answer": "Howard Gardner"
+    },
+    {
+        "id": 36,
+        "question": "What is meant by 'scaffolding' in education?",
+        "options": ["Providing temporary support to learners", "Strictly following a syllabus", "Using memorization techniques", "Standardized testing"],
+        "answer": "Providing temporary support to learners"
+    },
+    {
+        "id": 37,
+        "question": "Which of the following is an example of intrinsic motivation?",
+        "options": ["Studying to get a reward", "Learning because of internal satisfaction", "Completing tasks to avoid punishment", "Participating to compete with others"],
+        "answer": "Learning because of internal satisfaction"
+    },
+    {
+        "id": 38,
+        "question": "What is 'zone of proximal development' according to Vygotsky?",
+        "options": [
+        "The level of independent performance",
+        "The difference between what a learner can do without help and what they can achieve with guidance",
+        "The highest level of potential development",
+        "The range of tasks that are too difficult for a learner to achieve"
+        ],
+        "answer": "The difference between what a learner can do without help and what they can achieve with guidance"
+    },
+    {
+        "id": 39,
+        "question": "Who introduced the concept of 'object permanence'?",
+        "options": ["Sigmund Freud", "Jean Piaget", "Lev Vygotsky", "Albert Bandura"],
+        "answer": "Jean Piaget"
+    },
+    {
+        "id": 40,
+        "question": "What is the main purpose of summative assessment?",
+        "options": ["To provide ongoing feedback", "To diagnose learning difficulties", "To evaluate student learning at the end of an instructional unit", "To motivate students during learning"],
+        "answer": "To evaluate student learning at the end of an instructional unit"
+    },
+    {
+        "id": 41,
+        "question": "Which approach emphasizes the importance of self-actualization?",
+        "options": ["Psychoanalytic", "Behavioral", "Humanistic", "Cognitive"],
+        "answer": "Humanistic"
+    },
+    {
+        "id": 42,
+        "question": "What is 'continuous and comprehensive evaluation' (CCE)?",
+        "options": [
+        "Single yearly assessment",
+        "Ongoing evaluation covering all aspects of a student's development",
+        "Focus only on academic performance",
+        "Teacher evaluation only"
+        ],
+        "answer": "Ongoing evaluation covering all aspects of a student's development"
+    },
+    {
+        "id": 43,
+        "question": "Which learning theory is associated with Albert Bandura?",
+        "options": ["Behaviorism", "Social learning theory", "Cognitive development theory", "Multiple intelligences theory"],
+        "answer": "Social learning theory"
+    },
+    {
+        "id": 44,
+        "question": "What is the primary focus of Piaget's theory of cognitive development?",
+        "options": ["Emotional growth", "Social interactions", "Stages of mental development", "Behavioral changes"],
+        "answer": "Stages of mental development"
+    },
+    {
+        "id": 45,
+        "question": "What does 'insight learning' refer to?",
+        "options": [
+        "Learning through trial and error",
+        "Learning by observing others",
+        "Sudden realization of a problem's solution",
+        "Learning through reinforcement"
+        ],
+        "answer": "Sudden realization of a problem's solution"
+    },
+    {
+        "id": 46,
+        "question": "Which of the following is NOT a principle of growth and development?",
+        "options": [
+        "Development is a lifelong process",
+        "Development follows a predictable pattern",
+        "Development is solely determined by genetics",
+        "Development involves changes in physical, cognitive, and socioemotional domains"
+        ],
+        "answer": "Development is solely determined by genetics"
+    },
+    {
+        "id": 47,
+        "question": "Who proposed the theory of cognitive dissonance?",
+        "options": ["Jean Piaget", "Leon Festinger", "Carl Rogers", "Abraham Maslow"],
+        "answer": "Leon Festinger"
+    },
+    {
+        "id": 48,
+        "question": "Which concept is central to Bruner's theory of cognitive development?",
+        "options": ["Operant conditioning", "Zone of proximal development", "Scaffolding", "Hierarchy of needs"],
+        "answer": "Scaffolding"
+    },
+    {
+        "id": 49,
+        "question": "What does Gardner's theory of multiple intelligences propose?",
+        "options": [
+        "Intelligence is a single general ability",
+        "There are multiple distinct types of intelligence",
+        "Intelligence is fixed and unchangeable",
+        "Intelligence is solely determined by genetics"
+        ],
+        "answer": "There are multiple distinct types of intelligence"
+    },
+    {
+        "id": 50,
+        "question": "What is the primary focus of constructivist teaching methods?",
+        "options": ["Teacher-centered instruction", "Passive reception of information", "Active engagement and discovery", "Memorization and repetition"],
+        "answer": "Active engagement and discovery"
+    },
+    {
+        "id": 51,
+        "question": "What is the term for children who require additional support due to physical, cognitive, or emotional differences?",
+        "options": ["Gifted children", "Exceptional children", "Regular children", "Typical children"],
+        "answer": "Exceptional children"
+      },
+      {
+        "id": 52,
+        "question": "Which of the following is a characteristic of children with special needs (CWSN)?",
+        "options": ["High academic performance", "Average developmental milestones", "Unique educational requirements", "Standardized learning paths"],
+        "answer": "Unique educational requirements"
+      },
+      {
+        "id": 53,
+        "question": "What does the term 'inclusive education' refer to?",
+        "options": ["Segregating children with special needs", "Providing separate schools for gifted children", "Integrating all children, including those with special needs, into mainstream education", "Offering extracurricular activities only"],
+        "answer": "Integrating all children, including those with special needs, into mainstream education"
+      },
+      {
+        "id": 54,
+        "question": "Which approach is best for addressing the needs of children from disadvantaged backgrounds?",
+        "options": ["Standardized curriculum", "One-size-fits-all teaching", "Culturally responsive teaching", "Ignoring cultural differences"],
+        "answer": "Culturally responsive teaching"
+      },
+      {
+        "id": 55,
+        "question": "What is a common characteristic of learning disabilities (LD)?",
+        "options": ["Exceptional intellectual abilities", "Difficulty in academic areas such as reading, writing, or math", "Advanced motor skills", "Standardized learning pace"],
+        "answer": "Difficulty in academic areas such as reading, writing, or math"
+      },
+      {
+        "id": 56,
+        "question": "What strategy is effective for teaching children with learning disabilities?",
+        "options": ["Lecturing", "Multi-sensory instruction", "Ignoring their needs", "Rote memorization"],
+        "answer": "Multi-sensory instruction"
+      },
+      {
+        "id": 57,
+        "question": "Which term refers to children who show high performance capability in intellectual, creative, or artistic areas?",
+        "options": ["Average children", "Gifted and talented children", "Children with special needs", "Disadvantaged children"],
+        "answer": "Gifted and talented children"
+      },
+      {
+        "id": 58,
+        "question": "What is the main focus of special education?",
+        "options": ["Providing a general curriculum", "Catering to the unique needs of exceptional learners", "Mainstreaming all students", "Reducing educational resources"],
+        "answer": "Catering to the unique needs of exceptional learners"
+      },
+      {
+        "id": 59,
+        "question": "Which of the following is an example of an inclusive practice in education?",
+        "options": ["Providing separate classrooms for children with disabilities", "Integrating children with special needs into regular classrooms", "Excluding children with behavioral issues from mainstream classes", "Ignoring the needs of children from diverse backgrounds"],
+        "answer": "Integrating children with special needs into regular classrooms"
+      },
+      {
+        "id": 60,
+        "question": "What does the Individuals with Disabilities Education Act (IDEA) ensure?",
+        "options": ["Exclusion of children with disabilities", "Equal access to education for children with disabilities", "Segregation of children with disabilities", "Limited educational opportunities for children with disabilities"],
+        "answer": "Equal access to education for children with disabilities"
+      },
+      {
+        "id": 61,
+        "question": "How can teachers address the needs of children with learning disabilities in the classroom?",
+        "options": ["By using a one-size-fits-all approach", "By providing individualized instruction and support", "By ignoring their needs", "By reducing academic expectations"],
+        "answer": "By providing individualized instruction and support"
+      },
+      {
+        "id": 62,
+        "question": "Which approach is recommended for identifying and nurturing talented and creative children?",
+        "options": ["Standardized testing only", "Providing opportunities for creative expression and advanced learning", "Ignoring their unique abilities", "Focusing solely on academic achievements"],
+        "answer": "Providing opportunities for creative expression and advanced learning"
+      },
+      {
+        "id": 63,
+        "question": "What is the primary goal of early intervention for children with special needs?",
+        "options": ["To delay educational support", "To provide immediate and appropriate assistance", "To wait for the child to catch up", "To exclude them from mainstream education"],
+        "answer": "To provide immediate and appropriate assistance"
+      },
+      {
+        "id": 64,
+        "question": "Which of the following best describes a learning disability?",
+        "options": ["A temporary academic difficulty", "A lifelong challenge in specific academic areas", "A lack of interest in school", "An above-average intelligence"],
+        "answer": "A lifelong challenge in specific academic areas"
+      },
+      {
+        "id": 65,
+        "question": "How can educators support learners from diverse backgrounds?",
+        "options": ["By ignoring cultural differences", "By incorporating culturally relevant materials and practices", "By standardizing all lessons", "By minimizing student participation"],
+        "answer": "By incorporating culturally relevant materials and practices"
+      },
+      {
+        "id": 66,
+        "question": "Which strategy can help in addressing the needs of specially-abled children in the classroom?",
+        "options": ["Providing a one-size-fits-all curriculum", "Using adaptive technologies and tailored teaching methods", "Separating them from other students", "Lowering educational standards"],
+        "answer": "Using adaptive technologies and tailored teaching methods"
+      },
+      {
+        "id": 67,
+        "question": "What does the term 'differentiated instruction' mean?",
+        "options": ["Using the same teaching method for all students", "Tailoring instruction to meet individual student needs", "Focusing only on gifted students", "Ignoring individual differences"],
+        "answer": "Tailoring instruction to meet individual student needs"
+      },
+      {
+        "id": 68,
+        "question": "Which of the following is a benefit of inclusive education?",
+        "options": ["Segregation of students", "Reduced social interaction", "Fostering a sense of community and belonging", "Limited access to resources"],
+        "answer": "Fostering a sense of community and belonging"
+      },
+      {
+        "id": 69,
+        "question": "What role does the family play in the education of children with special needs?",
+        "options": ["No role", "Supportive role in collaboration with educators", "Only providing financial support", "Dictating school policies"],
+        "answer": "Supportive role in collaboration with educators"
+      },
+      {
+        "id": 70,
+        "question": "How can teachers identify children with potential learning disabilities?",
+        "options": ["By waiting for them to fail", "By observing their performance and behavior in the classroom", "By excluding them from assessments", "By assuming all students have the same abilities"],
+        "answer": "By observing their performance and behavior in the classroom"
+      },
+    {
+        "id": 71,
+        "question": "What is an Individualized Education Plan (IEP)?",
+        "options": [
+        "A general curriculum for all students",
+        "A customized educational plan for students with special needs",
+        "A standardized testing program",
+        "A physical exercise regimen"
+        ],
+        "answer": "A customized educational plan for students with special needs"
+    },
+    {
+        "id": 72,
+        "question": "Which of the following best describes an inclusive classroom?",
+        "options": [
+        "Only students without disabilities",
+        "Segregation based on ability",
+        "A mix of students with and without disabilities learning together",
+        "Exclusive for gifted students"
+        ],
+        "answer": "A mix of students with and without disabilities learning together"
+    },
+    {
+        "id": 73,
+        "question": "Which learning disability affects a person's ability to read and interpret text?",
+        "options": [
+        "Dyslexia",
+        "Dysgraphia",
+        "Dyscalculia",
+        "Dyspraxia"
+        ],
+        "answer": "Dyslexia"
+    },
+    {
+        "id": 74,
+        "question": "What is the main goal of early identification of learning disabilities?",
+        "options": [
+        "To label children early",
+        "To provide timely support and intervention",
+        "To exclude them from regular education",
+        "To lower academic expectations"
+        ],
+        "answer": "To provide timely support and intervention"
+    },
+    {
+        "id": 75,
+        "question": "Which type of assessment is used to monitor student progress continuously?",
+        "options": [
+        "Summative assessment",
+        "Formative assessment",
+        "Diagnostic assessment",
+        "Standardized testing"
+        ],
+        "answer": "Formative assessment"
+    },
+    {
+        "id": 76,
+        "question": "How can teachers effectively support children with ADHD in the classroom?",
+        "options": [
+        "By providing a strict and punitive environment",
+        "By using structured routines and clear expectations",
+        "By ignoring their behavior",
+        "By reducing physical activity"
+        ],
+        "answer": "By using structured routines and clear expectations"
+    },
+    {
+        "id": 77,
+        "question": "What is the term for a curriculum that can be adjusted to meet the diverse needs of all learners?",
+        "options": [
+        "Standardized curriculum",
+        "Hidden curriculum",
+        "Differentiated curriculum",
+        "Exclusive curriculum"
+        ],
+        "answer": "Differentiated curriculum"
+    },
+    {
+        "id": 78,
+        "question": "Which of the following is a common sign of a learning disability in children?",
+        "options": [
+        "High academic achievement",
+        "Difficulty in mastering basic academic skills",
+        "Exceptional physical abilities",
+        "Advanced social skills"
+        ],
+        "answer": "Difficulty in mastering basic academic skills"
+    },
+    {
+        "id": 79,
+        "question": "What role do parents play in the education of children with special needs?",
+        "options": [
+        "No involvement",
+        "Passive observers",
+        "Active partners in planning and support",
+        "Sole decision-makers"
+        ],
+        "answer": "Active partners in planning and support"
+    },
+    {
+        "id": 80,
+        "question": "Which educational approach is best for children with Autism Spectrum Disorder (ASD)?",
+        "options": [
+        "Exclusion from regular classrooms",
+        "Structured teaching and visual supports",
+        "General education without modifications",
+        "Independent learning only"
+        ],
+        "answer": "Structured teaching and visual supports"
+    },
+    {
+        "id": 81,
+        "question": "What is the concept of 'Least Restrictive Environment' (LRE)?",
+        "options": [
+        "Segregating students with disabilities",
+        "Providing education in the most inclusive setting possible",
+        "Excluding students from general education",
+        "Limiting educational resources"
+        ],
+        "answer": "Providing education in the most inclusive setting possible"
+    },
+    {
+        "id": 82,
+        "question": "How can teachers address the needs of gifted and talented students?",
+        "options": [
+        "By providing enrichment activities and advanced content",
+        "By maintaining a uniform curriculum",
+        "By focusing solely on average students",
+        "By reducing academic challenges"
+        ],
+        "answer": "By providing enrichment activities and advanced content"
+    },
+    {
+        "id": 83,
+        "question": "Which strategy is effective in supporting children with physical disabilities in the classroom?",
+        "options": [
+        "Ignoring their needs",
+        "Providing adaptive equipment and accessibility",
+        "Excluding them from physical activities",
+        "Minimizing their participation"
+        ],
+        "answer": "Providing adaptive equipment and accessibility"
+    },
+    {
+        "id": 84,
+        "question": "What does the term 'culturally responsive teaching' mean?",
+        "options": [
+        "Ignoring cultural differences",
+        "Integrating students' cultural backgrounds into the teaching process",
+        "Standardizing all teaching materials",
+        "Reducing cultural content"
+        ],
+        "answer": "Integrating students' cultural backgrounds into the teaching process"
+    },
+    {
+        "id": 85,
+        "question": "Which of the following is an appropriate strategy for teaching children with dysgraphia?",
+        "options": [
+        "Focusing solely on oral exams",
+        "Providing alternative writing tools and technology",
+        "Ignoring writing assignments",
+        "Standardizing all assessments"
+        ],
+        "answer": "Providing alternative writing tools and technology"
+    },
+    {
+        "id": 86,
+        "question": "Which term describes a teaching method tailored to accommodate all learners, including those with disabilities?",
+        "options": [
+        "Traditional teaching",
+        "Differentiated instruction",
+        "Lecture-based instruction",
+        "Uniform teaching"
+        ],
+        "answer": "Differentiated instruction"
+    },
+    {
+        "id": 87,
+        "question": "What is one way to support children with speech and language disorders in the classroom?",
+        "options": [
+        "Ignoring their communication needs",
+        "Using speech therapy and communication aids",
+        "Reducing their participation in class",
+        "Limiting their social interactions"
+        ],
+        "answer": "Using speech therapy and communication aids"
+    },
+    {
+        "id": 88,
+        "question": "Which type of educational setting is most appropriate for children with mild to moderate disabilities?",
+        "options": [
+        "Separate special education schools",
+        "Inclusive general education classrooms with support",
+        "Home schooling only",
+        "Restrictive environments"
+        ],
+        "answer": "Inclusive general education classrooms with support"
+    },
+    {
+        "id": 89,
+        "question": "What does the concept of 'Universal Design for Learning' (UDL) aim to achieve?",
+        "options": [
+        "Creating a one-size-fits-all curriculum",
+        "Designing flexible learning environments that accommodate all learners",
+        "Standardizing all instructional materials",
+        "Limiting access to resources"
+        ],
+        "answer": "Designing flexible learning environments that accommodate all learners"
+    },
+    {
+        "id": 90,
+        "question": "How can teachers support children with emotional and behavioral disorders?",
+        "options": [
+        "Ignoring their behaviors",
+        "Providing structured routines and positive behavioral interventions",
+        "Excluding them from the classroom",
+        "Reducing academic expectations"
+        ],
+        "answer": "Providing structured routines and positive behavioral interventions"
+    },
+    {
+        "id": 91,
+        "question": "How do children typically think and learn in early stages?",
+        "options": [
+            "Through abstract reasoning",
+            "Through concrete experiences and interactions",
+            "Through memorization",
+            "Through rote learning"
+        ],
+        "answer": "Through concrete experiences and interactions"
+    },
+    {
+        "id": 92,
+        "question": "Which factor can influence a child's learning and achievement in school?",
+        "options": [
+            "Socioeconomic status",
+            "Diet and nutrition",
+            "Teacher's expectations",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "id": 93,
+        "question": "What is the role of social context in a child's learning process?",
+        "options": [
+            "Isolated learning",
+            "Enhanced learning through social interactions",
+            "Ignored learning environment",
+            "Uniform learning methods"
+        ],
+        "answer": "Enhanced learning through social interactions"
+    },
+    {
+        "id": 94,
+        "question": "Who proposed the concept of 'zone of proximal development'?",
+        "options": [
+            "Jean Piaget",
+            "Jerome Bruner",
+            "Lev Vygotsky",
+            "B.F. Skinner"
+        ],
+        "answer": "Lev Vygotsky"
+    },
+    {
+        "id": 95,
+        "question": "Which strategy of learning involves children acting as problem solvers and investigators?",
+        "options": [
+            "Memorization",
+            "Rote learning",
+            "Inquiry-based learning",
+            "Passive observation"
+        ],
+        "answer": "Inquiry-based learning"
+    },
+    {
+        "id": 96,
+        "question": "What did Jean Piaget emphasize in his theory of cognitive development?",
+        "options": [
+            "Children's acquisition of knowledge through stages",
+            "Innate intelligence",
+            "Adult intervention",
+            "External reinforcement"
+        ],
+        "answer": "Children's acquisition of knowledge through stages"
+    },
+    {
+        "id": 97,
+        "question": "How do children's errors play a role in their learning process?",
+        "options": [
+            "Errors are insignificant",
+            "Errors hinder learning",
+            "Errors are seen as significant steps in learning",
+            "Errors should be punished"
+        ],
+        "answer": "Errors are seen as significant steps in learning"
+    },
+    {
+        "id": 98,
+        "question": "Which of the following are considered basic emotions?",
+        "options": [
+            "Joy, sadness, anger, fear",
+            "Curiosity, boredom, fatigue, enthusiasm",
+            "Confidence, shyness, assertiveness, aggression",
+            "Distrust, loyalty, empathy, apathy"
+        ],
+        "answer": "Joy, sadness, anger, fear"
+    },
+    {
+        "id": 99,
+        "question": "What characterizes childhood emotionality according to emotional development theories?",
+        "options": [
+            "Stability and uniformity",
+            "Variability and intensity",
+            "Absence of emotions",
+            "Maturity and rationality"
+        ],
+        "answer": "Variability and intensity"
+    },
+    {
+        "id": 100,
+        "question": "Which theory of motivation is associated with Abraham Maslow?",
+        "options": [
+            "Two-factor theory",
+            "Hierarchy of needs",
+            "Expectancy theory",
+            "Self-determination theory"
+        ],
+        "answer": "Hierarchy of needs"
+    },
+    {
+        "id": 101,
+        "question": "What is the impact of motivation on learning?",
+        "options": [
+            "Minimal impact",
+            "Negative impact",
+            "Significant positive impact",
+            "No impact"
+        ],
+        "answer": "Significant positive impact"
+    },
+    {
+        "id": 102,
+        "question": "Which of the following is a personal factor contributing to learning?",
+        "options": [
+            "Classroom environment",
+            "Teaching methods",
+            "Learner's interest and motivation",
+            "School infrastructure"
+        ],
+        "answer": "Learner's interest and motivation"
+    },
+    {
+        "id": 103,
+        "question": "How does emotional development influence cognitive processes?",
+        "options": [
+            "Enhances reasoning and problem-solving abilities",
+            "Has no effect on cognition",
+            "Reduces cognitive abilities",
+            "Causes cognitive dissonance"
+        ],
+        "answer": "Enhances reasoning and problem-solving abilities"
+    },
+    {
+        "id": 104,
+        "question": "Which learning approach views children as active participants in their learning?",
+        "options": [
+            "Behaviorist approach",
+            "Constructivist approach",
+            "Traditional approach",
+            "Passive learning approach"
+        ],
+        "answer": "Constructivist approach"
+    },
+    {
+        "id": 105,
+        "question": "How does Maslow's theory of motivation apply to educational settings?",
+        "options": [
+            "Focuses solely on academic achievement",
+            "Addresses students' holistic needs, including safety and belonging",
+            "Ignores emotional needs",
+            "Emphasizes punitive measures"
+        ],
+        "answer": "Addresses students' holistic needs, including safety and belonging"
+    },
+    {
+        "id": 106,
+        "question": "What is the significance of understanding children's strategies of learning?",
+        "options": [
+            "To replicate adult learning methods",
+            "To tailor teaching methods that align with children's natural learning strategies",
+            "To standardize all teaching methods",
+            "To limit children to specific strategies"
+        ],
+        "answer": "To tailor teaching methods that align with children's natural learning strategies"
+    },
+    {
+        "id": 107,
+        "question": "Which cognitive process involves thinking, reasoning, and problem-solving?",
+        "options": [
+            "Emotional regulation",
+            "Sensory perception",
+            "Cognition",
+            "Physical development"
+        ],
+        "answer": "Cognition"
+    },
+    {
+        "id": 108,
+        "question": "What does the concept of 'self-corrective nature of the child' imply?",
+        "options": [
+            "Children require constant external correction",
+            "Children learn from their own mistakes and make adjustments",
+            "Children cannot correct themselves",
+            "Children always need guidance"
+        ],
+        "answer": "Children learn from their own mistakes and make adjustments"
+    },
+    {
+        "id": 109,
+        "question": "Which educational theory is associated with Jerome Bruner?",
+        "options": [
+            "Behaviorism",
+            "Constructivism",
+            "Psychoanalysis",
+            "Cognitive development theory"
+        ],
+        "answer": "Constructivism"
+    },
+    {
+        "id": 110,
+        "question": "Which factor can negatively influence a child's academic performance?",
+        "options": [
+            "Positive reinforcement",
+            "Supportive family environment",
+            "High levels of stress and anxiety",
+            "Active learning opportunities"
+        ],
+        "answer": "High levels of stress and anxiety"
+    },
+    {
+        "id": 111,
+        "question": "What is the role of emotions in the learning process?",
+        "options": [
+            "Irrelevant to learning",
+            "Crucial in influencing motivation and engagement",
+            "Only affects adults",
+            "Negative impact on learning"
+        ],
+        "answer": "Crucial in influencing motivation and engagement"
+    },
+    {
+        "id": 112,
+        "question": "How can teachers foster problem-solving skills in children?",
+        "options": [
+            "By providing ready-made solutions",
+            "By encouraging exploration and experimentation",
+            "By limiting their questioning",
+            "By focusing solely on memorization"
+        ],
+        "answer": "By encouraging exploration and experimentation"
+    },
+    {
+        "id": 113,
+        "question": "Which concept involves understanding the social context of learning?",
+        "options": [
+            "Isolationist learning",
+            "Social learning theory",
+            "Cognitive dissonance",
+            "Physical development"
+        ],
+        "answer": "Social learning theory"
+    },
+    {
+        "id": 114,
+        "question": "How do children's errors contribute to their cognitive development?",
+        "options": [
+            "Errors are detrimental",
+            "Errors are ignored",
+            "Errors provide opportunities for deeper understanding and growth",
+            "Errors are punished"
+        ],
+        "answer": "Errors provide opportunities for deeper understanding and growth"
+    },
+    {
+        "id": 115,
+        "question": "Which factor can enhance a child's motivation to learn?",
+        "options": [
+            "Lack of encouragement",
+            "Engaging and relevant learning experiences",
+            "Strict and rigid classroom rules",
+            "Limited resources"
+        ],
+        "answer": "Engaging and relevant learning experiences"
+    },
+    {
+        "id": 116,
+        "question": "What is the significance of Vygotsky's social development theory?",
+        "options": [
+            "Focuses on individual learning only",
+            "Emphasizes the role of social interaction in cognitive development",
+            "Ignores social context",
+            "Prioritizes rote memorization"
+        ],
+        "answer": "Emphasizes the role of social interaction in cognitive development"
+    },
+    {
+        "id": 117,
+        "question": "How does Bruner's theory of scaffolding help in learning?",
+        "options": [
+            "By providing no support",
+            "By offering temporary support to learners until they become independent",
+            "By focusing on repetitive tasks",
+            "By standardizing instruction"
+        ],
+        "answer": "By offering temporary support to learners until they become independent"
+    },
+    {
+        "id": 118,
+        "question": "What is one way teachers can foster intrinsic motivation in students?",
+        "options": [
+            "By using external rewards only",
+            "By encouraging a sense of curiosity and personal interest",
+            "By ignoring student interests",
+            "By enforcing strict discipline"
+        ],
+        "answer": "By encouraging a sense of curiosity and personal interest"
+    },
+    {
+        "id": 119,
+        "question": "Which cognitive process involves understanding and interpreting information?",
+        "options": [
+            "Perception",
+            "Memory",
+            "Reasoning",
+            "Attention"
+        ],
+        "answer": "Perception"
+    },
+    {
+        "id": 120,
+        "question": "What does Piaget mean by 'constructivist' learning?",
+        "options": [
+            "Learning through passive reception",
+            "Learning by building new knowledge based on existing knowledge",
+            "Learning through strict instruction",
+            "Learning by memorization"
+        ],
+        "answer": "Learning by building new knowledge based on existing knowledge"
+    },
+    {
+        "id": 121,
+        "question": "How can teachers address diverse learning needs in the classroom?",
+        "options": [
+            "By using a one-size-fits-all approach",
+            "By differentiating instruction to cater to individual student needs",
+            "By ignoring individual differences",
+            "By standardizing all lessons"
+        ],
+        "answer": "By differentiating instruction to cater to individual student needs"
+    },
+    {
+        "id": 122,
+        "question": "What role does feedback play in the learning process?",
+        "options": [
+            "No role",
+            "Crucial for guiding and improving student performance",
+            "Negligible impact",
+            "Discourages learning"
+        ],
+        "answer": "Crucial for guiding and improving student performance"
+    },
+    {
+        "id": 123,
+        "question": "What is the main focus of cooperative learning?",
+        "options": [
+            "Individual competition",
+            "Collaborative effort and peer interaction",
+            "Independent study",
+            "Teacher-centered instruction"
+        ],
+        "answer": "Collaborative effort and peer interaction"
+    },
+    {
+        "id": 124,
+        "question": "How does emotional intelligence influence learning?",
+        "options": [
+            "Negatively impacts learning",
+            "Enhances social interactions and academic performance",
+            "Has no effect",
+            "Only affects adults"
+        ],
+        "answer": "Enhances social interactions and academic performance"
+    },
+    {
+        "id": 125,
+        "question": "What is the purpose of formative assessment?",
+        "options": [
+            "To evaluate learning at the end of a term",
+            "To provide ongoing feedback and guide learning during the instructional process",
+            "To rank students",
+            "To finalize grades"
+        ],
+        "answer": "To provide ongoing feedback and guide learning during the instructional process"
+    },
+    {
+        "id": 126,
+        "question": "Which factor can contribute to a positive learning environment?",
+        "options": [
+            "Strict discipline without flexibility",
+            "A supportive and encouraging atmosphere",
+            "Ignoring student needs",
+            "High levels of stress"
+        ],
+        "answer": "A supportive and encouraging atmosphere"
+    },
+    {
+        "id": 127,
+        "question": "Which of the following is an example of intrinsic motivation?",
+        "options": [
+            "Studying to receive a reward",
+            "Learning because of personal interest and enjoyment",
+            "Completing tasks to avoid punishment",
+            "Participating to compete with others"
+        ],
+        "answer": "Learning because of personal interest and enjoyment"
+    },
+    {
+        "id": 128,
+        "question": "What is the impact of a child's home environment on their academic success?",
+        "options": [
+            "No impact",
+            "Significant impact on motivation and performance",
+            "Only affects physical health",
+            "Minimal influence"
+        ],
+        "answer": "Significant impact on motivation and performance"
+    },
+    {
+        "id": 129,
+        "question": "How do children's cognitive abilities develop according to Piaget?",
+        "options": [
+            "Through fixed stages",
+            "Randomly",
+            "Through continuous reinforcement",
+            "By adult intervention only"
+        ],
+        "answer": "Through fixed stages"
+    },
+    {
+        "id": 130,
+        "question": "What is the role of teachers in facilitating problem-solving skills in students?",
+        "options": [
+            "Providing answers",
+            "Encouraging exploration and independent thinking",
+            "Limiting questioning",
+            "Emphasizing rote learning"
+        ],
+        "answer": "Encouraging exploration and independent thinking"
+    },
+    {
+        "id": 131,
+        "question": "How can teachers use students' errors constructively in the learning process?",
+        "options": [
+            "By punishing mistakes",
+            "By understanding errors as learning opportunities and guiding students to correct them",
+            "By ignoring errors",
+            "By discouraging questions"
+        ],
+        "answer": "By understanding errors as learning opportunities and guiding students to correct them"
+    },
+    {
+        "id": 132,
+        "question": "What is the significance of motivation in the learning process?",
+        "options": [
+            "No significance",
+            "Vital for engaging and sustaining student interest in learning",
+            "Only affects adults",
+            "Limited impact"
+        ],
+        "answer": "Vital for engaging and sustaining student interest in learning"
+    },
+    {
+        "id": 133,
+        "question": "Which strategy helps in addressing individual learning differences?",
+        "options": [
+            "Standardizing teaching methods",
+            "Differentiating instruction based on student needs and abilities",
+            "Ignoring individual differences",
+            "Focusing solely on group learning"
+        ],
+        "answer": "Differentiating instruction based on student needs and abilities"
+    },
+    {
+        "id": 134,
+        "question": "What is a characteristic of constructivist learning environments?",
+        "options": [
+            "Teacher-centered instruction",
+            "Student-centered and inquiry-based learning",
+            "Focus on memorization",
+            "Uniform teaching methods"
+        ],
+        "answer": "Student-centered and inquiry-based learning"
+    },
+    {
+        "id": 135,
+        "question": "How do personal factors such as self-esteem affect learning?",
+        "options": [
+            "Irrelevant to learning",
+            "Can significantly enhance or hinder academic performance",
+            "Only affects physical health",
+            "Minimal influence"
+        ],
+        "answer": "Can significantly enhance or hinder academic performance"
+    },
+    {
+        "id": 136,
+        "question": "Which learning theory emphasizes the importance of social interaction?",
+        "options": [
+            "Behaviorism",
+            "Constructivism",
+            "Humanistic approach",
+            "Sociocultural theory"
+        ],
+        "answer": "Sociocultural theory"
+    },
+    {
+        "id": 137,
+        "question": "What is the benefit of using real-world problems in learning?",
+        "options": [
+            "Limits student engagement",
+            "Enhances relevance and application of knowledge",
+            "Focuses on memorization",
+            "Reduces creativity"
+        ],
+        "answer": "Enhances relevance and application of knowledge"
+    },
+    {
+        "id": 138,
+        "question": "Which approach is most effective for teaching diverse learners?",
+        "options": [
+            "One-size-fits-all",
+            "Inclusive and culturally responsive teaching",
+            "Isolated learning",
+            "Passive observation"
+        ],
+        "answer": "Inclusive and culturally responsive teaching"
+    },
+    {
+        "id": 138,
+        "question": "Which approach is most effective for teaching diverse learners?",
+        "options": [
+            "One-size-fits-all",
+            "Inclusive and culturally responsive teaching",
+            "Isolated learning",
+            "Passive observation"
+        ],
+        "answer": "Inclusive and culturally responsive teaching"
+    },
+    {
+        "id": 139,
+        "question": "What role do emotions play in decision-making and problem-solving?",
+        "options": [
+            "No role",
+            "Crucial in influencing judgments and choices",
+            "Negative impact",
+            "Only affects adults"
+        ],
+        "answer": "Crucial in influencing judgments and choices"
+    },
+    {
+        "id": 140,
+        "question": "How can teachers create a motivating classroom environment?",
+        "options": [
+            "By ignoring student needs",
+            "By providing engaging and meaningful learning activities",
+            "By enforcing strict discipline",
+            "By limiting resources"
+        ],
+        "answer": "By providing engaging and meaningful learning activities"
+    },
+    {
+        "id": 141,
+        "question": "What is the relationship between development, maturation, and learning in children?",
+        "options": [
+            "Development and maturation occur independently of learning",
+            "Development and maturation support and enhance learning",
+            "Learning hinders development and maturation",
+            "Development and maturation are unrelated to learning"
+        ],
+        "answer": "Development and maturation support and enhance learning"
+    },
+    {
+        "id": 142,
+        "question": "Which of the following is a major principle of growth and development in children?",
+        "options": [
+            "Development is static and unchanging",
+            "Development follows a predictable sequence",
+            "Development is solely influenced by heredity",
+            "Development is random and unpredictable"
+        ],
+        "answer": "Development follows a predictable sequence"
+    },
+    {
+        "id": 143,
+        "question": "What role does heredity play in a child's development?",
+        "options": [
+            "Heredity has no impact on development",
+            "Heredity solely determines development",
+            "Heredity contributes to physical and cognitive traits",
+            "Heredity is less important than the environment"
+        ],
+        "answer": "Heredity contributes to physical and cognitive traits"
+    },
+    {
+        "id": 144,
+        "question": "According to Erikson's theory of psychosocial development, what is the main focus during adolescence?",
+        "options": [
+            "Trust vs. Mistrust",
+            "Autonomy vs. Shame",
+            "Identity vs. Role Confusion",
+            "Integrity vs. Despair"
+        ],
+        "answer": "Identity vs. Role Confusion"
+    },
+    {
+        "id": 145,
+        "question": "How do family, peers, and teachers contribute to a child's socialization process?",
+        "options": [
+            "Family only",
+            "Peers only",
+            "Teachers only",
+            "All play significant roles"
+        ],
+        "answer": "All play significant roles"
+    },
+    {
+        "id": 146,
+        "question": "Which stage of Piaget's cognitive development theory involves abstract reasoning?",
+        "options": [
+            "Sensorimotor stage",
+            "Preoperational stage",
+            "Concrete operational stage",
+            "Formal operational stage"
+        ],
+        "answer": "Formal operational stage"
+    },
+    {
+        "id": 147,
+        "question": "What is the main focus of Kohlberg's theory of moral development?",
+        "options": [
+            "Cognitive development",
+            "Social interactions",
+            "Moral reasoning and ethical behavior",
+            "Emotional development"
+        ],
+        "answer": "Moral reasoning and ethical behavior"
+    },
+    {
+        "id": 148,
+        "question": "What is Vygotsky's theory of social constructivism primarily about?",
+        "options": [
+            "Independent learning",
+            "The role of social interactions and cultural tools in learning",
+            "Genetic predisposition",
+            "Fixed stages of development"
+        ],
+        "answer": "The role of social interactions and cultural tools in learning"
+    },
+    {
+        "id": 149,
+        "question": "What is the key concept of child-centered education?",
+        "options": [
+            "Teacher-led instruction",
+            "Emphasis on memorization",
+            "Focus on individual learning needs and interests",
+            "Standardized curriculum"
+        ],
+        "answer": "Focus on individual learning needs and interests"
+    },
+    {
+        "id": 150,
+        "question": "Which theory proposes multiple intelligences beyond traditional IQ?",
+        "options": [
+            "Spearman's two-factor theory",
+            "Gardner's theory of multiple intelligences",
+            "Thurstone's primary mental abilities",
+            "Guilford's structure of intellect"
+        ],
+        "answer": "Gardner's theory of multiple intelligences"
+    },
+    {
+        "id": 151,
+        "question": "According to Chomsky, what is the basis for language development?",
+        "options": [
+            "Environmental stimuli",
+            "Innate linguistic abilities",
+            "Social interactions",
+            "Cognitive stages"
+        ],
+        "answer": "Innate linguistic abilities"
+    },
+    {
+        "id": 152,
+        "question": "How does Vygotsky's view of language and thought differ from Piaget's?",
+        "options": [
+            "Vygotsky saw language as central to cognitive development, while Piaget saw it as a result of cognitive development",
+            "Vygotsky saw language as irrelevant, while Piaget saw it as central",
+            "Both saw language as irrelevant to cognitive development",
+            "Both saw language as central to cognitive development"
+        ],
+        "answer": "Vygotsky saw language as central to cognitive development, while Piaget saw it as a result of cognitive development"
+    },
+    {
+        "id": 153,
+        "question": "What is the role of the teacher in promoting gender equality in education?",
+        "options": [
+            "Ignoring gender differences",
+            "Reinforcing gender stereotypes",
+            "Addressing and challenging gender biases and promoting equality",
+            "Separating students by gender"
+        ],
+        "answer": "Addressing and challenging gender biases and promoting equality"
+    },
+    {
+        "id": 154,
+        "question": "What are individual differences among learners typically based on?",
+        "options": [
+            "Uniform traits",
+            "Diverse factors like language, caste, gender, community, religion",
+            "Standardized characteristics",
+            "None of the above"
+        ],
+        "answer": "Diverse factors like language, caste, gender, community, religion"
+    },
+    {
+        "id": 155,
+        "question": "What is the main purpose of Continuous and Comprehensive Evaluation (CCE)?",
+        "options": [
+            "One-time assessment",
+            "Ongoing assessment to enhance learning and overall development",
+            "Ranking students",
+            "Standardized testing"
+        ],
+        "answer": "Ongoing assessment to enhance learning and overall development"
+    },
+    {
+        "id": 156,
+        "question": "What is the concept of readiness for learning?",
+        "options": [
+            "Fixed age for learning",
+            "Maturation and developmental preparedness for specific learning tasks",
+            "Random learning ability",
+            "Immediate learning response"
+        ],
+        "answer": "Maturation and developmental preparedness for specific learning tasks"
+    },
+    {
+        "id": 157,
+        "question": "What is the focus of inclusive education?",
+        "options": [
+            "Segregating students with special needs",
+            "Integrating learners from diverse backgrounds into mainstream education",
+            "Standardizing all teaching methods",
+            "Ignoring individual differences"
+        ],
+        "answer": "Integrating learners from diverse backgrounds into mainstream education"
+    },
+    {
+        "id": 158,
+        "question": "Which technique is used to identify and support gifted and creative children?",
+        "options": [
+            "Ignoring their abilities",
+            "Providing enrichment programs and advanced learning opportunities",
+            "Standardized testing only",
+            "Limiting their creative expression"
+        ],
+        "answer": "Providing enrichment programs and advanced learning opportunities"
+    },
+    {
+        "id": 159,
+        "question": "What is the role of the teacher in addressing the needs of children with learning disabilities (LD)?",
+        "options": [
+            "Providing specialized support and adapting teaching methods",
+            "Ignoring their needs",
+            "Using a one-size-fits-all approach",
+            "Lowering academic expectations"
+        ],
+        "answer": "Providing specialized support and adapting teaching methods"
+    },
+    {
+        "id": 160,
+        "question": "What is the concept of emotional intelligence (EQ)?",
+        "options": [
+            "Logical reasoning ability",
+            "Ability to recognize and manage one's own and others' emotions",
+            "Physical strength",
+            "Mathematical aptitude"
+        ],
+        "answer": "Ability to recognize and manage one's own and others' emotions"
+    },
+    {
+        "id": 161,
+        "question": "According to Bandura's social learning theory, how do children learn?",
+        "options": [
+            "Through direct instruction only",
+            "By observing and imitating others",
+            "Through genetic predisposition",
+            "By memorization"
+        ],
+        "answer": "By observing and imitating others"
+    },
+    {
+    "id": 162,
+    "question": "What is the significance of Sternberg's information processing theory in education?",
+    "options": [
+      "Emphasizes rote learning",
+      "Focuses on how individuals process and use information effectively",
+      "Ignores cognitive processes",
+      "Standardizes all learning experiences"
+    ],
+    "answer": "Focuses on how individuals process and use information effectively"
+  },
+  {
+    "id": 163,
+    "question": "What is the concept of 'learner readiness'?",
+    "options": [
+      "Age-based learning ability",
+      "Maturation and developmental stage",
+      "Fixed learning capacity",
+      "Immediate learning response"
+    ],
+    "answer": "Maturation and developmental stage"
+  },
+  {
+    "id": 164,
+    "question": "Who proposed the theory of operant conditioning?",
+    "options": [
+      "Ivan Pavlov",
+      "John Dewey",
+      "B.F. Skinner",
+      "Carl Rogers"
+    ],
+    "answer": "B.F. Skinner"
+  },
+  {
+    "id": 165,
+    "question": "What does 'individual differences' in education refer to?",
+    "options": [
+      "Identical learning styles",
+      "Homogeneous groups",
+      "Variations in learners' characteristics",
+      "Uniform teaching methods"
+    ],
+    "answer": "Variations in learners' characteristics"
+  },
+  {
+    "id": 166,
+    "question": "What is the primary focus of Erikson's stage of 'Industry vs. Inferiority'?",
+    "options": [
+        "Trust",
+        "Autonomy",
+        "Competence and skill development",
+        "Identity formation"
+    ],
+    "answer": "Competence and skill development"
+},
+{
+    "id": 167,
+    "question": "How does the environment influence a child's language development?",
+    "options": [
+        "It has no impact",
+        "It provides stimuli and social interactions necessary for language acquisition",
+        "It only affects cognitive abilities",
+        "It solely determines genetic traits"
+    ],
+    "answer": "It provides stimuli and social interactions necessary for language acquisition"
+},
+{
+    "id": 168,
+    "question": "What is a key characteristic of progressive education?",
+    "options": [
+        "Teacher-centered instruction",
+        "Emphasis on hands-on, experiential learning",
+        "Focus on rote memorization",
+        "Standardized testing"
+    ],
+    "answer": "Emphasis on hands-on, experiential learning"
+},
+{
+    "id": 169,
+    "question": "Which cognitive process involves organizing and interpreting sensory information?",
+    "options": [
+        "Memory",
+        "Perception",
+        "Imagination",
+        "Reasoning"
+    ],
+    "answer": "Perception"
+},
+{
+    "id": 170,
+    "question": "How can teachers create a supportive learning environment for children with special needs?",
+    "options": [
+        "By standardizing all instructions",
+        "By using inclusive teaching practices and adaptive tools",
+        "By isolating them from other students",
+        "By lowering expectations"
+    ],
+    "answer": "By using inclusive teaching practices and adaptive tools"
+},
+{
+    "id": 171,
+    "question": "What is the significance of Bruner's spiral curriculum?",
+    "options": [
+        "Linear learning process",
+        "Repetition of concepts at increasing levels of complexity",
+        "Focus on short-term memory",
+        "Emphasis on rote learning"
+    ],
+    "answer": "Repetition of concepts at increasing levels of complexity"
+},
+{
+    "id": 172,
+    "question": "What does the term 'social learning' refer to in Bandura's theory?",
+    "options": [
+        "Learning through isolation",
+        "Learning through social interactions and observation",
+        "Learning through genetic inheritance",
+        "Learning through strict discipline"
+    ],
+    "answer": "Learning through social interactions and observation"
+},
+{
+    "id": 173,
+    "question": "Which approach emphasizes the holistic development of children?",
+    "options": [
+        "Fragmented approach",
+        "Comprehensive approach",
+        "Isolated learning",
+        "Uniform teaching methods"
+    ],
+    "answer": "Comprehensive approach"
+},
+{
+    "id": 174,
+    "question": "What is an example of an assessment technique used in CCE (Continuous and Comprehensive Evaluation)?",
+    "options": [
+        "Standardized testing",
+        "Anecdotal records",
+        "One-time exams",
+        "Ignoring student progress"
+    ],
+    "answer": "Anecdotal records"
+},
+{
+    "id": 175,
+    "question": "What is the role of feedback in the learning process?",
+    "options": [
+        "Discourages students",
+        "Provides guidance for improvement",
+        "Has no effect",
+        "Only affects grades"
+    ],
+    "answer": "Provides guidance for improvement"
+},
+{
+    "id": 176,
+    "question": "Which stage of Piaget's cognitive development theory involves egocentric thinking?",
+    "options": [
+        "Sensorimotor stage",
+        "Preoperational stage",
+        "Concrete operational stage",
+        "Formal operational stage"
+    ],
+    "answer": "Preoperational stage"
+},
+{
+    "id": 177,
+    "question": "What is the primary focus of Maslow's theory of motivation?",
+    "options": [
+        "External rewards",
+        "Hierarchy of human needs",
+        "Punishment",
+        "Genetic factors"
+    ],
+    "answer": "Hierarchy of human needs"
+},
+{
+    "id": 178,
+    "question": "How do children's cognitive errors contribute to their development according to Piaget?",
+    "options": [
+        "Errors are detrimental",
+        "Errors are essential for cognitive growth",
+        "Errors are to be ignored",
+        "Errors should be punished"
+    ],
+    "answer": "Errors are essential for cognitive growth"
+},
+{
+    "id": 179,
+    "question": "What is the significance of cooperative learning in education?",
+    "options": [
+        "Promotes competition",
+        "Fosters teamwork and collaboration",
+        "Limits interaction",
+        "Focuses on individual performance"
+    ],
+    "answer": "Fosters teamwork and collaboration"
+},
+{
+    "id": 180,
+    "question": "Which principle emphasizes the role of experiences in learning?",
+    "options": [
+        "Genetic predisposition",
+        "Environmental influences",
+        "Fixed stages",
+        "Rote memorization"
+    ],
+    "answer": "Environmental influences"
+},
+{
+    "id": 181,
+    "question": "What is the primary focus of constructivist teaching methods?",
+    "options": [
+        "Teacher-centered instruction",
+        "Active, student-centered learning",
+        "Passive observation",
+        "Standardized lessons"
+    ],
+    "answer": "Active, student-centered learning"
+},
+{
+    "id": 182,
+    "question": "Which type of motivation is driven by external rewards?",
+    "options": [
+        "Intrinsic motivation",
+        "Extrinsic motivation",
+        "Internal satisfaction",
+        "Personal interest"
+    ],
+    "answer": "Extrinsic motivation"
+},
+{
+    "id": 183,
+    "question": "How can teachers support the emotional development of children?",
+    "options": [
+        "By ignoring their feelings",
+        "By providing a safe and supportive environment",
+        "By focusing solely on academics",
+        "By discouraging emotional expression"
+    ],
+    "answer": "By providing a safe and supportive environment"
+},
+{
+    "id": 184,
+    "question": "What is the main characteristic of scaffolding in education?",
+    "options": [
+        "Providing no support",
+        "Gradually reducing support as learners become more competent",
+        "Focusing on rote learning",
+        "Limiting student participation"
+    ],
+    "answer": "Gradually reducing support as learners become more competent"
+},
+{
+    "id": 185,
+    "question": "Which theory suggests that children learn through problem-solving and experimentation?",
+    "options": [
+        "Behaviorism",
+        "Constructivism",
+        "Psychoanalysis",
+        "Genetic theory"
+    ],
+    "answer": "Constructivism"
+},
+{
+    "id": 186,
+    "question": "What is the role of the teacher in a constructivist classroom?",
+    "options": [
+        "Sole knowledge provider",
+        "Facilitator and guide",
+        "Passive observer",
+        "Enforcer of rules"
+    ],
+    "answer": "Facilitator and guide"
+},
+{
+    "id": 187,
+    "question": "Which type of assessment focuses on evaluating the overall development of students?",
+    "options": [
+        "Summative assessment",
+        "Formative assessment",
+        "Diagnostic assessment",
+        "Continuous and Comprehensive Evaluation (CCE)"
+    ],
+    "answer": "Continuous and Comprehensive Evaluation (CCE)"
+},
+{
+    "id": 188,
+    "question": "What is the primary goal of inclusive education?",
+    "options": [
+        "Segregating students with special needs",
+        "Providing equal opportunities and access to education for all students",
+        "Focusing on standardization",
+        "Ignoring individual differences"
+    ],
+    "answer": "Providing equal opportunities and access to education for all students"
+},
+{
+    "id": 189,
+    "question": "Which factor can negatively impact a child's academic performance?",
+    "options": [
+        "Positive reinforcement",
+        "Supportive learning environment",
+        "High levels of stress and anxiety",
+        "Engaging learning activities"
+    ],
+    "answer": "High levels of stress and anxiety"
+},
+{
+    "id": 190,
+    "question": "What is the significance of self-regulation in learning?",
+    "options": [
+        "Limits learning abilities",
+        "Enhances the ability to manage one's own learning process",
+        "Irrelevant to learning",
+        "Only affects adults"
+    ],
+    "answer": "Enhances the ability to manage one's own learning process"
+},
+{
+    "id": 191,
+    "question": "Which approach focuses on the individual's potential for growth and self-actualization?",
+    "options": [
+        "Psychoanalytic approach",
+        "Humanistic approach",
+        "Behaviorist approach",
+        "Cognitive approach"
+    ],
+    "answer": "Humanistic approach"
+},
+{
+    "id": 192,
+    "question": "What is the primary purpose of formative assessment?",
+    "options": [
+        "Final evaluation",
+        "Ongoing feedback to improve learning",
+        "Ranking students",
+        "Standardized testing"
+    ],
+    "answer": "Ongoing feedback to improve learning"
+},
+{
+    "id": 193,
+    "question": "What is the role of curiosity in the learning process?",
+    "options": [
+        "No role",
+        "Drives exploration and engagement",
+        "Discourages learning",
+        "Only affects physical development"
+    ],
+    "answer": "Drives exploration and engagement"
+},
+{
+    "id": 194,
+    "question": "Which theory emphasizes the importance of scaffolding in cognitive development?",
+    "options": [
+        "Piaget's theory",
+        "Vygotsky's theory",
+        "Skinner's theory",
+        "Maslow's theory"
+    ],
+    "answer": "Vygotsky's theory"
+},
+{
+    "id": 195,
+    "question": "How can teachers promote critical thinking in students?",
+    "options": [
+        "By providing answers",
+        "By encouraging questioning and exploration",
+        "By focusing on rote learning",
+        "By limiting discussion"
+    ],
+    "answer": "By encouraging questioning and exploration"
+},
+{
+    "id": 196,
+    "question": "What is the significance of social interactions in Vygotsky's theory?",
+    "options": [
+      "A) Minimal significance",
+      "B) Crucial for cognitive development",
+      "C) Irrelevant to learning",
+      "D) Negative impact"
+    ],
+    "answer": "B) Crucial for cognitive development"
+  },
+  {
+    "id": 197,
+    "question": "Which learning theory emphasizes the role of reinforcement and punishment in behavior?",
+    "options": [
+      "A) Constructivism",
+      "B) Behaviorism",
+      "C) Humanism",
+      "D) Social learning theory"
+    ],
+    "answer": "B) Behaviorism"
+  },
+  {
+    "id": 198,
+    "question": "How does emotional maturity contribute to a child's development?",
+    "options": [
+      "A) It has no impact",
+      "B) It enhances the ability to manage emotions and social relationships",
+      "C) It solely affects physical growth",
+      "D) It discourages social interaction"
+    ],
+    "answer": "B) It enhances the ability to manage emotions and social relationships"
+  },
+  {
+    "id": 199,
+    "question": "What is the role of peer interactions in social development according to Erikson?",
+    "options": [
+      "A) Irrelevant to development",
+      "B) Essential for building social skills and self-identity",
+      "C) Negative influence",
+      "D) Solely determined by genetics"
+    ],
+    "answer": "B) Essential for building social skills and self-identity"
+  },
+  {
+    "id": 200,
+    "question": "Which theory suggests that learning occurs through observation and imitation of others?",
+    "options": [
+      "A) Behaviorism",
+      "B) Cognitive development theory",
+      "C) Social learning theory",
+      "D) Psychoanalytic theory"
+    ],
+    "answer": "C) Social learning theory"
+  },
+  {
+    "id": 201,
+    "question": "What is the main focus of Gagné's hierarchy of learning?",
+    "options": [
+      "A) Physical development",
+      "B) Intellectual and cognitive skills development",
+      "C) Emotional regulation",
+      "D) Social interactions"
+    ],
+    "answer": "B) Intellectual and cognitive skills development"
+  },
+  {
+    "id": 202,
+    "question": "How can teachers address the diverse learning needs of students in the classroom?",
+    "options": [
+      "A) By using a uniform approach",
+      "B) By differentiating instruction based on individual needs",
+      "C) By focusing only on high achievers",
+      "D) By standardizing all assessments"
+    ],
+    "answer": "B) By differentiating instruction based on individual needs"
+  },
+  {
+    "id": 203,
+    "question": "What is the significance of early childhood education in a child's development?",
+    "options": [
+      "A) It has no impact",
+      "B) It lays the foundation for future learning and development",
+      "C) It solely focuses on academic skills",
+      "D) It limits social interactions"
+    ],
+    "answer": "B) It lays the foundation for future learning and development"
+  },
+  {
+    "id": 204,
+    "question": "Which approach to teaching emphasizes the development of critical thinking and problem-solving skills?",
+    "options": [
+      "A) Traditional teaching",
+      "B) Inquiry-based learning",
+      "C) Lecture-based instruction",
+      "D) Rote memorization"
+    ],
+    "answer": "B) Inquiry-based learning"
+  },
+  {
+    "id": 205,
+    "question": "What is the relationship between language and thought according to Vygotsky?",
+    "options": [
+      "A) They are independent of each other",
+      "B) Language is a fundamental tool for cognitive development",
+      "C) Thought precedes language",
+      "D) Language hinders cognitive development"
+    ],
+    "answer": "B) Language is a fundamental tool for cognitive development"
+  },
+  {
+    "id": 206,
+    "question": "How can teachers promote a growth mindset in students?",
+    "options": [
+      "A) By praising innate abilities",
+      "B) By encouraging effort and persistence",
+      "C) By focusing on fixed intelligence",
+      "D) By discouraging challenges"
+    ],
+    "answer": "B) By encouraging effort and persistence"
+  },
+  {
+    "id": 207,
+    "question": "What is the primary goal of differentiated instruction?",
+    "options": [
+      "A) Standardizing teaching methods",
+      "B) Catering to the unique learning needs of each student",
+      "C) Limiting learning opportunities",
+      "D) Ignoring individual differences"
+    ],
+    "answer": "B) Catering to the unique learning needs of each student"
+  },
+  {
+    "id": 208,
+    "question": "Which of the following is a characteristic of authoritative parenting?",
+    "options": [
+      "A) High demands and low responsiveness",
+      "B) High demands and high responsiveness",
+      "C) Low demands and low responsiveness",
+      "D) Low demands and high responsiveness"
+    ],
+    "answer": "B) High demands and high responsiveness"
+  },
+  {
+    "id": 209,
+    "question": "What is the main focus of Thorndike's theory of learning?",
+    "options": [
+      "A) Social interactions",
+      "B) Law of effect and reinforcement",
+      "C) Genetic predisposition",
+      "D) Cognitive development"
+    ],
+    "answer": "B) Law of effect and reinforcement"
+  },
+  {
+    "id": 210,
+    "question": "How does gender as a social construct influence educational practices?",
+    "options": [
+      "A) It has no impact",
+      "B) It shapes expectations and opportunities for students based on gender roles",
+      "C) It solely affects physical development",
+      "D) It discourages academic achievement"
+    ],
+    "answer": "B) It shapes expectations and opportunities for students based on gender roles"
+  },
+  {
+    "id": 211,
+    "question": "What is the significance of play in early childhood development?",
+    "options": [
+      "A) Irrelevant to development",
+      "B) Enhances cognitive, social, and emotional development",
+      "C) Limits learning opportunities",
+      "D) Discourages social interactions"
+    ],
+    "answer": "B) Enhances cognitive, social, and emotional development"
+  },
+  {
+    "id": 212,
+    "question": "Which theory emphasizes the importance of prior knowledge in learning new concepts?",
+    "options": [
+      "A) Behaviorism",
+      "B) Constructivism",
+      "C) Humanism",
+      "D) Psychoanalysis"
+    ],
+    "answer": "B) Constructivism"
+  },
+  {
+    "id": 213,
+    "question": "How can teachers support the development of executive function skills in students?",
+    "options": [
+      "A) By providing structured routines and opportunities for practice",
+      "B) By ignoring their needs",
+      "C) By focusing solely on academic content",
+      "D) By limiting their participation"
+    ],
+    "answer": "A) By providing structured routines and opportunities for practice"
+  },
+  {
+    "id": 214,
+    "question": "What is the main characteristic of Gardner's theory of multiple intelligences?",
+    "options": [
+      "A) Intelligence is a single, fixed trait",
+      "B) Intelligence consists of multiple, distinct abilities",
+      "C) Intelligence is solely determined by genetics",
+      "D) Intelligence is unchangeable"
+    ],
+    "answer": "B) Intelligence consists of multiple, distinct abilities"
+  },
+  {
+    "id": 215,
+    "question": "How do intrinsic and extrinsic motivation differ?",
+    "options": [
+      "A) Both are driven by external rewards",
+      "B) Intrinsic motivation is driven by personal interest, while extrinsic motivation is driven by external rewards",
+      "C) Both are driven by personal interest",
+      "D) Both discourage learning"
+    ],
+    "answer": "B) Intrinsic motivation is driven by personal interest, while extrinsic motivation is driven by external rewards"
+  }
+]   

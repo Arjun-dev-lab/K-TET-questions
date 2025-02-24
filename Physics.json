@@ -1,0 +1,452 @@
+[
+    {
+        "id": 1,
+        "question": "Which of the following is a transparent object?",
+        "options": ["Wood", "Glass", "Stone", "Plastic"],
+        "answer": "Glass"
+    },
+    {
+        "id": 2,
+        "question": "What type of mirror is used to focus light?",
+        "options": ["Plane mirror", "Concave mirror", "Convex mirror", "Spherical mirror"],
+        "answer": "Concave mirror"
+    },
+    {
+        "id": 3,
+        "question": "Which phenomenon occurs when the moon passes through the Earth's shadow?",
+        "options": ["Solar eclipse", "Lunar eclipse", "Orbit", "Satellite"],
+        "answer": "Lunar eclipse"
+    },
+    {
+        "id": 4,
+        "question": "What celestial body orbits a planet?",
+        "options": ["Comet", "Meteorite", "Satellite", "Asteroid"],
+        "answer": "Satellite"
+    },
+    {
+        "id": 5,
+        "question": "Which of the following is a simple machine that consists of a wheel and a rope?",
+        "options": ["Lever", "Inclined plane", "Pulley", "Fulcrum"],
+        "answer": "Pulley"
+    },
+    {
+        "id": 6,
+        "question": "What is the main property of a magnet?",
+        "options": ["Conductivity", "Flexibility", "Attraction to iron", "Transparency"],
+        "answer": "Attraction to iron"
+    },
+    {
+        "id": 7,
+        "question": "Which type of energy is stored in an object due to its position?",
+        "options": ["Kinetic energy", "Thermal energy", "Potential energy", "Chemical energy"],
+        "answer": "Potential energy"
+    },
+    {
+        "id": 8,
+        "question": "What happens to the density of a substance when its temperature increases?",
+        "options": ["Density increases", "Density decreases", "Density remains the same", "Density fluctuates"],
+        "answer": "Density decreases"
+    },
+    {
+        "id": 9,
+        "question": "What device is used to measure temperature?",
+        "options": ["Barometer", "Hygrometer", "Thermometer", "Anemometer"],
+        "answer": "Thermometer"
+    },
+    {
+        "id": 10,
+        "question": "What is the primary cause of lightning?",
+        "options": ["Frictional electricity", "Solar radiation", "Magnetic fields", "Tidal forces"],
+        "answer": "Frictional electricity"
+    },
+    {
+        "id": 11,
+        "question": "Which term describes the loudness or softness of a sound?",
+        "options": ["Frequency", "Amplitude", "Wavelength", "Timbre"],
+        "answer": "Amplitude"
+    },
+    {
+        "id": 12,
+        "question": "What type of motion does a pendulum exhibit?",
+        "options": ["Uniform motion", "Non-uniform motion", "Oscillatory motion", "Linear motion"],
+        "answer": "Oscillatory motion"
+    },
+    {
+        "id": 13,
+        "question": "Which law describes the relationship between force, mass, and acceleration?",
+        "options": ["Newton's First Law", "Newton's Second Law", "Newton's Third Law", "Law of Conservation of Energy"],
+        "answer": "Newton's Second Law"
+    },
+    {
+        "id": 14,
+        "question": "What is the main advantage of using thermal insulators in everyday objects?",
+        "options": ["Increased weight", "Better conductivity", "Reduced heat loss", "Enhanced flexibility"],
+        "answer": "Reduced heat loss"
+    },
+    {
+        "id": 15,
+        "question": "Which property of an object determines its inertia?",
+        "options": ["Volume", "Mass", "Density", "Temperature"],
+        "answer": "Mass"
+    },
+    {
+        "id": 16,
+        "question": "What instrument measures atmospheric pressure?",
+        "options": ["Thermometer", "Barometer", "Hygrometer", "Anemometer"],
+        "answer": "Barometer"
+    },
+    {
+        "id": 17,
+        "question": "Which form of energy is produced by the movement of electrons?",
+        "options": ["Chemical energy", "Mechanical energy", "Electrical energy", "Thermal energy"],
+        "answer": "Electrical energy"
+    },
+    {
+        "id": 18,
+        "question": "Which type of machine is a seesaw an example of?",
+        "options": ["Inclined plane", "Pulley", "Lever", "Wheel and axle"],
+        "answer": "Lever"
+    },
+    {
+        "id": 19,
+        "question": "What natural phenomenon is described by the formation of a shadow on the moon?",
+        "options": ["Solar eclipse", "Lunar eclipse", "Aurora", "Meteor shower"],
+        "answer": "Lunar eclipse"
+    },
+    {
+        "id": 20,
+        "question": "Which simple machine is used to lift heavy objects with less effort?",
+        "options": ["Lever", "Pulley", "Inclined plane", "Screw"],
+        "answer": "Pulley"
+    },
+    {
+        "id": 21,
+        "question": "What type of mirror is commonly used in vehicles as rearview mirrors?",
+        "options": ["Plane mirror", "Concave mirror", "Convex mirror", "Spherical mirror"],
+        "answer": "Convex mirror"
+    },
+    {
+        "id": 22,
+        "question": "Which celestial object is known as the 'Red Planet'?",
+        "options": ["Venus", "Mars", "Jupiter", "Saturn"],
+        "answer": "Mars"
+    },
+    {
+        "id": 23,
+        "question": "What kind of energy transformation occurs in a solar panel?",
+        "options": ["Mechanical to electrical", "Chemical to electrical", "Solar to electrical", "Thermal to electrical"],
+        "answer": "Solar to electrical"
+    },
+    {
+        "id": 24,
+        "question": "Which force acts against the motion of an object?",
+        "options": ["Gravitational force", "Centripetal force", "Frictional force", "Magnetic force"],
+        "answer": "Frictional force"
+    },
+    {
+        "id": 25,
+        "question": "Which form of heat transfer does not require a medium?",
+        "options": ["Conduction", "Convection", "Radiation", "Conduction and Convection"],
+        "answer": "Radiation"
+    },
+    {
+        "id": 26,
+        "question": "Which of the following is an opaque object?",
+        "options": ["Water", "Glass", "Brick", "Plastic sheet"],
+        "answer": "Brick"
+    },
+    {
+        "id": 27,
+        "question": "What type of image is formed by a convex mirror?",
+        "options": ["Real and inverted", "Virtual and erect", "Enlarged and real", "Diminished and virtual"],
+        "answer": "Diminished and virtual"
+    },
+    {
+        "id": 28,
+        "question": "During which eclipse is the Sun completely or partially hidden by the Moon?",
+        "options": ["Solar eclipse", "Lunar eclipse", "Annular eclipse", "Partial eclipse"],
+        "answer": "Solar eclipse"
+    },
+    {
+        "id": 29,
+        "question": "What is the primary function of a satellite?",
+        "options": ["To orbit the sun", "To reflect sunlight", "To transmit signals", "To produce energy"],
+        "answer": "To transmit signals"
+    },
+    {
+        "id": 30,
+        "question": "Which simple machine is used to split objects apart?",
+        "options": ["Lever", "Wedge", "Pulley", "Wheel and axle"],
+        "answer": "Wedge"
+    },
+    {
+        "id": 31,
+        "question": "Which property is unique to magnets?",
+        "options": ["They can attract all materials", "They have a north and south pole", "They can be stretched easily", "They are transparent"],
+        "answer": "They have a north and south pole"
+    },
+    {
+        "id": 32,
+        "question": "What is kinetic energy?",
+        "options": ["Energy due to position", "Energy due to motion", "Energy stored in food", "Energy from the sun"],
+        "answer": "Energy due to motion"
+    },
+    {
+        "id": 33,
+        "question": "What is the effect of heating on the density of air?",
+        "options": ["Increases density", "Decreases density", "No change in density", "Fluctuates density"],
+        "answer": "Decreases density"
+    },
+    {
+        "id": 34,
+        "question": "What is the unit of temperature?",
+        "options": ["Joule", "Pascal", "Celsius", "Newton"],
+        "answer": "Celsius"
+    },
+    {
+        "id": 35,
+        "question": "What safety device is used to protect buildings from lightning?",
+        "options": ["Electroscope", "Lightning arrester", "Circuit breaker", "Fuse"],
+        "answer": "Lightning arrester"
+    },
+    {
+        "id": 36,
+        "question": "What is the frequency of a sound wave?",
+        "options": ["Number of vibrations per second", "Height of the wave", "Speed of the wave", "Direction of the wave"],
+        "answer": "Number of vibrations per second"
+    },
+    {
+        "id": 37,
+        "question": "What type of motion does the Earth exhibit as it orbits the Sun?",
+        "options": ["Linear motion", "Circular motion", "Oscillatory motion", "Rectilinear motion"],
+        "answer": "Circular motion"
+    },
+    {
+        "id": 38,
+        "question": "What is the first law of motion?",
+        "options": ["An object in motion stays in motion", "Force equals mass times acceleration", "Every action has an equal and opposite reaction", "Energy cannot be created or destroyed"],
+        "answer": "An object in motion stays in motion"
+    },
+    {
+        "id": 39,
+        "question": "Which material is a good thermal insulator?",
+        "options": ["Copper", "Aluminum", "Wool", "Silver"],
+        "answer": "Wool"
+    },
+    {
+        "id": 40,
+        "question": "What is inertia?",
+        "options": ["Resistance to change in temperature", "Resistance to change in motion", "Attraction between masses", "Energy due to motion"],
+        "answer": "Resistance to change in motion"
+    },
+    {
+        "id": 41,
+        "question": "What device measures the pressure of the atmosphere?",
+        "options": ["Thermometer", "Barometer", "Hygrometer", "Anemometer"],
+        "answer": "Barometer"
+    },
+    {
+        "id": 42,
+        "question": "What type of energy is generated from fossil fuels?",
+        "options": ["Solar energy", "Electrical energy", "Chemical energy", "Nuclear energy"],
+        "answer": "Chemical energy"
+    },
+    {
+        "id": 43,
+        "question": "Which of the following is a third-class lever?",
+        "options": ["Seesaw", "Wheelbarrow", "Fishing rod", "Scissors"],
+        "answer": "Fishing rod"
+    },
+    {
+        "id": 44,
+        "question": "Which phenomenon occurs when the Earth passes between the Sun and the Moon?",
+        "options": ["Solar eclipse", "Lunar eclipse", "Meteor shower", "Aurora"],
+        "answer": "Lunar eclipse"
+    },
+    {
+        "id": 45,
+        "question": "What simple machine is used in a flagpole to raise and lower the flag?",
+        "options": ["Lever", "Pulley", "Inclined plane", "Screw"],
+        "answer": "Pulley"
+    },
+    {
+        "id": 46,
+        "question": "What type of mirror is used in car headlights?",
+        "options": ["Plane mirror", "Concave mirror", "Convex mirror", "Cylindrical mirror"],
+        "answer": "Concave mirror"
+    },
+    {
+        "id": 47,
+        "question": "Which planet is known for its prominent ring system?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Saturn"
+    },
+    {
+        "id": 48,
+        "question": "What is the primary source of energy in a hydroelectric power plant?",
+        "options": ["Wind energy", "Solar energy", "Water energy", "Biomass energy"],
+        "answer": "Water energy"
+    },
+    {
+        "id": 49,
+        "question": "What kind of force is responsible for keeping objects grounded on Earth?",
+        "options": ["Magnetic force", "Gravitational force", "Frictional force", "Centripetal force"],
+        "answer": "Gravitational force"
+    },
+    {
+        "id": 50,
+        "question": "Which form of heat transfer occurs in a vacuum?",
+        "options": ["Conduction", "Convection", "Radiation", "Conduction and Convection"],
+        "answer": "Radiation"
+    },
+    {
+        "id": 51,
+        "question": "Which of the following objects is an example of an opaque object?",
+        "options": ["Clear plastic sheet", "Frosted glass", "Wooden door", "Transparent tape"],
+        "answer": "Wooden door"
+    },
+    {
+        "id": 52,
+        "question": "What type of image is formed by a plane mirror?",
+        "options": ["Real and inverted", "Virtual and erect", "Enlarged and real", "Diminished and virtual"],
+        "answer": "Virtual and erect"
+    },
+    {
+        "id": 53,
+        "question": "What is the phenomenon called when the Sun is blocked by the Moon?",
+        "options": ["Lunar eclipse", "Solar eclipse", "Annular eclipse", "Partial eclipse"],
+        "answer": "Solar eclipse"
+    },
+    {
+        "id": 54,
+        "question": "What is the main function of a geostationary satellite?",
+        "options": ["To study deep space", "To observe weather patterns", "To transmit television signals", "To explore other planets"],
+        "answer": "To transmit television signals"
+    },
+    {
+        "id": 55,
+        "question": "Which simple machine consists of a wheel with a groove for a rope?",
+        "options": ["Lever", "Inclined plane", "Pulley", "Wedge"],
+        "answer": "Pulley"
+    },
+    {
+        "id": 56,
+        "question": "Which property of magnets is utilized in a compass?",
+        "options": ["Magnets attract iron", "Magnets can be demagnetized", "Magnets have north and south poles", "Magnets can repel other magnets"],
+        "answer": "Magnets have north and south poles"
+    },
+    {
+        "id": 57,
+        "question": "What is potential energy?",
+        "options": ["Energy of motion", "Stored energy due to position", "Energy from chemical reactions", "Energy from the sun"],
+        "answer": "Stored energy due to position"
+    },
+    {
+        "id": 58,
+        "question": "What happens to the density of water when it freezes?",
+        "options": ["Density increases", "Density decreases", "Density remains the same", "Density fluctuates"],
+        "answer": "Density decreases"
+    },
+    {
+        "id": 59,
+        "question": "Which device is used to measure atmospheric pressure?",
+        "options": ["Thermometer", "Barometer", "Hygrometer", "Anemometer"],
+        "answer": "Barometer"
+    },
+    {
+        "id": 60,
+        "question": "What causes static electricity?",
+        "options": ["Magnetic fields", "Chemical reactions", "Friction between materials", "Solar radiation"],
+        "answer": "Friction between materials"
+    },
+    {
+        "id": 61,
+        "question": "Which characteristic of sound is related to its pitch?",
+        "options": ["Amplitude", "Frequency", "Wavelength", "Timbre"],
+        "answer": "Frequency"
+    },
+    {
+        "id": 62,
+        "question": "Which type of motion is exhibited by the Earth's rotation on its axis?",
+        "options": ["Linear motion", "Circular motion", "Oscillatory motion", "Uniform motion"],
+        "answer": "Circular motion"
+    },
+    {
+        "id": 63,
+        "question": "What does Newton's third law state?",
+        "options": ["An object in motion stays in motion", "Force equals mass times acceleration", "Every action has an equal and opposite reaction", "Energy cannot be created or destroyed"],
+        "answer": "Every action has an equal and opposite reaction"
+    },
+    {
+        "id": 64,
+        "question": "What is the purpose of a vacuum flask?",
+        "options": ["To absorb heat", "To conduct electricity", "To reduce heat transfer", "To measure temperature"],
+        "answer": "To reduce heat transfer"
+    },
+    {
+        "id": 65,
+        "question": "Which property affects an object's resistance to changes in motion?",
+        "options": ["Volume", "Mass", "Density", "Temperature"],
+        "answer": "Mass"
+    },
+    {
+        "id": 66,
+        "question": "What instrument is used to measure the force of atmospheric pressure?",
+        "options": ["Thermometer", "Barometer", "Hygrometer", "Anemometer"],
+        "answer": "Barometer"
+    },
+    {
+        "id": 67,
+        "question": "What is the primary source of energy in a fossil fuel power plant?",
+        "options": ["Solar energy", "Wind energy", "Chemical energy", "Nuclear energy"],
+        "answer": "Chemical energy"
+    },
+    {
+        "id": 68,
+        "question": "Which class of lever is a wheelbarrow an example of?",
+        "options": ["First class", "Second class", "Third class", "None of the above"],
+        "answer": "Second class"
+    },
+    {
+        "id": 69,
+        "question": "What natural event occurs when the Moon passes between the Earth and the Sun?",
+        "options": ["Solar eclipse", "Lunar eclipse", "Meteor shower", "Aurora"],
+        "answer": "Solar eclipse"
+    },
+    {
+        "id": 70,
+        "question": "Which simple machine helps raise and lower the sails on a sailboat?",
+        "options": ["Lever", "Pulley", "Inclined plane", "Screw"],
+        "answer": "Pulley"
+    },
+    {
+        "id": 71,
+        "question": "What type of mirror is used in a shaving mirror?",
+        "options": ["Plane mirror", "Concave mirror", "Convex mirror", "Cylindrical mirror"],
+        "answer": "Concave mirror"
+    },
+    {
+        "id": 72,
+        "question": "Which planet is the largest in our solar system?",
+        "options": ["Jupiter", "Saturn", "Uranus", "Neptune"],
+        "answer": "Jupiter"
+    },
+    {
+        "id": 73,
+        "question": "What kind of energy transformation occurs in a wind turbine?",
+        "options": ["Mechanical to electrical", "Chemical to electrical", "Solar to electrical", "Thermal to electrical"],
+        "answer": "Mechanical to electrical"
+    },
+    {
+        "id": 74,
+        "question": "What force acts to slow down an object moving through the air?",
+        "options": ["Gravitational force", "Centripetal force", "Frictional force", "Magnetic force"],
+        "answer": "Frictional force"
+    },
+    {
+        "id": 75,
+        "question": "Which method of heat transfer involves the movement of fluids?",
+        "options": ["Conduction", "Convection", "Radiation", "None of the above"],
+        "answer": "Convection"
+    }      
+]

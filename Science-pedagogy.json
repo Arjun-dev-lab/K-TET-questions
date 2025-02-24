@@ -1,0 +1,816 @@
+[
+    {
+        "id": 1,
+        "question": "What are the main aims and objectives of science education?",
+        "options": [
+            "To promote scientific literacy",
+            "To prepare students for science careers",
+            "To enhance problem-solving skills",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "id": 2,
+        "question": "Which approach to science curriculum focuses on hands-on activities and experiments?",
+        "options": [
+            "Theoretical approach",
+            "Activity-based approach",
+            "Lecture-based approach",
+            "Textbook approach"
+        ],
+        "answer": "Activity-based approach"
+    },
+    {
+        "id": 3,
+        "question": "What is the primary criticism of contemporary science education?",
+        "options": [
+            "Lack of technological integration",
+            "Overemphasis on rote learning",
+            "Too much practical work",
+            "Insufficient teacher training"
+        ],
+        "answer": "Overemphasis on rote learning"
+    },
+    {
+        "id": 4,
+        "question": "What does scientific literacy entail?",
+        "options": [
+            "Understanding scientific terms and concepts",
+            "Applying scientific principles to real-world problems",
+            "Evaluating scientific information critically",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "id": 5,
+        "question": "What is the taxonomy of science education?",
+        "options": [
+            "Classification of scientific concepts",
+            "Hierarchical arrangement of educational objectives",
+            "Listing of science textbooks",
+            "Categorization of science experiments"
+        ],
+        "answer": "Hierarchical arrangement of educational objectives"
+    },
+    {
+        "id": 6,
+        "question": "Which domain focuses on the acquisition of factual and conceptual knowledge?",
+        "options": [
+            "Creativity domain",
+            "Attitudinal domain",
+            "Knowledge domain",
+            "Application domain"
+        ],
+        "answer": "Knowledge domain"
+    },
+    {
+        "id": 7,
+        "question": "Which skill is crucial for effective problem-solving in science?",
+        "options": [
+            "Memorization",
+            "Critical thinking",
+            "Note-taking",
+            "Group discussion"
+        ],
+        "answer": "Critical thinking"
+    },
+    {
+        "id": 8,
+        "question": "Which pedagogic strategy involves students working together to achieve common goals?",
+        "options": [
+            "Individual learning",
+            "Lecture-based learning",
+            "Collaborative learning",
+            "Silent reading"
+        ],
+        "answer": "Collaborative learning"
+    },
+    {
+        "id": 9,
+        "question": "What is the significance of scientific inquiry in science education?",
+        "options": [
+            "It helps in understanding scientific methods",
+            "It promotes curiosity and exploration",
+            "It encourages evidence-based reasoning",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "id": 10,
+        "question": "Why is the history of science important in education?",
+        "options": [
+            "It shows the development of scientific knowledge",
+            "It highlights contributions of various scientists",
+            "It provides context for current scientific theories",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "id": 11,
+        "question": "What role does the laboratory play in science education?",
+        "options": [
+            "It provides hands-on learning experiences",
+            "It reinforces theoretical concepts",
+            "It helps in developing scientific skills",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "id": 12,
+        "question": "What is Continuous and Comprehensive Evaluation (CCE)?",
+        "options": [
+            "A system of periodic assessment",
+            "A method of final examinations",
+            "An approach to continuous assessment of student performance",
+            "A grading system"
+        ],
+        "answer": "An approach to continuous assessment of student performance"
+    },
+    {
+        "id": 13,
+        "question": "Why is a scientific attitude important in students?",
+        "options": [
+            "It promotes skepticism",
+            "It fosters curiosity and open-mindedness",
+            "It discourages critical thinking",
+            "It reinforces existing beliefs"
+        ],
+        "answer": "It fosters curiosity and open-mindedness"
+    },
+    {
+        "id": 14,
+        "question": "Which method of science teaching involves students conducting experiments?",
+        "options": [
+            "Lecture method",
+            "Demonstration method",
+            "Inquiry-based method",
+            "Textbook method"
+        ],
+        "answer": "Inquiry-based method"
+    },
+    {
+        "id": 15,
+        "question": "What is the primary role of a science teacher?",
+        "options": [
+            "To transmit scientific knowledge",
+            "To facilitate scientific inquiry",
+            "To assess student performance",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "id": 16,
+        "question": "Which teaching and learning aid is most effective in explaining complex scientific concepts?",
+        "options": [
+            "Textbooks",
+            "Visual aids (e.g., diagrams, videos)",
+            "Lecture notes",
+            "Worksheets"
+        ],
+        "answer": "Visual aids (e.g., diagrams, videos)"
+    },
+    {
+        "id": 17,
+        "question": "What is the psychological basis of science learning?",
+        "options": [
+            "Cognitive development",
+            "Behaviorist theories",
+            "Constructivist theories",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "id": 18,
+        "question": "Which approach of science education is learner-centered?",
+        "options": [
+            "Teacher-centered approach",
+            "Content-centered approach",
+            "Activity-based approach",
+            "Exam-centered approach"
+        ],
+        "answer": "Activity-based approach"
+    },
+    {
+        "id": 19,
+        "question": "What is the goal of science literacy?",
+        "options": [
+            "To understand and apply scientific concepts",
+            "To memorize scientific facts",
+            "To write scientific papers",
+            "To perform scientific experiments"
+        ],
+        "answer": "To understand and apply scientific concepts"
+    },
+    {
+        "id": 20,
+        "question": "Which domain focuses on the application of scientific knowledge to solve real-world problems?",
+        "options": [
+            "Knowledge domain",
+            "Creativity domain",
+            "Application domain",
+            "Attitudinal domain"
+        ],
+        "answer": "Application domain"
+    },
+    {
+        "id": 21,
+        "question": "Which pedagogic strategy promotes active participation and learning by doing?",
+        "options": [
+            "Lecture-based learning",
+            "Activity-based learning",
+            "Rote learning",
+            "Silent reading"
+        ],
+        "answer": "Activity-based learning"
+    },
+    {
+        "id": 22,
+        "question": "Why is collaborative learning significant in science education?",
+        "options": [
+            "It fosters teamwork and communication",
+            "It encourages competition",
+            "It focuses on individual achievements",
+            "It discourages cooperation"
+        ],
+        "answer": "It fosters teamwork and communication"
+    },
+    {
+        "id": 23,
+        "question": "What is the purpose of assessment in science education?",
+        "options": [
+            "To evaluate student understanding and skills",
+            "To provide feedback for improvement",
+            "To guide future teaching strategies",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "id": 24,
+        "question": "What does CCE stand for in the context of education?",
+        "options": [
+            "Continuous and Comprehensive Evaluation",
+            "Critical and Creative Education",
+            "Curriculum and Competence Enhancement",
+            "Collaborative and Cooperative Education"
+        ],
+        "answer": "Continuous and Comprehensive Evaluation"
+    },
+    {
+        "id": 25,
+        "question": "Which teaching aid can provide real-time demonstrations of scientific concepts?",
+        "options": [
+            "Textbooks",
+            "Laboratory experiments",
+            "Worksheets",
+            "Lecture notes"
+        ],
+        "answer": "Laboratory experiments"
+    },
+    {
+        "id": 26,
+        "question": "Which domain in science education focuses on attitudes, values, and ethics?",
+        "options": [
+            "Knowledge domain",
+            "Creativity domain",
+            "Attitudinal domain",
+            "Application domain"
+        ],
+        "answer": "Attitudinal domain"
+    },
+    {
+        "id": 27,
+        "question": "What is the importance of problem-solving skills in science education?",
+        "options": [
+            "To memorize scientific facts",
+            "To apply scientific concepts to real-life situations",
+            "To write scientific reports",
+            "To learn scientific names"
+        ],
+        "answer": "To apply scientific concepts to real-life situations"
+    },
+    {
+        "id": 28,
+        "question": "Which approach to science education emphasizes understanding and inquiry?",
+        "options": [
+            "Rote learning",
+            "Activity-based learning",
+            "Lecture method",
+            "Memorization"
+        ],
+        "answer": "Activity-based learning"
+    },
+    {
+        "id": 29,
+        "question": "What is one of the key criticisms of contemporary science education?",
+        "options": [
+            "Lack of hands-on activities",
+            "Overuse of technology",
+            "Focus on practical skills",
+            "Emphasis on scientific literacy"
+        ],
+        "answer": "Lack of hands-on activities"
+    },
+    {
+        "id": 30,
+        "question": "What is the role of collaborative learning in science education?",
+        "options": [
+            "Encourages competition among students",
+            "Promotes teamwork and communication skills",
+            "Focuses on individual work",
+            "Emphasizes rote learning"
+        ],
+        "answer": "Promotes teamwork and communication skills"
+    },
+    {
+        "id": 31,
+        "question": "Which domain focuses on generating new ideas and approaches in science?",
+        "options": [
+            "Knowledge domain",
+            "Application domain",
+            "Creativity domain",
+            "Attitudinal domain"
+        ],
+        "answer": "Creativity domain"
+    },
+    {
+        "id": 32,
+        "question": "Why is the significance of the history of science in education?",
+        "options": [
+            "To memorize dates and events",
+            "To understand the development of scientific ideas",
+            "To learn about historical figures",
+            "To focus on current scientific theories"
+        ],
+        "answer": "To understand the development of scientific ideas"
+    },
+    {
+        "id": 33,
+        "question": "What is a key characteristic of scientific inquiry?",
+        "options": [
+            "Passive observation",
+            "Active exploration and experimentation",
+            "Memorization of facts",
+            "Following predetermined steps"
+        ],
+        "answer": "Active exploration and experimentation"
+    },
+    {
+        "id": 34,
+        "question": "What is the purpose of using teaching aids in science education?",
+        "options": [
+            "To make lessons more engaging and interactive",
+            "To provide more homework",
+            "To replace textbooks",
+            "To limit teacher-student interaction"
+        ],
+        "answer": "To make lessons more engaging and interactive"
+    },
+    {
+        "id": 35,
+        "question": "Which method of science teaching involves guided discovery and problem-solving?",
+        "options": [
+            "Lecture method",
+            "Demonstration method",
+            "Inquiry-based method",
+            "Textbook method"
+        ],
+        "answer": "Inquiry-based method"
+    },
+    {
+        "id": 36,
+        "question": "What is the role of a science teacher in the classroom?",
+        "options": [
+            "To facilitate learning and scientific inquiry",
+            "To provide all the answers",
+            "To control student behavior",
+            "To give out grades"
+        ],
+        "answer": "To facilitate learning and scientific inquiry"
+    },
+    {
+        "id": 37,
+        "question": "What is the significance of the laboratory in science education?",
+        "options": [
+            "Provides hands-on learning experiences",
+            "Reinforces theoretical concepts",
+            "Develops practical skills",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "id": 38,
+        "question": "What does CCE stand for in the context of education?",
+        "options": [
+            "Continuous and Comprehensive Evaluation",
+            "Critical and Creative Education",
+            "Curriculum and Competence Enhancement",
+            "Collaborative and Cooperative Education"
+        ],
+        "answer": "Continuous and Comprehensive Evaluation"
+    },
+    {
+        "id": 39,
+        "question": "What is an important goal of science education?",
+        "options": [
+            "To promote memorization of facts",
+            "To develop critical thinking and problem-solving skills",
+            "To provide career opportunities",
+            "To prepare for standardized tests"
+        ],
+        "answer": "To develop critical thinking and problem-solving skills"
+    },
+    {
+        "id": 40,
+        "question": "Which domain emphasizes the application of scientific concepts to new situations?",
+        "options": [
+            "Creativity domain",
+            "Application domain",
+            "Knowledge domain",
+            "Attitudinal domain"
+        ],
+        "answer": "Application domain"
+    },
+    {
+        "id": 41,
+        "question": "What is a key element of activity-based learning in science education?",
+        "options": [
+            "Passive listening",
+            "Hands-on experiments and activities",
+            "Memorization of facts",
+            "Reading textbooks"
+        ],
+        "answer": "Hands-on experiments and activities"
+    },
+    {
+        "id": 42,
+        "question": "What is the purpose of assessment in science education?",
+        "options": [
+            "To evaluate student understanding and skills",
+            "To provide feedback for improvement",
+            "To guide future teaching strategies",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "id": 43,
+        "question": "What is the psychological basis of science learning?",
+        "options": [
+            "Cognitive development",
+            "Behaviorist theories",
+            "Constructivist theories",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "id": 44,
+        "question": "Which approach to science education emphasizes critical thinking and inquiry?",
+        "options": [
+            "Rote learning",
+            "Lecture method",
+            "Inquiry-based learning",
+            "Textbook method"
+        ],
+        "answer": "Inquiry-based learning"
+    },
+    {
+        "id": 45,
+        "question": "What is the significance of scientific inquiry in science education?",
+        "options": [
+            "Promotes curiosity and exploration",
+            "Encourages evidence-based reasoning",
+            "Helps in understanding scientific methods",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "id": 46,
+        "question": "Which pedagogic strategy involves students working together to solve problems?",
+        "options": [
+            "Individual learning",
+            "Collaborative learning",
+            "Lecture-based learning",
+            "Silent reading"
+        ],
+        "answer": "Collaborative learning"
+    },
+    {
+        "id": 47,
+        "question": "What is the purpose of teaching aids in science education?",
+        "options": [
+            "To enhance understanding of complex concepts",
+            "To replace teacher instruction",
+            "To limit student interaction",
+            "To provide more homework"
+        ],
+        "answer": "To enhance understanding of complex concepts"
+    },
+    {
+        "id": 48,
+        "question": "What is the role of the science teacher in promoting scientific attitude?",
+        "options": [
+            "Encourages curiosity and critical thinking",
+            "Provides factual information",
+            "Controls student behavior",
+            "Focuses on textbook learning"
+        ],
+        "answer": "Encourages curiosity and critical thinking"
+    },
+    {
+        "id": 49,
+        "question": "Which method of science teaching involves students conducting experiments?",
+        "options": [
+            "Lecture method",
+            "Demonstration method",
+            "Inquiry-based method",
+            "Textbook method"
+        ],
+        "answer": "Inquiry-based method"
+    },
+    {
+        "id": 50,
+        "question": "What is the role of evaluation in science education?",
+        "options": [
+            "To assess student understanding",
+            "To provide feedback",
+            "To improve teaching methods",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "id": 51,
+        "question": "Which approach to science education promotes inquiry and hands-on activities?",
+        "options": [
+            "Lecture-based approach",
+            "Activity-based approach",
+            "Memorization approach",
+            "Content-centered approach"
+        ],
+        "answer": "Activity-based approach"
+    },
+    {
+        "id": 52,
+        "question": "What is a common criticism of contemporary science education?",
+        "options": [
+            "Lack of technological integration",
+            "Overemphasis on rote learning",
+            "Too much focus on practical work",
+            "Insufficient use of textbooks"
+        ],
+        "answer": "Overemphasis on rote learning"
+    },
+    {
+        "id": 53,
+        "question": "What are the main aims of science education?",
+        "options": [
+            "To promote scientific literacy",
+            "To prepare students for science careers",
+            "To enhance problem-solving skills",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "id": 54,
+        "question": "Which domain focuses on the acquisition of factual and conceptual knowledge?",
+        "options": [
+            "Attitudinal domain",
+            "Knowledge domain",
+            "Creativity domain",
+            "Application domain"
+        ],
+        "answer": "Knowledge domain"
+    },
+    {
+        "id": 55,
+        "question": "Why is scientific literacy important?",
+        "options": [
+            "It helps in understanding scientific terms and concepts",
+            "It enables individuals to make informed decisions",
+            "It promotes critical evaluation of scientific information",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "id": 56,
+        "question": "What is the purpose of the taxonomy of science education?",
+        "options": [
+            "To classify scientific concepts",
+            "To organize educational objectives hierarchically",
+            "To list science textbooks",
+            "To categorize science experiments"
+        ],
+        "answer": "To organize educational objectives hierarchically"
+    },
+    {
+        "id": 57,
+        "question": "What skill is essential for effective problem-solving in science?",
+        "options": [
+            "Memorization",
+            "Critical thinking",
+            "Note-taking",
+            "Group discussion"
+        ],
+        "answer": "Critical thinking"
+    },
+    {
+        "id": 58,
+        "question": "Which pedagogic strategy involves students working together to achieve common goals?",
+        "options": [
+            "Individual learning",
+            "Collaborative learning",
+            "Lecture-based learning",
+            "Silent reading"
+        ],
+        "answer": "Collaborative learning"
+    },
+    {
+        "id": 59,
+        "question": "What is the significance of the history of science in education?",
+        "options": [
+            "It shows the development of scientific knowledge",
+            "It highlights contributions of various scientists",
+            "It provides context for current scientific theories",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "id": 60,
+        "question": "Why is the laboratory important in science education?",
+        "options": [
+            "It provides hands-on learning experiences",
+            "It reinforces theoretical concepts",
+            "It helps in developing scientific skills",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "id": 61,
+        "question": "What is Continuous and Comprehensive Evaluation (CCE)?",
+        "options": [
+            "A system of periodic assessment",
+            "A method of final examinations",
+            "An approach to continuous assessment of student performance",
+            "A grading system"
+        ],
+        "answer": "An approach to continuous assessment of student performance"
+    },
+    {
+        "id": 62,
+        "question": "Why is a scientific attitude important in students?",
+        "options": [
+            "It promotes skepticism",
+            "It fosters curiosity and open-mindedness",
+            "It discourages critical thinking",
+            "It reinforces existing beliefs"
+        ],
+        "answer": "It fosters curiosity and open-mindedness"
+    },
+    {
+        "id": 63,
+        "question": "Which method of science teaching involves students conducting experiments?",
+        "options": [
+            "Lecture method",
+            "Demonstration method",
+            "Inquiry-based method",
+            "Textbook method"
+        ],
+        "answer": "Inquiry-based method"
+    },
+    {
+        "id": 64,
+        "question": "What is the primary role of a science teacher?",
+        "options": [
+            "To transmit scientific knowledge",
+            "To facilitate scientific inquiry",
+            "To assess student performance",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "id": 65,
+        "question": "Which teaching and learning aid is most effective in explaining complex scientific concepts?",
+        "options": [
+            "Textbooks",
+            "Visual aids (e.g., diagrams, videos)",
+            "Lecture notes",
+            "Worksheets"
+        ],
+        "answer": "Visual aids (e.g., diagrams, videos)"
+    },
+    {
+        "id": 66,
+        "question": "What is the psychological basis of science learning?",
+        "options": [
+            "Cognitive development",
+            "Behaviorist theories",
+            "Constructivist theories",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "id": 67,
+        "question": "Which approach of science education is learner-centered?",
+        "options": [
+            "Teacher-centered approach",
+            "Content-centered approach",
+            "Activity-based approach",
+            "Exam-centered approach"
+        ],
+        "answer": "Activity-based approach"
+    },
+    {
+        "id": 68,
+        "question": "What is the goal of science literacy?",
+        "options": [
+            "To understand and apply scientific concepts",
+            "To memorize scientific facts",
+            "To write scientific papers",
+            "To perform scientific experiments"
+        ],
+        "answer": "To understand and apply scientific concepts"
+    },
+    {
+        "id": 69,
+        "question": "Which domain focuses on the application of scientific knowledge to solve real-world problems?",
+        "options": [
+            "Knowledge domain",
+            "Creativity domain",
+            "Application domain",
+            "Attitudinal domain"
+        ],
+        "answer": "Application domain"
+    },
+    {
+        "id": 70,
+        "question": "Which pedagogic strategy promotes active participation and learning by doing?",
+        "options": [
+            "Lecture-based learning",
+            "Activity-based learning",
+            "Rote learning",
+            "Silent reading"
+        ],
+        "answer": "Activity-based learning"
+    },
+    {
+        "id": 71,
+        "question": "Why is collaborative learning significant in science education?",
+        "options": [
+            "It fosters teamwork and communication",
+            "It encourages competition",
+            "It focuses on individual achievements",
+            "It discourages cooperation"
+        ],
+        "answer": "It fosters teamwork and communication"
+    },
+    {
+        "id": 72,
+        "question": "What is the purpose of assessment in science education?",
+        "options": [
+            "To evaluate student understanding and skills",
+            "To provide feedback for improvement",
+            "To guide future teaching strategies",
+            "All of the above"
+        ],
+        "answer": "All of the above"
+    },
+    {
+        "id": 73,
+        "question": "Which teaching aid can provide real-time demonstrations of scientific concepts?",
+        "options": [
+            "Textbooks",
+            "Laboratory experiments",
+            "Worksheets",
+            "Lecture notes"
+        ],
+        "answer": "Laboratory experiments"
+    },
+    {
+        "id": 74,
+        "question": "What is the role of the science teacher in promoting scientific attitude?",
+        "options": [
+            "Encourages curiosity and critical thinking",
+            "Provides factual information",
+            "Controls student behavior",
+            "Focuses on textbook learning"
+        ],
+        "answer": "Encourages curiosity and critical thinking"
+    }
+]
