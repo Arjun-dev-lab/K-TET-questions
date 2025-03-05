@@ -1,0 +1,1287 @@
+[
+    {
+      "id": 1,
+      "question": "What is the antonym of 'benevolent'?",
+      "options": ["Kind", "Generous", "Malevolent", "Friendly"],
+      "answer": "Malevolent"
+    },
+    {
+      "id": 2,
+      "question": "What is the synonym of 'ephemeral'?",
+      "options": ["Permanent", "Temporary", "Eternal", "Endless"],
+      "answer": "Temporary"
+    },
+    {
+      "id": 3,
+      "question": "Which of the following is a foreign word meaning 'a strong desire to travel'?",
+      "options": ["Wanderlust", "Schadenfreude", "Déjà vu", "Faux pas"],
+      "answer": "Wanderlust"
+    },
+    {
+      "id": 4,
+      "question": "Which word is often confused with 'affect'?",
+      "options": ["Effect", "Accept", "Except", "Influence"],
+      "answer": "Effect"
+    },
+    {
+      "id": 5,
+      "question": "What is the correct spelling of the word meaning 'to make something clear'?",
+      "options": ["Clarify", "Clarafy", "Clariffy", "Clarifie"],
+      "answer": "Clarify"
+    },
+    {
+      "id": 6,
+      "question": "What is the one-word substitution for 'a person who loves books'?",
+      "options": ["Bibliophile", "Philosopher", "Logophile", "Epicure"],
+      "answer": "Bibliophile"
+    },
+    {
+      "id": 7,
+      "question": "Which of the following is a phrase?",
+      "options": ["The cat sat on the mat", "Under the table", "She ran quickly", "Because it was raining"],
+      "answer": "Under the table"
+    },
+    {
+      "id": 8,
+      "question": "Which of the following is a clause?",
+      "options": ["In the morning", "When the sun rises", "Running fast", "The big red ball"],
+      "answer": "When the sun rises"
+    },
+    {
+      "id": 9,
+      "question": "Transform the sentence 'She sings beautifully' into a question.",
+      "options": ["Does she sing beautifully?", "She does sing beautifully?", "Is she singing beautifully?", "Beautifully she sings?"],
+      "answer": "Does she sing beautifully?"
+    },
+    {
+      "id": 10,
+      "question": "Which tense is used in the sentence 'I will go to the market tomorrow'?",
+      "options": ["Present Simple", "Past Simple", "Future Simple", "Present Continuous"],
+      "answer": "Future Simple"
+    },
+    {
+      "id": 11,
+      "question": "What is the correct concord in the sentence 'Neither of the boys ___ happy'?",
+      "options": ["is", "are", "were", "have been"],
+      "answer": "is"
+    },
+    {
+      "id": 12,
+      "question": "Which preposition correctly completes the sentence 'She is good ___ mathematics'?",
+      "options": ["at", "in", "on", "with"],
+      "answer": "at"
+    },
+    {
+      "id": 13,
+      "question": "Convert the sentence 'The teacher praised the student' into passive voice.",
+      "options": [
+        "The student was praised by the teacher",
+        "The student praised the teacher",
+        "The teacher was praised by the student",
+        "The student is praised by the teacher"
+      ],
+      "answer": "The student was praised by the teacher"
+    },
+    {
+      "id": 14,
+      "question": "Report the sentence 'I am going to the market' in indirect speech.",
+      "options": [
+        "He said he is going to the market",
+        "He said he was going to the market",
+        "He said he will go to the market",
+        "He said he goes to the market"
+      ],
+      "answer": "He said he was going to the market"
+    },
+    {
+      "id": 15,
+      "question": "What is the antonym of 'vivid'?",
+      "options": ["Bright", "Dull", "Colorful", "Lively"],
+      "answer": "Dull"
+    },
+    {
+      "id": 16,
+      "question": "What is the synonym of 'meticulous'?",
+      "options": ["Careless", "Careful", "Sloppy", "Hasty"],
+      "answer": "Careful"
+    },
+    {
+      "id": 17,
+      "question": "Which foreign word means 'the fear of long words'?",
+      "options": ["Hippopotomonstrosesquippedaliophobia", "Schadenfreude", "Déjà vu", "Faux pas"],
+      "answer": "Hippopotomonstrosesquippedaliophobia"
+    },
+    {
+      "id": 18,
+      "question": "Which word is often confused with 'complement'?",
+      "options": ["Compliment", "Complete", "Comply", "Complicate"],
+      "answer": "Compliment"
+    },
+    {
+      "id": 19,
+      "question": "What is the correct spelling of the word meaning 'to express disapproval'?",
+      "options": ["Criticize", "Criticise", "Critisize", "Critisise"],
+      "answer": "Criticize"
+    },
+    {
+      "id": 20,
+      "question": "What is the one-word substitution for 'a person who hates mankind'?",
+      "options": ["Philanthropist", "Misanthrope", "Altruist", "Optimist"],
+      "answer": "Misanthrope"
+    },
+    {
+      "id": 21,
+      "question": "Which of the following is a phrase?",
+      "options": ["After the storm", "She danced gracefully", "Because he was late", "The dog barked loudly"],
+      "answer": "After the storm"
+    },
+    {
+      "id": 22,
+      "question": "Which of the following is a clause?",
+      "options": ["On the table", "When the bell rings", "Running late", "The blue sky"],
+      "answer": "When the bell rings"
+    },
+    {
+      "id": 23,
+      "question": "Transform the sentence 'He plays football' into a negative sentence.",
+      "options": [
+        "He does not play football",
+        "He do not play football",
+        "He is not playing football",
+        "He not plays football"
+      ],
+      "answer": "He does not play football"
+    },
+    {
+      "id": 24,
+      "question": "Which tense is used in the sentence 'She has finished her homework'?",
+      "options": ["Present Perfect", "Past Perfect", "Future Perfect", "Present Continuous"],
+      "answer": "Present Perfect"
+    },
+    {
+      "id": 25,
+      "question": "What is the correct concord in the sentence 'Each of the students ___ responsible'?",
+      "options": ["is", "are", "were", "have been"],
+      "answer": "is"
+    },
+    {
+      "id": 26,
+      "question": "Which preposition correctly completes the sentence 'He is fond ___ music'?",
+      "options": ["of", "in", "on", "with"],
+      "answer": "of"
+    },
+    {
+      "id": 27,
+      "question": "Convert the sentence 'The chef cooked the meal' into passive voice.",
+      "options": [
+        "The meal was cooked by the chef",
+        "The meal cooked the chef",
+        "The chef was cooked by the meal",
+        "The meal is cooked by the chef"
+      ],
+      "answer": "The meal was cooked by the chef"
+    },
+    {
+      "id": 28,
+      "question": "Report the sentence 'I will call you later' in indirect speech.",
+      "options": [
+        "He said he will call me later",
+        "He said he would call me later",
+        "He said he calls me later",
+        "He said he is calling me later"
+      ],
+      "answer": "He said he would call me later"
+    },
+    {
+      "id": 29,
+      "question": "What is the antonym of 'optimistic'?",
+      "options": ["Hopeful", "Pessimistic", "Cheerful", "Positive"],
+      "answer": "Pessimistic"
+    },
+    {
+      "id": 30,
+      "question": "What is the synonym of 'arduous'?",
+      "options": ["Easy", "Difficult", "Simple", "Effortless"],
+      "answer": "Difficult"
+    },
+    {
+      "id": 31,
+      "question": "Which foreign word means 'the pleasure derived from another's misfortune'?",
+      "options": ["Schadenfreude", "Wanderlust", "Déjà vu", "Faux pas"],
+      "answer": "Schadenfreude"
+    },
+    {
+      "id": 32,
+      "question": "Which word is often confused with 'principal'?",
+      "options": ["Principle", "Principality", "Principally", "Principium"],
+      "answer": "Principle"
+    },
+    {
+      "id": 33,
+      "question": "What is the correct spelling of the word meaning 'to make something easier'?",
+      "options": ["Facilitate", "Facilatate", "Facilite", "Facilatite"],
+      "answer": "Facilitate"
+    },
+    {
+      "id": 34,
+      "question": "What is the one-word substitution for 'a person who loves mankind'?",
+      "options": ["Misanthrope", "Philanthropist", "Altruist", "Optimist"],
+      "answer": "Philanthropist"
+    },
+    {
+      "id": 35,
+      "question": "Which of the following is a phrase?",
+      "options": ["Before the meeting", "She sings beautifully", "Because it was cold", "The cat slept peacefully"],
+      "answer": "Before the meeting"
+    },
+    {
+      "id": 36,
+      "question": "Which of the following is a clause?",
+      "options": ["Under the bed", "When the train arrives", "Running fast", "The red car"],
+      "answer": "When the train arrives"
+    },
+    {
+      "id": 37,
+      "question": "Transform the sentence 'They are playing cricket' into a question.",
+      "options": [
+        "Are they playing cricket?",
+        "They are playing cricket?",
+        "Is they playing cricket?",
+        "Playing cricket they are?"
+      ],
+      "answer": "Are they playing cricket?"
+    },
+    {
+      "id": 38,
+      "question": "Which tense is used in the sentence 'I had finished my work before he arrived'?",
+      "options": ["Past Perfect", "Present Perfect", "Future Perfect", "Past Continuous"],
+      "answer": "Past Perfect"
+    },
+    {
+      "id": 39,
+      "question": "What is the correct concord in the sentence 'Neither the teacher nor the students ___ present'?",
+      "options": ["is", "are", "was", "have been"],
+      "answer": "are"
+    },
+    {
+      "id": 40,
+      "question": "Which preposition correctly completes the sentence 'She is allergic ___ cats'?",
+      "options": ["to", "in", "on", "with"],
+      "answer": "to"
+    },
+    {
+      "id": 41,
+      "question": "Convert the sentence 'The artist painted the mural' into passive voice.",
+      "options": [
+        "The mural was painted by the artist",
+        "The mural painted the artist",
+        "The artist was painted by the mural",
+        "The mural is painted by the artist"
+      ],
+      "answer": "The mural was painted by the artist"
+    },
+    {
+      "id": 42,
+      "question": "Report the sentence 'I have completed the project' in indirect speech.",
+      "options": [
+        "He said he has completed the project",
+        "He said he had completed the project",
+        "He said he completes the project",
+        "He said he is completing the project"
+      ],
+      "answer": "He said he had completed the project"
+    },
+    {
+      "id": 43,
+      "question": "What is the antonym of 'generous'?",
+      "options": ["Kind", "Stingy", "Charitable", "Benevolent"],
+      "answer": "Stingy"
+    },
+    {
+      "id": 44,
+      "question": "What is the synonym of 'benevolent'?",
+      "options": ["Cruel", "Kind", "Selfish", "Mean"],
+      "answer": "Kind"
+    },
+    {
+      "id": 45,
+      "question": "Which foreign word means 'a feeling of déjà vu'?",
+      "options": ["Déjà vu", "Wanderlust", "Schadenfreude", "Faux pas"],
+      "answer": "Déjà vu"
+    },
+    {
+      "id": 46,
+      "question": "Which word is often confused with 'stationary'?",
+      "options": ["Stationery", "Station", "Statutory", "Static"],
+      "answer": "Stationery"
+    },
+    {
+      "id": 47,
+      "question": "What is the correct spelling of the word meaning 'to make something smaller'?",
+      "options": ["Minimize", "Minimise", "Minimaze", "Minimise"],
+      "answer": "Minimize"
+    },
+    {
+      "id": 48,
+      "question": "What is the one-word substitution for 'a person who loves nature'?",
+      "options": ["Naturalist", "Philanthropist", "Misanthrope", "Optimist"],
+      "answer": "Naturalist"
+    },
+    {
+      "id": 49,
+      "question": "Which of the following is a phrase?",
+      "options": ["After the party", "She danced gracefully", "Because it was raining", "The dog barked loudly"],
+      "answer": "After the party"
+    },
+    {
+      "id": 50,
+      "question": "Which of the following is a clause?",
+      "options": ["On the roof", "When the sun sets", "Running late", "The blue ocean"],
+      "answer": "When the sun sets"
+    },
+    {
+        "id": 51,
+        "question": "What is the antonym of 'explicit'?",
+        "options": ["Clear", "Vague", "Direct", "Obvious"],
+        "answer": "Vague"
+    },
+    {
+        "id": 52,
+        "question": "What is the synonym of 'gregarious'?",
+        "options": ["Introverted", "Sociable", "Shy", "Reserved"],
+        "answer": "Sociable"
+    },
+    {
+        "id": 53,
+        "question": "Which foreign word means 'a mistake or blunder'?",
+        "options": ["Faux pas", "Schadenfreude", "Déjà vu", "Wanderlust"],
+        "answer": "Faux pas"
+    },
+    {
+        "id": 54,
+        "question": "Which word is often confused with 'advice'?",
+        "options": ["Advise", "Device", "Devise", "Adverse"],
+        "answer": "Advise"
+    },
+    {
+        "id": 55,
+        "question": "What is the correct spelling of the word meaning 'to make something larger'?",
+        "options": ["Magnify", "Magnifie", "Magnafy", "Magnifey"],
+        "answer": "Magnify"
+    },
+    {
+        "id": 56,
+        "question": "What is the one-word substitution for 'a person who loves solitude'?",
+        "options": ["Extrovert", "Introvert", "Ambivert", "Misanthrope"],
+        "answer": "Introvert"
+    },
+    {
+        "id": 57,
+        "question": "Which of the following is a phrase?",
+        "options": ["During the storm", "She sang beautifully", "Because he was tired", "The bird flew away"],
+        "answer": "During the storm"
+    },
+    {
+        "id": 58,
+        "question": "Which of the following is a clause?",
+        "options": ["On the hill", "When the rain stopped", "Running fast", "The tall tree"],
+        "answer": "When the rain stopped"
+    },
+    {
+        "id": 59,
+        "question": "Transform the sentence 'She writes poems' into a negative sentence.",
+        "options": [
+        "She does not write poems",
+        "She do not write poems",
+        "She is not writing poems",
+        "She not writes poems"
+        ],
+        "answer": "She does not write poems"
+    },
+    {
+        "id": 60,
+        "question": "Which tense is used in the sentence 'They will have completed the project by tomorrow'?",
+        "options": ["Future Perfect", "Present Perfect", "Past Perfect", "Future Continuous"],
+        "answer": "Future Perfect"
+    },
+    {
+        "id": 61,
+        "question": "What is the correct concord in the sentence 'Either the manager or the employees ___ responsible'?",
+        "options": ["is", "are", "was", "have been"],
+        "answer": "are"
+    },
+    {
+        "id": 62,
+        "question": "Which preposition correctly completes the sentence 'He is interested ___ learning Spanish'?",
+        "options": ["in", "on", "at", "with"],
+        "answer": "in"
+    },
+    {
+        "id": 63,
+        "question": "Convert the sentence 'The gardener planted the flowers' into passive voice.",
+        "options": [
+        "The flowers were planted by the gardener",
+        "The flowers planted the gardener",
+        "The gardener was planted by the flowers",
+        "The flowers are planted by the gardener"
+        ],
+        "answer": "The flowers were planted by the gardener"
+    },
+    {
+        "id": 64,
+        "question": "Report the sentence 'I can help you tomorrow' in indirect speech.",
+        "options": [
+        "He said he can help me tomorrow",
+        "He said he could help me tomorrow",
+        "He said he helps me tomorrow",
+        "He said he is helping me tomorrow"
+        ],
+        "answer": "He said he could help me tomorrow"
+    },
+    {
+        "id": 65,
+        "question": "What is the antonym of 'cautious'?",
+        "options": ["Careful", "Reckless", "Prudent", "Vigilant"],
+        "answer": "Reckless"
+    },
+    {
+        "id": 66,
+        "question": "What is the synonym of 'meticulous'?",
+        "options": ["Careless", "Precise", "Sloppy", "Hasty"],
+        "answer": "Precise"
+    },
+    {
+        "id": 67,
+        "question": "Which foreign word means 'a feeling of déjà vu'?",
+        "options": ["Déjà vu", "Wanderlust", "Schadenfreude", "Faux pas"],
+        "answer": "Déjà vu"
+    },
+    {
+        "id": 68,
+        "question": "Which word is often confused with 'complement'?",
+        "options": ["Compliment", "Complete", "Comply", "Complicate"],
+        "answer": "Compliment"
+    },
+    {
+        "id": 69,
+        "question": "What is the correct spelling of the word meaning 'to make something easier'?",
+        "options": ["Facilitate", "Facilatate", "Facilite", "Facilatite"],
+        "answer": "Facilitate"
+    },
+    {
+        "id": 70,
+        "question": "What is the one-word substitution for 'a person who loves mankind'?",
+        "options": ["Misanthrope", "Philanthropist", "Altruist", "Optimist"],
+        "answer": "Philanthropist"
+    },
+    {
+        "id": 71,
+        "question": "Which of the following is a phrase?",
+        "options": ["Before the meeting", "She sings beautifully", "Because it was cold", "The cat slept peacefully"],
+        "answer": "Before the meeting"
+    },
+    {
+        "id": 72,
+        "question": "Which of the following is a clause?",
+        "options": ["Under the bed", "When the train arrives", "Running fast", "The red car"],
+        "answer": "When the train arrives"
+    },
+    {
+        "id": 73,
+        "question": "Transform the sentence 'They are playing cricket' into a question.",
+        "options": [
+        "Are they playing cricket?",
+        "They are playing cricket?",
+        "Is they playing cricket?",
+        "Playing cricket they are?"
+        ],
+        "answer": "Are they playing cricket?"
+    },
+    {
+        "id": 74,
+        "question": "Which tense is used in the sentence 'I had finished my work before he arrived'?",
+        "options": ["Past Perfect", "Present Perfect", "Future Perfect", "Past Continuous"],
+        "answer": "Past Perfect"
+    },
+    {
+        "id": 75,
+        "question": "What is the correct concord in the sentence 'Neither the teacher nor the students ___ present'?",
+        "options": ["is", "are", "was", "have been"],
+        "answer": "are"
+    },
+    {
+        "id": 76,
+        "question": "Which preposition correctly completes the sentence 'She is allergic ___ cats'?",
+        "options": ["to", "in", "on", "with"],
+        "answer": "to"
+    },
+    {
+        "id": 77,
+        "question": "Convert the sentence 'The artist painted the mural' into passive voice.",
+        "options": [
+        "The mural was painted by the artist",
+        "The mural painted the artist",
+        "The artist was painted by the mural",
+        "The mural is painted by the artist"
+        ],
+        "answer": "The mural was painted by the artist"
+    },
+    {
+        "id": 78,
+        "question": "Report the sentence 'I have completed the project' in indirect speech.",
+        "options": [
+        "He said he has completed the project",
+        "He said he had completed the project",
+        "He said he completes the project",
+        "He said he is completing the project"
+        ],
+        "answer": "He said he had completed the project"
+    },
+    {
+        "id": 79,
+        "question": "What is the antonym of 'generous'?",
+        "options": ["Kind", "Stingy", "Charitable", "Benevolent"],
+        "answer": "Stingy"
+    },
+    {
+        "id": 80,
+        "question": "What is the synonym of 'benevolent'?",
+        "options": ["Cruel", "Kind", "Selfish", "Mean"],
+        "answer": "Kind"
+    },
+    {
+        "id": 81,
+        "question": "Which foreign word means 'a feeling of déjà vu'?",
+        "options": ["Déjà vu", "Wanderlust", "Schadenfreude", "Faux pas"],
+        "answer": "Déjà vu"
+    },
+    {
+        "id": 82,
+        "question": "Which word is often confused with 'stationary'?",
+        "options": ["Stationery", "Station", "Statutory", "Static"],
+        "answer": "Stationery"
+    },
+    {
+        "id": 83,
+        "question": "What is the correct spelling of the word meaning 'to make something smaller'?",
+        "options": ["Minimize", "Minimise", "Minimaze", "Minimise"],
+        "answer": "Minimize"
+    },
+    {
+        "id": 84,
+        "question": "What is the one-word substitution for 'a person who loves nature'?",
+        "options": ["Naturalist", "Philanthropist", "Misanthrope", "Optimist"],
+        "answer": "Naturalist"
+    },
+    {
+        "id": 85,
+        "question": "Which of the following is a phrase?",
+        "options": ["After the party", "She danced gracefully", "Because it was raining", "The dog barked loudly"],
+        "answer": "After the party"
+    },
+    {
+        "id": 86,
+        "question": "Which of the following is a clause?",
+        "options": ["On the roof", "When the sun sets", "Running late", "The blue ocean"],
+        "answer": "When the sun sets"
+    },
+    {
+        "id": 87,
+        "question": "What is the antonym of 'explicit'?",
+        "options": ["Clear", "Vague", "Direct", "Obvious"],
+        "answer": "Vague"
+    },
+    {
+        "id": 88,
+        "question": "What is the synonym of 'gregarious'?",
+        "options": ["Introverted", "Sociable", "Shy", "Reserved"],
+        "answer": "Sociable"
+    },
+    {
+        "id": 89,
+        "question": "Which foreign word means 'a mistake or blunder'?",
+        "options": ["Faux pas", "Schadenfreude", "Déjà vu", "Wanderlust"],
+        "answer": "Faux pas"
+    },
+    {
+        "id": 90,
+        "question": "Which word is often confused with 'advice'?",
+        "options": ["Advise", "Device", "Devise", "Adverse"],
+        "answer": "Advise"
+    },
+    {
+        "id": 91,
+        "question": "What is the correct spelling of the word meaning 'to make something larger'?",
+        "options": ["Magnify", "Magnifie", "Magnafy", "Magnifey"],
+        "answer": "Magnify"
+    },
+    {
+        "id": 92,
+        "question": "What is the one-word substitution for 'a person who loves solitude'?",
+        "options": ["Extrovert", "Introvert", "Ambivert", "Misanthrope"],
+        "answer": "Introvert"
+    },
+    {
+        "id": 93,
+        "question": "Which of the following is a phrase?",
+        "options": ["During the storm", "She sang beautifully", "Because he was tired", "The bird flew away"],
+        "answer": "During the storm"
+    },
+    {
+        "id": 94,
+        "question": "Which of the following is a clause?",
+        "options": ["On the hill", "When the rain stopped", "Running fast", "The tall tree"],
+        "answer": "When the rain stopped"
+    },
+    {
+        "id": 95,
+        "question": "Transform the sentence 'She writes poems' into a negative sentence.",
+        "options": [
+        "She does not write poems",
+        "She do not write poems",
+        "She is not writing poems",
+        "She not writes poems"
+        ],
+        "answer": "She does not write poems"
+    },
+    {
+        "id": 96,
+        "question": "Which tense is used in the sentence 'They will have completed the project by tomorrow'?",
+        "options": ["Future Perfect", "Present Perfect", "Past Perfect", "Future Continuous"],
+        "answer": "Future Perfect"
+    },
+    {
+        "id": 97,
+        "question": "What is the correct concord in the sentence 'Either the manager or the employees ___ responsible'?",
+        "options": ["is", "are", "was", "have been"],
+        "answer": "are"
+    },
+    {
+        "id": 98,
+        "question": "Which preposition correctly completes the sentence 'He is interested ___ learning Spanish'?",
+        "options": ["in", "on", "at", "with"],
+        "answer": "in"
+    },
+    {
+        "id": 99,
+        "question": "Convert the sentence 'The gardener planted the flowers' into passive voice.",
+        "options": [
+        "The flowers were planted by the gardener",
+        "The flowers planted the gardener",
+        "The gardener was planted by the flowers",
+        "The flowers are planted by the gardener"
+        ],
+        "answer": "The flowers were planted by the gardener"
+    },
+    {
+        "id": 100,
+        "question": "Report the sentence 'I can help you tomorrow' in indirect speech.",
+        "options": [
+        "He said he can help me tomorrow",
+        "He said he could help me tomorrow",
+        "He said he helps me tomorrow",
+        "He said he is helping me tomorrow"
+        ],
+        "answer": "He said he could help me tomorrow"
+    },
+    {
+        "id": 101,
+        "question": "Which phrase is used to ask for something politely?",
+        "options": ["Give me that!", "Can I have that, please?", "I want that now!", "Hand it over!"],
+        "answer": "Can I have that, please?"
+    },
+    {
+        "id": 102,
+        "question": "What is the correct way to seek permission?",
+        "options": ["I’m taking this.", "May I borrow your pen?", "I need this.", "Give me permission!"],
+        "answer": "May I borrow your pen?"
+    },
+    {
+        "id": 103,
+        "question": "Which of the following is a contracted form of 'I will'?",
+        "options": ["I’d", "I’ll", "I’ve", "I’m"],
+        "answer": "I’ll"
+    },
+    {
+        "id": 104,
+        "question": "What is the contracted form of 'we are'?",
+        "options": ["We’d", "We’ll", "We’re", "We’ve"],
+        "answer": "We’re"
+    },
+    {
+        "id": 105,
+        "question": "Which of the following is a spoken form of communication?",
+        "options": ["Email", "Text message", "Face-to-face conversation", "Formal letter"],
+        "answer": "Face-to-face conversation"
+    },
+    {
+        "id": 106,
+        "question": "Which of the following is a written form of communication?",
+        "options": ["Phone call", "Speech", "Report", "Verbal discussion"],
+        "answer": "Report"
+    },
+    {
+        "id": 107,
+        "question": "What is the correct way to ask for directions?",
+        "options": ["Tell me where to go!", "Could you tell me how to get to the station?", "I need directions now!", "Where’s the station?"],
+        "answer": "Could you tell me how to get to the station?"
+    },
+    {
+        "id": 108,
+        "question": "Which phrase is used to seek permission to leave?",
+        "options": ["I’m leaving.", "Can I go now?", "I have to leave.", "Let me go!"],
+        "answer": "Can I go now?"
+    },
+    {
+        "id": 109,
+        "question": "What is the contracted form of 'they have'?",
+        "options": ["They’d", "They’ll", "They’re", "They’ve"],
+        "answer": "They’ve"
+    },
+    {
+        "id": 110,
+        "question": "Which of the following is a contracted form of 'she will'?",
+        "options": ["She’d", "She’ll", "She’s", "She’ve"],
+        "answer": "She’ll"
+    },
+    {
+        "id": 111,
+        "question": "Which of the following is an example of spoken communication?",
+        "options": ["Texting", "Emailing", "Giving a speech", "Writing a letter"],
+        "answer": "Giving a speech"
+    },
+    {
+        "id": 112,
+        "question": "Which of the following is an example of written communication?",
+        "options": ["Phone call", "Meeting", "Report", "Verbal discussion"],
+        "answer": "Report"
+    },
+    {
+        "id": 113,
+        "question": "What is the correct way to ask for help?",
+        "options": ["Help me!", "Could you help me, please?", "I need help now!", "Do it for me!"],
+        "answer": "Could you help me, please?"
+    },
+    {
+        "id": 114,
+        "question": "Which phrase is used to seek permission to enter?",
+        "options": ["I’m coming in.", "May I come in?", "Let me in!", "I need to enter."],
+        "answer": "May I come in?"
+    },
+    {
+        "id": 115,
+        "question": "What is the contracted form of 'I would'?",
+        "options": ["I’d", "I’ll", "I’ve", "I’m"],
+        "answer": "I’d"
+    },
+    {
+        "id": 116,
+        "question": "Which of the following is a contracted form of 'you are'?",
+        "options": ["You’d", "You’ll", "You’re", "You’ve"],
+        "answer": "You’re"
+    },
+    {
+        "id": 117,
+        "question": "Which of the following is an example of spoken communication?",
+        "options": ["Texting", "Emailing", "Phone call", "Writing a report"],
+        "answer": "Phone call"
+    },
+    {
+        "id": 118,
+        "question": "Which of the following is an example of written communication?",
+        "options": ["Speech", "Meeting", "Email", "Verbal discussion"],
+        "answer": "Email"
+    },
+    {
+        "id": 119,
+        "question": "What is the correct way to ask for information?",
+        "options": ["Tell me now!", "Could you give me some information, please?", "I need information!", "Give me the details!"],
+        "answer": "Could you give me some information, please?"
+    },
+    {
+        "id": 120,
+        "question": "Which phrase is used to seek permission to speak?",
+        "options": ["I’m speaking.", "May I say something?", "Let me talk!", "I need to speak."],
+        "answer": "May I say something?"
+    },
+    {
+        "id": 121,
+        "question": "What is the contracted form of 'he will'?",
+        "options": ["He’d", "He’ll", "He’s", "He’ve"],
+        "answer": "He’ll"
+    },
+    {
+        "id": 122,
+        "question": "Which of the following is a contracted form of 'we will'?",
+        "options": ["We’d", "We’ll", "We’re", "We’ve"],
+        "answer": "We’ll"
+    },
+    {
+        "id": 123,
+        "question": "Which of the following is an example of spoken communication?",
+        "options": ["Texting", "Emailing", "Face-to-face conversation", "Writing a letter"],
+        "answer": "Face-to-face conversation"
+    },
+    {
+        "id": 124,
+        "question": "Which of the following is an example of written communication?",
+        "options": ["Phone call", "Speech", "Formal letter", "Verbal discussion"],
+        "answer": "Formal letter"
+    },
+    {
+        "id": 125,
+        "question": "What is the correct way to ask for a favor?",
+        "options": ["Do this for me!", "Could you do me a favor, please?", "I need a favor now!", "Help me out!"],
+        "answer": "Could you do me a favor, please?"
+    },
+    {
+        "id": 126,
+        "question": "Which phrase is used to seek permission to leave early?",
+        "options": ["I’m leaving early.", "May I leave early today?", "Let me go early!", "I need to leave early."],
+        "answer": "May I leave early today?"
+    },
+    {
+        "id": 127,
+        "question": "What is the contracted form of 'they will'?",
+        "options": ["They’d", "They’ll", "They’re", "They’ve"],
+        "answer": "They’ll"
+    },
+    {
+        "id": 128,
+        "question": "Which of the following is a contracted form of 'she has'?",
+        "options": ["She’d", "She’ll", "She’s", "She’ve"],
+        "answer": "She’s"
+    },
+    {
+        "id": 129,
+        "question": "Which of the following is an example of spoken communication?",
+        "options": ["Texting", "Emailing", "Giving a presentation", "Writing a report"],
+        "answer": "Giving a presentation"
+    },
+    {
+        "id": 130,
+        "question": "Which of the following is an example of written communication?",
+        "options": ["Phone call", "Speech", "Text message", "Verbal discussion"],
+        "answer": "Text message"
+    },
+    {
+        "id": 131,
+        "question": "What is the correct way to ask for clarification?",
+        "options": ["Explain this!", "Could you clarify that, please?", "I need clarification now!", "Tell me again!"],
+        "answer": "Could you clarify that, please?"
+    },
+    {
+        "id": 132,
+        "question": "Which phrase is used to seek permission to use something?",
+        "options": ["I’m using this.", "May I use your phone?", "Let me use it!", "I need to use this."],
+        "answer": "May I use your phone?"
+    },
+    {
+        "id": 133,
+        "question": "What is the contracted form of 'I have'?",
+        "options": ["I’d", "I’ll", "I’ve", "I’m"],
+        "answer": "I’ve"
+    },
+    {
+        "id": 134,
+        "question": "Which of the following is a contracted form of 'you will'?",
+        "options": ["You’d", "You’ll", "You’re", "You’ve"],
+        "answer": "You’ll"
+    },
+    {
+        "id": 135,
+        "question": "Which of the following is an example of spoken communication?",
+        "options": ["Texting", "Emailing", "Phone call", "Writing a letter"],
+        "answer": "Phone call"
+    },
+    {
+        "id": 136,
+        "question": "Which of the following is an example of written communication?",
+        "options": ["Speech", "Meeting", "Report", "Verbal discussion"],
+        "answer": "Report"
+    },
+    {
+        "id": 137,
+        "question": "What is the correct way to ask for someone’s opinion?",
+        "options": ["Tell me your opinion!", "What do you think about this?", "I need your opinion now!", "Give me your thoughts!"],
+        "answer": "What do you think about this?"
+    },
+    {
+        "id": 138,
+        "question": "Which phrase is used to seek permission to take a break?",
+        "options": ["I’m taking a break.", "May I take a short break?", "Let me rest!", "I need a break."],
+        "answer": "May I take a short break?"
+    },
+    {
+        "id": 139,
+        "question": "What is the contracted form of 'we have'?",
+        "options": ["We’d", "We’ll", "We’re", "We’ve"],
+        "answer": "We’ve"
+    },
+    {
+        "id": 140,
+        "question": "Which of the following is a contracted form of 'they are'?",
+        "options": ["They’d", "They’ll", "They’re", "They’ve"],
+        "answer": "They’re"
+    },
+    {
+        "id": 141,
+        "question": "Which of the following is an example of spoken communication?",
+        "options": ["Texting", "Emailing", "Giving a speech", "Writing a report"],
+        "answer": "Giving a speech"
+    },
+    {
+        "id": 142,
+        "question": "Which of the following is an example of written communication?",
+        "options": ["Phone call", "Speech", "Email", "Verbal discussion"],
+        "answer": "Email"
+    },
+    {
+        "id": 143,
+        "question": "What is the correct way to ask for someone’s help?",
+        "options": ["Help me!", "Could you assist me, please?", "I need help now!", "Do it for me!"],
+        "answer": "Could you assist me, please?"
+    },
+    {
+        "id": 144,
+        "question": "Which phrase is used to seek permission to leave the room?",
+        "options": ["I’m leaving the room.", "May I leave the room for a moment?", "Let me go!", "I need to leave the room."],
+        "answer": "May I leave the room for a moment?"
+    },
+    {
+        "id": 145,
+        "question": "What is the contracted form of 'he has'?",
+        "options": ["He’d", "He’ll", "He’s", "He’ve"],
+        "answer": "He’s"
+    },
+    {
+        "id": 146,
+        "question": "Which of the following is a contracted form of 'I am'?",
+        "options": ["I’d", "I’ll", "I’ve", "I’m"],
+        "answer": "I’m"
+    },
+    {
+        "id": 147,
+        "question": "Which of the following is an example of spoken communication?",
+        "options": ["Texting", "Emailing", "Phone call", "Writing a letter"],
+        "answer": "Phone call"
+    },
+    {
+        "id": 148,
+        "question": "Which of the following is an example of written communication?",
+        "options": ["Speech", "Meeting", "Report", "Verbal discussion"],
+        "answer": "Report"
+    },
+    {
+        "id": 149,
+        "question": "What is the correct way to ask for someone’s attention?",
+        "options": ["Listen to me!", "Could I have your attention, please?", "I need your attention now!", "Pay attention!"],
+        "answer": "Could I have your attention, please?"
+    },
+    {
+        "id": 150,
+        "question": "Which phrase is used to seek permission to ask a question?",
+        "options": ["I’m asking a question.", "May I ask a question?", "Let me ask!", "I need to ask something."],
+        "answer": "May I ask a question?"
+    },
+    {
+        "id": 151,
+        "question": "What is the contracted form of 'you have'?",
+        "options": ["You’d", "You’ll", "You’re", "You’ve"],
+        "answer": "You’ve"
+    },
+    {
+        "id": 152,
+        "question": "Which of the following is a contracted form of 'we are'?",
+        "options": ["We’d", "We’ll", "We’re", "We’ve"],
+        "answer": "We’re"
+    },
+    {
+        "id": 153,
+        "question": "Which of the following is an example of spoken communication?",
+        "options": ["Texting", "Emailing", "Giving a presentation", "Writing a report"],
+        "answer": "Giving a presentation"
+    },
+    {
+        "id": 154,
+        "question": "Which of the following is an example of written communication?",
+        "options": ["Phone call", "Speech", "Text message", "Verbal discussion"],
+        "answer": "Text message"
+    },
+    {
+        "id": 155,
+        "question": "What is the correct way to ask for someone’s name?",
+        "options": ["Tell me your name!", "What’s your name, please?", "I need your name now!", "Give me your name!"],
+        "answer": "What’s your name, please?"
+    },
+    {
+        "id": 156,
+        "question": "Which phrase is used to seek permission to sit down?",
+        "options": ["I’m sitting down.", "May I sit here?", "Let me sit!", "I need to sit down."],
+        "answer": "May I sit here?"
+    },
+    {
+        "id": 157,
+        "question": "What is the contracted form of 'they have'?",
+        "options": ["They’d", "They’ll", "They’re", "They’ve"],
+        "answer": "They’ve"
+    },
+    {
+        "id": 158,
+        "question": "Which of the following is a contracted form of 'she is'?",
+        "options": ["She’d", "She’ll", "She’s", "She’ve"],
+        "answer": "She’s"
+    },
+    {
+        "id": 159,
+        "question": "Which of the following is an example of spoken communication?",
+        "options": ["Texting", "Emailing", "Phone call", "Writing a letter"],
+        "answer": "Phone call"
+    },
+    {
+        "id": 160,
+        "question": "Which of the following is an example of written communication?",
+        "options": ["Speech", "Meeting", "Report", "Verbal discussion"],
+        "answer": "Report"
+    },
+    {
+        "id": 161,
+        "question": "What is the correct way to ask for someone’s address?",
+        "options": ["Tell me your address!", "Could you give me your address, please?", "I need your address now!", "Give me your address!"],
+        "answer": "Could you give me your address, please?"
+    },
+    {
+        "id": 162,
+        "question": "Which phrase is used to seek permission to use the restroom?",
+        "options": ["I’m using the restroom.", "May I use the restroom?", "Let me go!", "I need to use the restroom."],
+        "answer": "May I use the restroom?"
+    },
+    {
+        "id": 163,
+        "question": "What is the contracted form of 'he would'?",
+        "options": ["He’d", "He’ll", "He’s", "He’ve"],
+        "answer": "He’d"
+    },
+    {
+        "id": 164,
+        "question": "Which of the following is a contracted form of 'you are'?",
+        "options": ["You’d", "You’ll", "You’re", "You’ve"],
+        "answer": "You’re"
+    },
+    {
+        "id": 165,
+        "question": "Which of the following is an example of spoken communication?",
+        "options": ["Texting", "Emailing", "Giving a speech", "Writing a report"],
+        "answer": "Giving a speech"
+    },
+    {
+        "id": 166,
+        "question": "Which of the following is an example of written communication?",
+        "options": ["Phone call", "Speech", "Email", "Verbal discussion"],
+        "answer": "Email"
+    },
+    {
+        "id": 167,
+        "question": "What is the correct way to ask for someone’s phone number?",
+        "options": ["Tell me your number!", "Could you give me your phone number, please?", "I need your number now!", "Give me your number!"],
+        "answer": "Could you give me your phone number, please?"
+    },
+    {
+        "id": 168,
+        "question": "Which phrase is used to seek permission to leave the meeting?",
+        "options": ["I’m leaving the meeting.", "May I leave the meeting early?", "Let me go!", "I need to leave the meeting."],
+        "answer": "May I leave the meeting early?"
+    },
+    {
+        "id": 169,
+        "question": "What is the contracted form of 'we would'?",
+        "options": ["We’d", "We’ll", "We’re", "We’ve"],
+        "answer": "We’d"
+    },
+    {
+        "id": 170,
+        "question": "Which of the following is a contracted form of 'they will'?",
+        "options": ["They’d", "They’ll", "They’re", "They’ve"],
+        "answer": "They’ll"
+    },
+    {
+        "id": 171,
+        "question": "Which of the following is an example of spoken communication?",
+        "options": ["Texting", "Emailing", "Phone call", "Writing a letter"],
+        "answer": "Phone call"
+    },
+    {
+        "id": 172,
+        "question": "Which of the following is an example of written communication?",
+        "options": ["Speech", "Meeting", "Report", "Verbal discussion"],
+        "answer": "Report"
+    },
+    {
+        "id": 173,
+        "question": "What is the correct way to ask for someone’s email address?",
+        "options": ["Tell me your email!", "Could you give me your email address, please?", "I need your email now!", "Give me your email!"],
+        "answer": "Could you give me your email address, please?"
+    },
+    {
+        "id": 174,
+        "question": "Which phrase is used to seek permission to take a photo?",
+        "options": ["I’m taking a photo.", "May I take a photo?", "Let me take it!", "I need to take a photo."],
+        "answer": "May I take a photo?"
+    },
+    {
+        "id": 175,
+        "question": "What is the contracted form of 'she would'?",
+        "options": ["She’d", "She’ll", "She’s", "She’ve"],
+        "answer": "She’d"
+    },
+    {
+        "id": 176,
+        "question": "Which of the following is a contracted form of 'I will'?",
+        "options": ["I’d", "I’ll", "I’ve", "I’m"],
+        "answer": "I’ll"
+    },
+    {
+        "id": 177,
+        "question": "Which of the following is an example of spoken communication?",
+        "options": ["Texting", "Emailing", "Giving a presentation", "Writing a report"],
+        "answer": "Giving a presentation"
+    },
+    {
+        "id": 178,
+        "question": "Which of the following is an example of written communication?",
+        "options": ["Phone call", "Speech", "Text message", "Verbal discussion"],
+        "answer": "Text message"
+    },
+    {
+        "id": 179,
+        "question": "What is the correct way to ask for someone’s opinion on a topic?",
+        "options": ["Tell me your opinion!", "What’s your opinion on this topic?", "I need your opinion now!", "Give me your thoughts!"],
+        "answer": "What’s your opinion on this topic?"
+    },
+    {
+        "id": 180,
+        "question": "Which phrase is used to seek permission to leave the class?",
+        "options": ["I’m leaving the class.", "May I leave the class early?", "Let me go!", "I need to leave the class."],
+        "answer": "May I leave the class early?"
+    },
+    {
+        "id": 181,
+        "question": "What is the contracted form of 'they would'?",
+        "options": ["They’d", "They’ll", "They’re", "They’ve"],
+        "answer": "They’d"
+    },
+    {
+        "id": 182,
+        "question": "Which of the following is a contracted form of 'you will'?",
+        "options": ["You’d", "You’ll", "You’re", "You’ve"],
+        "answer": "You’ll"
+    },
+    {
+        "id": 183,
+        "question": "Which of the following is an example of spoken communication?",
+        "options": ["Texting", "Emailing", "Phone call", "Writing a letter"],
+        "answer": "Phone call"
+    },
+    {
+        "id": 184,
+        "question": "Which of the following is an example of written communication?",
+        "options": ["Speech", "Meeting", "Report", "Verbal discussion"],
+        "answer": "Report"
+    },
+    {
+        "id": 185,
+        "question": "What is the correct way to ask for someone’s feedback?",
+        "options": ["Tell me your feedback!", "Could you give me your feedback, please?", "I need your feedback now!", "Give me your feedback!"],
+        "answer": "Could you give me your feedback, please?"
+    },
+    {
+        "id": 186,
+        "question": "Which phrase is used to seek permission to leave the office?",
+        "options": ["I’m leaving the office.", "May I leave the office early?", "Let me go!", "I need to leave the office."],
+        "answer": "May I leave the office early?"
+    },
+    {
+        "id": 187,
+        "question": "What is the contracted form of 'we would'?",
+        "options": ["We’d", "We’ll", "We’re", "We’ve"],
+        "answer": "We’d"
+    },
+    {
+        "id": 188,
+        "question": "Which of the following is a contracted form of 'they are'?",
+        "options": ["They’d", "They’ll", "They’re", "They’ve"],
+        "answer": "They’re"
+    },
+    {
+        "id": 189,
+        "question": "Which of the following is an example of spoken communication?",
+        "options": ["Texting", "Emailing", "Giving a speech", "Writing a report"],
+        "answer": "Giving a speech"
+    },
+    {
+        "id": 190,
+        "question": "Which of the following is an example of written communication?",
+        "options": ["Phone call", "Speech", "Email", "Verbal discussion"],
+        "answer": "Email"
+    },
+    {
+        "id": 191,
+        "question": "What is the correct way to ask for someone’s signature?",
+        "options": ["Sign this!", "Could you sign here, please?", "I need your signature now!", "Give me your signature!"],
+        "answer": "Could you sign here, please?"
+    },
+    {
+        "id": 192,
+        "question": "Which phrase is used to seek permission to leave the event?",
+        "options": ["I’m leaving the event.", "May I leave the event early?", "Let me go!", "I need to leave the event."],
+        "answer": "May I leave the event early?"
+    },
+    {
+        "id": 193,
+        "question": "What is the contracted form of 'he would'?",
+        "options": ["He’d", "He’ll", "He’s", "He’ve"],
+        "answer": "He’d"
+    },
+    {
+        "id": 194,
+        "question": "Which of the following is a contracted form of 'you have'?",
+        "options": ["You’d", "You’ll", "You’re", "You’ve"],
+        "answer": "You’ve"
+    },
+    {
+        "id": 195,
+        "question": "Which of the following is an example of spoken communication?",
+        "options": ["Texting", "Emailing", "Phone call", "Writing a letter"],
+        "answer": "Phone call"
+    },
+    {
+        "id": 196,
+        "question": "Which of the following is an example of written communication?",
+        "options": ["Speech", "Meeting", "Report", "Verbal discussion"],
+        "answer": "Report"
+    },
+    {
+        "id": 197,
+        "question": "What is the correct way to ask for someone’s approval?",
+        "options": ["Approve this!", "Could you approve this, please?", "I need your approval now!", "Give me your approval!"],
+        "answer": "Could you approve this, please?"
+    },
+    {
+        "id": 198,
+        "question": "Which phrase is used to seek permission to leave the party?",
+        "options": ["I’m leaving the party.", "May I leave the party early?", "Let me go!", "I need to leave the party."],
+        "answer": "May I leave the party early?"
+    },
+    {
+        "id": 199,
+        "question": "What is the contracted form of 'she would'?",
+        "options": ["She’d", "She’ll", "She’s", "She’ve"],
+        "answer": "She’d"
+    },
+    {
+        "id": 200,
+        "question": "Which of the following is a contracted form of 'we will'?",
+        "options": ["We’d", "We’ll", "We’re", "We’ve"],
+        "answer": "We’ll"
+    }
+]

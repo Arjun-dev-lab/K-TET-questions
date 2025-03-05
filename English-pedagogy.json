@@ -1,0 +1,1202 @@
+[
+    {
+      "id": 1,
+      "question": "What is the primary goal of language acquisition?",
+      "options": ["Memorizing vocabulary", "Developing fluency and comprehension", "Learning grammar rules", "Writing essays"],
+      "answer": "Developing fluency and comprehension"
+    },
+    {
+      "id": 2,
+      "question": "Which principle emphasizes the importance of using real-life contexts in language teaching?",
+      "options": ["Authenticity", "Repetition", "Translation", "Memorization"],
+      "answer": "Authenticity"
+    },
+    {
+      "id": 3,
+      "question": "Which activity is most effective for developing speaking skills?",
+      "options": ["Reading aloud", "Role-playing", "Writing essays", "Listening to lectures"],
+      "answer": "Role-playing"
+    },
+    {
+      "id": 4,
+      "question": "What is the focus of the process approach in language teaching?",
+      "options": ["Memorizing vocabulary", "Following a fixed curriculum", "Encouraging creativity and critical thinking", "Focusing on grammar rules"],
+      "answer": "Encouraging creativity and critical thinking"
+    },
+    {
+      "id": 5,
+      "question": "Which method of teaching English emphasizes the use of physical actions and gestures?",
+      "options": ["Grammar-Translation Method", "Total Physical Response", "Direct Method", "Audio-Lingual Method"],
+      "answer": "Total Physical Response"
+    },
+    {
+      "id": 6,
+      "question": "What is the main objective of teaching prose?",
+      "options": ["Memorizing the text", "Understanding the theme and characters", "Learning grammar rules", "Practicing pronunciation"],
+      "answer": "Understanding the theme and characters"
+    },
+    {
+      "id": 7,
+      "question": "Which activity is most suitable for teaching poetry?",
+      "options": ["Memorizing the poem", "Analyzing the rhyme and rhythm", "Translating the poem", "Writing essays"],
+      "answer": "Analyzing the rhyme and rhythm"
+    },
+    {
+      "id": 8,
+      "question": "What is the primary focus of teaching drama?",
+      "options": ["Memorizing dialogues", "Understanding character development and plot", "Learning grammar rules", "Practicing pronunciation"],
+      "answer": "Understanding character development and plot"
+    },
+    {
+      "id": 9,
+      "question": "Which method of teaching English emphasizes the use of repetition and drills?",
+      "options": ["Grammar-Translation Method", "Audio-Lingual Method", "Direct Method", "Communicative Language Teaching"],
+      "answer": "Audio-Lingual Method"
+    },
+    {
+      "id": 10,
+      "question": "What is the best way to address learning difficulties in language acquisition?",
+      "options": ["Ignoring the difficulty", "Providing additional practice and support", "Focusing on grammar rules", "Memorizing vocabulary"],
+      "answer": "Providing additional practice and support"
+    },
+    {
+      "id": 11,
+      "question": "Which of the following is a common language disorder?",
+      "options": ["Dyslexia", "Asthma", "Diabetes", "Arthritis"],
+      "answer": "Dyslexia"
+    },
+    {
+      "id": 12,
+      "question": "What is the primary goal of activity-based learning?",
+      "options": ["Memorizing content", "Encouraging passive learning", "Promoting active participation and engagement", "Focusing on grammar rules"],
+      "answer": "Promoting active participation and engagement"
+    },
+    {
+      "id": 13,
+      "question": "Which principle of language teaching emphasizes the importance of learner-centered approaches?",
+      "options": ["Teacher-centered instruction", "Learner autonomy", "Memorization", "Repetition"],
+      "answer": "Learner autonomy"
+    },
+    {
+      "id": 14,
+      "question": "What is the best way to teach vocabulary effectively?",
+      "options": ["Memorizing word lists", "Using context and real-life examples", "Focusing on grammar rules", "Translating words"],
+      "answer": "Using context and real-life examples"
+    },
+    {
+      "id": 15,
+      "question": "Which activity is most effective for developing listening skills?",
+      "options": ["Reading aloud", "Listening to podcasts or audio clips", "Writing essays", "Memorizing vocabulary"],
+      "answer": "Listening to podcasts or audio clips"
+    },
+    {
+      "id": 16,
+      "question": "What is the primary focus of the Direct Method in language teaching?",
+      "options": ["Translation", "Grammar rules", "Oral communication and immersion", "Memorization"],
+      "answer": "Oral communication and immersion"
+    },
+    {
+      "id": 17,
+      "question": "Which of the following is a key principle of Communicative Language Teaching (CLT)?",
+      "options": ["Focusing on grammar rules", "Encouraging real-life communication", "Memorizing vocabulary", "Repetition and drills"],
+      "answer": "Encouraging real-life communication"
+    },
+    {
+      "id": 18,
+      "question": "What is the best way to address pronunciation difficulties in learners?",
+      "options": ["Ignoring the issue", "Providing phonetic practice and feedback", "Focusing on grammar rules", "Memorizing vocabulary"],
+      "answer": "Providing phonetic practice and feedback"
+    },
+    {
+      "id": 19,
+      "question": "Which of the following is a common learning difficulty in language acquisition?",
+      "options": ["Dyslexia", "Asthma", "Diabetes", "Arthritis"],
+      "answer": "Dyslexia"
+    },
+    {
+      "id": 20,
+      "question": "What is the primary goal of teaching grammar in language learning?",
+      "options": ["Memorizing rules", "Developing accuracy and fluency", "Focusing on vocabulary", "Translating sentences"],
+      "answer": "Developing accuracy and fluency"
+    },
+    {
+      "id": 21,
+      "question": "Which activity is most effective for developing writing skills?",
+      "options": ["Memorizing vocabulary", "Practicing essay writing", "Listening to lectures", "Reading aloud"],
+      "answer": "Practicing essay writing"
+    },
+    {
+      "id": 22,
+      "question": "What is the primary focus of the Grammar-Translation Method?",
+      "options": ["Oral communication", "Translation and grammar rules", "Real-life contexts", "Learner autonomy"],
+      "answer": "Translation and grammar rules"
+    },
+    {
+      "id": 23,
+      "question": "Which of the following is a key principle of learner autonomy?",
+      "options": ["Teacher-centered instruction", "Encouraging self-directed learning", "Memorization", "Repetition"],
+      "answer": "Encouraging self-directed learning"
+    },
+    {
+      "id": 24,
+      "question": "What is the best way to teach reading comprehension?",
+      "options": ["Memorizing texts", "Using guided reading and questioning", "Focusing on grammar rules", "Translating texts"],
+      "answer": "Using guided reading and questioning"
+    },
+    {
+      "id": 25,
+      "question": "Which of the following is a common language disorder?",
+      "options": ["Dyslexia", "Asthma", "Diabetes", "Arthritis"],
+      "answer": "Dyslexia"
+    },
+    {
+      "id": 26,
+      "question": "What is the primary goal of teaching poetry?",
+      "options": ["Memorizing the poem", "Understanding the emotions and imagery", "Learning grammar rules", "Practicing pronunciation"],
+      "answer": "Understanding the emotions and imagery"
+    },
+    {
+      "id": 27,
+      "question": "Which activity is most effective for developing speaking skills?",
+      "options": ["Reading aloud", "Role-playing", "Writing essays", "Listening to lectures"],
+      "answer": "Role-playing"
+    },
+    {
+      "id": 28,
+      "question": "What is the primary focus of the Audio-Lingual Method?",
+      "options": ["Translation", "Repetition and drills", "Real-life communication", "Learner autonomy"],
+      "answer": "Repetition and drills"
+    },
+    {
+      "id": 29,
+      "question": "Which of the following is a key principle of activity-based learning?",
+      "options": ["Memorization", "Encouraging passive learning", "Promoting active participation", "Focusing on grammar rules"],
+      "answer": "Promoting active participation"
+    },
+    {
+      "id": 30,
+      "question": "What is the best way to address writing difficulties in learners?",
+      "options": ["Ignoring the issue", "Providing guided writing practice", "Focusing on grammar rules", "Memorizing vocabulary"],
+      "answer": "Providing guided writing practice"
+    },
+    {
+      "id": 31,
+      "question": "Which of the following is a common learning difficulty in language acquisition?",
+      "options": ["Dyslexia", "Asthma", "Diabetes", "Arthritis"],
+      "answer": "Dyslexia"
+    },
+    {
+      "id": 32,
+      "question": "What is the primary goal of teaching drama?",
+      "options": ["Memorizing dialogues", "Understanding character development and plot", "Learning grammar rules", "Practicing pronunciation"],
+      "answer": "Understanding character development and plot"
+    },
+    {
+      "id": 33,
+      "question": "Which activity is most effective for developing listening skills?",
+      "options": ["Reading aloud", "Listening to podcasts or audio clips", "Writing essays", "Memorizing vocabulary"],
+      "answer": "Listening to podcasts or audio clips"
+    },
+    {
+      "id": 34,
+      "question": "What is the primary focus of the Direct Method in language teaching?",
+      "options": ["Translation", "Grammar rules", "Oral communication and immersion", "Memorization"],
+      "answer": "Oral communication and immersion"
+    },
+    {
+      "id": 35,
+      "question": "Which of the following is a key principle of Communicative Language Teaching (CLT)?",
+      "options": ["Focusing on grammar rules", "Encouraging real-life communication", "Memorizing vocabulary", "Repetition and drills"],
+      "answer": "Encouraging real-life communication"
+    },
+    {
+      "id": 36,
+      "question": "What is the best way to address pronunciation difficulties in learners?",
+      "options": ["Ignoring the issue", "Providing phonetic practice and feedback", "Focusing on grammar rules", "Memorizing vocabulary"],
+      "answer": "Providing phonetic practice and feedback"
+    },
+    {
+      "id": 37,
+      "question": "Which of the following is a common learning difficulty in language acquisition?",
+      "options": ["Dyslexia", "Asthma", "Diabetes", "Arthritis"],
+      "answer": "Dyslexia"
+    },
+    {
+      "id": 38,
+      "question": "What is the primary goal of teaching grammar in language learning?",
+      "options": ["Memorizing rules", "Developing accuracy and fluency", "Focusing on vocabulary", "Translating sentences"],
+      "answer": "Developing accuracy and fluency"
+    },
+    {
+      "id": 39,
+      "question": "Which activity is most effective for developing writing skills?",
+      "options": ["Memorizing vocabulary", "Practicing essay writing", "Listening to lectures", "Reading aloud"],
+      "answer": "Practicing essay writing"
+    },
+    {
+      "id": 40,
+      "question": "What is the primary focus of the Grammar-Translation Method?",
+      "options": ["Oral communication", "Translation and grammar rules", "Real-life contexts", "Learner autonomy"],
+      "answer": "Translation and grammar rules"
+    },
+    {
+      "id": 41,
+      "question": "Which of the following is a key principle of learner autonomy?",
+      "options": ["Teacher-centered instruction", "Encouraging self-directed learning", "Memorization", "Repetition"],
+      "answer": "Encouraging self-directed learning"
+    },
+    {
+      "id": 42,
+      "question": "What is the best way to teach reading comprehension?",
+      "options": ["Memorizing texts", "Using guided reading and questioning", "Focusing on grammar rules", "Translating texts"],
+      "answer": "Using guided reading and questioning"
+    },
+    {
+      "id": 43,
+      "question": "Which of the following is a common language disorder?",
+      "options": ["Dyslexia", "Asthma", "Diabetes", "Arthritis"],
+      "answer": "Dyslexia"
+    },
+    {
+      "id": 44,
+      "question": "What is the primary goal of teaching poetry?",
+      "options": ["Memorizing the poem", "Understanding the emotions and imagery", "Learning grammar rules", "Practicing pronunciation"],
+      "answer": "Understanding the emotions and imagery"
+    },
+    {
+      "id": 45,
+      "question": "Which activity is most effective for developing speaking skills?",
+      "options": ["Reading aloud", "Role-playing", "Writing essays", "Listening to lectures"],
+      "answer": "Role-playing"
+    },
+    {
+      "id": 46,
+      "question": "What is the primary focus of the Audio-Lingual Method?",
+      "options": ["Translation", "Repetition and drills", "Real-life communication", "Learner autonomy"],
+      "answer": "Repetition and drills"
+    },
+    {
+      "id": 47,
+      "question": "Which of the following is a key principle of activity-based learning?",
+      "options": ["Memorization", "Encouraging passive learning", "Promoting active participation", "Focusing on grammar rules"],
+      "answer": "Promoting active participation"
+    },
+    {
+      "id": 48,
+      "question": "What is the best way to address writing difficulties in learners?",
+      "options": ["Ignoring the issue", "Providing guided writing practice", "Focusing on grammar rules", "Memorizing vocabulary"],
+      "answer": "Providing guided writing practice"
+    },
+    {
+      "id": 49,
+      "question": "Which of the following is a common learning difficulty in language acquisition?",
+      "options": ["Dyslexia", "Asthma", "Diabetes", "Arthritis"],
+      "answer": "Dyslexia"
+    },
+    {
+      "id": 50,
+      "question": "What is the primary goal of teaching drama?",
+      "options": ["Memorizing dialogues", "Understanding character development and plot", "Learning grammar rules", "Practicing pronunciation"],
+      "answer": "Understanding character development and plot"
+    },
+    {
+        "id": 51,
+        "question": "What is the primary focus of the Communicative Language Teaching (CLT) method?",
+        "options": ["Grammar rules", "Translation", "Real-life communication", "Memorization"],
+        "answer": "Real-life communication"
+    },
+    {
+        "id": 52,
+        "question": "Which activity is most effective for developing listening skills?",
+        "options": ["Reading aloud", "Listening to podcasts or audio clips", "Writing essays", "Memorizing vocabulary"],
+        "answer": "Listening to podcasts or audio clips"
+    },
+    {
+        "id": 53,
+        "question": "What is the best way to teach vocabulary effectively?",
+        "options": ["Memorizing word lists", "Using context and real-life examples", "Focusing on grammar rules", "Translating words"],
+        "answer": "Using context and real-life examples"
+    },
+    {
+        "id": 54,
+        "question": "Which principle of language teaching emphasizes the importance of learner-centered approaches?",
+        "options": ["Teacher-centered instruction", "Learner autonomy", "Memorization", "Repetition"],
+        "answer": "Learner autonomy"
+    },
+    {
+        "id": 55,
+        "question": "What is the primary goal of activity-based learning?",
+        "options": ["Memorizing content", "Encouraging passive learning", "Promoting active participation and engagement", "Focusing on grammar rules"],
+        "answer": "Promoting active participation and engagement"
+    },
+    {
+        "id": 56,
+        "question": "Which of the following is a common language disorder?",
+        "options": ["Dyslexia", "Asthma", "Diabetes", "Arthritis"],
+        "answer": "Dyslexia"
+    },
+    {
+        "id": 57,
+        "question": "What is the best way to address learning difficulties in language acquisition?",
+        "options": ["Ignoring the difficulty", "Providing additional practice and support", "Focusing on grammar rules", "Memorizing vocabulary"],
+        "answer": "Providing additional practice and support"
+    },
+    {
+        "id": 58,
+        "question": "Which method of teaching English emphasizes the use of repetition and drills?",
+        "options": ["Grammar-Translation Method", "Audio-Lingual Method", "Direct Method", "Communicative Language Teaching"],
+        "answer": "Audio-Lingual Method"
+    },
+    {
+        "id": 59,
+        "question": "What is the primary focus of teaching drama?",
+        "options": ["Memorizing dialogues", "Understanding character development and plot", "Learning grammar rules", "Practicing pronunciation"],
+        "answer": "Understanding character development and plot"
+    },
+    {
+        "id": 60,
+        "question": "Which activity is most suitable for teaching poetry?",
+        "options": ["Memorizing the poem", "Analyzing the rhyme and rhythm", "Translating the poem", "Writing essays"],
+        "answer": "Analyzing the rhyme and rhythm"
+    },
+    {
+        "id": 61,
+        "question": "What is the main objective of teaching prose?",
+        "options": ["Memorizing the text", "Understanding the theme and characters", "Learning grammar rules", "Practicing pronunciation"],
+        "answer": "Understanding the theme and characters"
+    },
+    {
+        "id": 62,
+        "question": "Which method of teaching English emphasizes the use of physical actions and gestures?",
+        "options": ["Grammar-Translation Method", "Total Physical Response", "Direct Method", "Audio-Lingual Method"],
+        "answer": "Total Physical Response"
+    },
+    {
+        "id": 63,
+        "question": "What is the focus of the process approach in language teaching?",
+        "options": ["Memorizing vocabulary", "Following a fixed curriculum", "Encouraging creativity and critical thinking", "Focusing on grammar rules"],
+        "answer": "Encouraging creativity and critical thinking"
+    },
+    {
+        "id": 64,
+        "question": "Which activity is most effective for developing speaking skills?",
+        "options": ["Reading aloud", "Role-playing", "Writing essays", "Listening to lectures"],
+        "answer": "Role-playing"
+    },
+    {
+        "id": 65,
+        "question": "Which principle emphasizes the importance of using real-life contexts in language teaching?",
+        "options": ["Authenticity", "Repetition", "Translation", "Memorization"],
+        "answer": "Authenticity"
+    },
+    {
+        "id": 66,
+        "question": "What is the primary goal of language acquisition?",
+        "options": ["Memorizing vocabulary", "Developing fluency and comprehension", "Learning grammar rules", "Writing essays"],
+        "answer": "Developing fluency and comprehension"
+    },
+    {
+        "id": 67,
+        "question": "What is the best way to teach reading comprehension?",
+        "options": ["Memorizing texts", "Using guided reading and questioning", "Focusing on grammar rules", "Translating texts"],
+        "answer": "Using guided reading and questioning"
+    },
+    {
+        "id": 68,
+        "question": "Which of the following is a key principle of learner autonomy?",
+        "options": ["Teacher-centered instruction", "Encouraging self-directed learning", "Memorization", "Repetition"],
+        "answer": "Encouraging self-directed learning"
+    },
+    {
+        "id": 69,
+        "question": "What is the primary focus of the Grammar-Translation Method?",
+        "options": ["Oral communication", "Translation and grammar rules", "Real-life contexts", "Learner autonomy"],
+        "answer": "Translation and grammar rules"
+    },
+    {
+        "id": 70,
+        "question": "Which activity is most effective for developing writing skills?",
+        "options": ["Memorizing vocabulary", "Practicing essay writing", "Listening to lectures", "Reading aloud"],
+        "answer": "Practicing essay writing"
+    },
+    {
+        "id": 71,
+        "question": "What is the primary goal of teaching grammar in language learning?",
+        "options": ["Memorizing rules", "Developing accuracy and fluency", "Focusing on vocabulary", "Translating sentences"],
+        "answer": "Developing accuracy and fluency"
+    },
+    {
+        "id": 72,
+        "question": "Which of the following is a common learning difficulty in language acquisition?",
+        "options": ["Dyslexia", "Asthma", "Diabetes", "Arthritis"],
+        "answer": "Dyslexia"
+    },
+    {
+        "id": 73,
+        "question": "What is the best way to address pronunciation difficulties in learners?",
+        "options": ["Ignoring the issue", "Providing phonetic practice and feedback", "Focusing on grammar rules", "Memorizing vocabulary"],
+        "answer": "Providing phonetic practice and feedback"
+    },
+    {
+        "id": 74,
+        "question": "Which of the following is a key principle of Communicative Language Teaching (CLT)?",
+        "options": ["Focusing on grammar rules", "Encouraging real-life communication", "Memorizing vocabulary", "Repetition and drills"],
+        "answer": "Encouraging real-life communication"
+    },
+    {
+        "id": 75,
+        "question": "What is the primary focus of the Direct Method in language teaching?",
+        "options": ["Translation", "Grammar rules", "Oral communication and immersion", "Memorization"],
+        "answer": "Oral communication and immersion"
+    },
+    {
+        "id": 76,
+        "question": "Which activity is most effective for developing listening skills?",
+        "options": ["Reading aloud", "Listening to podcasts or audio clips", "Writing essays", "Memorizing vocabulary"],
+        "answer": "Listening to podcasts or audio clips"
+    },
+    {
+        "id": 77,
+        "question": "What is the primary goal of teaching drama?",
+        "options": ["Memorizing dialogues", "Understanding character development and plot", "Learning grammar rules", "Practicing pronunciation"],
+        "answer": "Understanding character development and plot"
+    },
+    {
+        "id": 78,
+        "question": "Which of the following is a common language disorder?",
+        "options": ["Dyslexia", "Asthma", "Diabetes", "Arthritis"],
+        "answer": "Dyslexia"
+    },
+    {
+        "id": 79,
+        "question": "What is the best way to address learning difficulties in language acquisition?",
+        "options": ["Ignoring the difficulty", "Providing additional practice and support", "Focusing on grammar rules", "Memorizing vocabulary"],
+        "answer": "Providing additional practice and support"
+    },
+    {
+        "id": 80,
+        "question": "Which method of teaching English emphasizes the use of repetition and drills?",
+        "options": ["Grammar-Translation Method", "Audio-Lingual Method", "Direct Method", "Communicative Language Teaching"],
+        "answer": "Audio-Lingual Method"
+    },
+    {
+        "id": 81,
+        "question": "What is the primary focus of teaching poetry?",
+        "options": ["Memorizing the poem", "Understanding the emotions and imagery", "Learning grammar rules", "Practicing pronunciation"],
+        "answer": "Understanding the emotions and imagery"
+    },
+    {
+        "id": 82,
+        "question": "Which activity is most suitable for teaching prose?",
+        "options": ["Memorizing the text", "Analyzing the theme and characters", "Translating the text", "Writing essays"],
+        "answer": "Analyzing the theme and characters"
+    },
+    {
+        "id": 83,
+        "question": "What is the main objective of teaching grammar?",
+        "options": ["Memorizing rules", "Developing accuracy and fluency", "Focusing on vocabulary", "Translating sentences"],
+        "answer": "Developing accuracy and fluency"
+    },
+    {
+        "id": 84,
+        "question": "Which method of teaching English emphasizes the use of physical actions and gestures?",
+        "options": ["Grammar-Translation Method", "Total Physical Response", "Direct Method", "Audio-Lingual Method"],
+        "answer": "Total Physical Response"
+    },
+    {
+        "id": 85,
+        "question": "What is the focus of the process approach in language teaching?",
+        "options": ["Memorizing vocabulary", "Following a fixed curriculum", "Encouraging creativity and critical thinking", "Focusing on grammar rules"],
+        "answer": "Encouraging creativity and critical thinking"
+    },
+    {
+        "id": 86,
+        "question": "Which activity is most effective for developing speaking skills?",
+        "options": ["Reading aloud", "Role-playing", "Writing essays", "Listening to lectures"],
+        "answer": "Role-playing"
+    },
+    {
+        "id": 87,
+        "question": "Which principle emphasizes the importance of using real-life contexts in language teaching?",
+        "options": ["Authenticity", "Repetition", "Translation", "Memorization"],
+        "answer": "Authenticity"
+    },
+    {
+        "id": 88,
+        "question": "What is the primary goal of language acquisition?",
+        "options": ["Memorizing vocabulary", "Developing fluency and comprehension", "Learning grammar rules", "Writing essays"],
+        "answer": "Developing fluency and comprehension"
+    },
+    {
+        "id": 89,
+        "question": "What is the best way to teach reading comprehension?",
+        "options": ["Memorizing texts", "Using guided reading and questioning", "Focusing on grammar rules", "Translating texts"],
+        "answer": "Using guided reading and questioning"
+    },
+    {
+        "id": 90,
+        "question": "Which of the following is a key principle of learner autonomy?",
+        "options": ["Teacher-centered instruction", "Encouraging self-directed learning", "Memorization", "Repetition"],
+        "answer": "Encouraging self-directed learning"
+    },
+    {
+        "id": 91,
+        "question": "What is the primary focus of the Grammar-Translation Method?",
+        "options": ["Oral communication", "Translation and grammar rules", "Real-life contexts", "Learner autonomy"],
+        "answer": "Translation and grammar rules"
+    },
+    {
+        "id": 92,
+        "question": "Which activity is most effective for developing writing skills?",
+        "options": ["Memorizing vocabulary", "Practicing essay writing", "Listening to lectures", "Reading aloud"],
+        "answer": "Practicing essay writing"
+    },
+    {
+        "id": 93,
+        "question": "What is the primary goal of teaching grammar in language learning?",
+        "options": ["Memorizing rules", "Developing accuracy and fluency", "Focusing on vocabulary", "Translating sentences"],
+        "answer": "Developing accuracy and fluency"
+    },
+    {
+        "id": 94,
+        "question": "Which of the following is a common learning difficulty in language acquisition?",
+        "options": ["Dyslexia", "Asthma", "Diabetes", "Arthritis"],
+        "answer": "Dyslexia"
+    },
+    {
+        "id": 95,
+        "question": "What is the best way to address pronunciation difficulties in learners?",
+        "options": ["Ignoring the issue", "Providing phonetic practice and feedback", "Focusing on grammar rules", "Memorizing vocabulary"],
+        "answer": "Providing phonetic practice and feedback"
+    },
+    {
+        "id": 96,
+        "question": "Which of the following is a key principle of Communicative Language Teaching (CLT)?",
+        "options": ["Focusing on grammar rules", "Encouraging real-life communication", "Memorizing vocabulary", "Repetition and drills"],
+        "answer": "Encouraging real-life communication"
+    },
+    {
+        "id": 97,
+        "question": "What is the primary focus of the Direct Method in language teaching?",
+        "options": ["Translation", "Grammar rules", "Oral communication and immersion", "Memorization"],
+        "answer": "Oral communication and immersion"
+    },
+    {
+        "id": 98,
+        "question": "Which activity is most effective for developing listening skills?",
+        "options": ["Reading aloud", "Listening to podcasts or audio clips", "Writing essays", "Memorizing vocabulary"],
+        "answer": "Listening to podcasts or audio clips"
+    },
+    {
+        "id": 99,
+        "question": "What is the primary goal of teaching drama?",
+        "options": ["Memorizing dialogues", "Understanding character development and plot", "Learning grammar rules", "Practicing pronunciation"],
+        "answer": "Understanding character development and plot"
+    },
+    {
+        "id": 100,
+        "question": "Which of the following is a common language disorder?",
+        "options": ["Dyslexia", "Asthma", "Diabetes", "Arthritis"],
+        "answer": "Dyslexia"
+    },
+    {
+        "id": 101,
+        "question": "What is the primary objective of teaching English?",
+        "options": ["Memorizing grammar rules", "Developing communication skills", "Focusing on translation", "Learning literature"],
+        "answer": "Developing communication skills"
+    },
+    {
+        "id": 102,
+        "question": "Which method of English Language Teaching emphasizes the use of the mother tongue?",
+        "options": ["Direct Method", "Bilingual Method", "Communicative Approach", "Audio-Lingual Method"],
+        "answer": "Bilingual Method"
+    },
+    {
+        "id": 103,
+        "question": "What is the focus of the Communicative Approach in language teaching?",
+        "options": ["Grammar rules", "Translation", "Real-life communication", "Memorization"],
+        "answer": "Real-life communication"
+    },
+    {
+        "id": 104,
+        "question": "Which of the following is a key principle of the SOS (Structural-Oral-Situational) approach?",
+        "options": ["Focusing on grammar rules", "Using real-life situations for teaching", "Memorizing vocabulary", "Translation"],
+        "answer": "Using real-life situations for teaching"
+    },
+    {
+        "id": 105,
+        "question": "What is the primary goal of humanistic approaches in language teaching?",
+        "options": ["Focusing on grammar rules", "Encouraging self-directed learning", "Memorization", "Repetition"],
+        "answer": "Encouraging self-directed learning"
+    },
+    {
+        "id": 106,
+        "question": "What does CCE stand for in learner assessment?",
+        "options": ["Continuous and Comprehensive Evaluation", "Curriculum and Content Evaluation", "Classroom and Course Evaluation", "Comprehensive and Continuous Examination"],
+        "answer": "Continuous and Comprehensive Evaluation"
+    },
+    {
+        "id": 107,
+        "question": "Who is considered the father of English literature?",
+        "options": ["Geoffrey Chaucer", "William Shakespeare", "John Milton", "Charles Dickens"],
+        "answer": "Geoffrey Chaucer"
+    },
+    {
+        "id": 108,
+        "question": "Which literary period is known for the works of Shakespeare?",
+        "options": ["The Renaissance", "The Romantic Movement", "The Victorian Era", "The Modern Period"],
+        "answer": "The Renaissance"
+    },
+    {
+        "id": 109,
+        "question": "Who wrote 'The Faerie Queene'?",
+        "options": ["Edmund Spenser", "John Donne", "John Milton", "Geoffrey Chaucer"],
+        "answer": "Edmund Spenser"
+    },
+    {
+        "id": 110,
+        "question": "Which of the following is a major theme in Victorian literature?",
+        "options": ["Industrialization and social change", "Romantic love", "Medieval chivalry", "Postmodernism"],
+        "answer": "Industrialization and social change"
+    },
+    {
+        "id": 111,
+        "question": "Who is known for the novel 'Pride and Prejudice'?",
+        "options": ["Jane Austen", "Charlotte Brontë", "Emily Brontë", "George Eliot"],
+        "answer": "Jane Austen"
+    },
+    {
+        "id": 112,
+        "question": "Which literary movement is associated with Wordsworth and Coleridge?",
+        "options": ["The Romantic Movement", "The Renaissance", "The Victorian Era", "The Modern Period"],
+        "answer": "The Romantic Movement"
+    },
+    {
+        "id": 113,
+        "question": "Who wrote 'The Waste Land'?",
+        "options": ["T.S. Eliot", "W.B. Yeats", "James Joyce", "Virginia Woolf"],
+        "answer": "T.S. Eliot"
+    },
+    {
+        "id": 114,
+        "question": "Which of the following is a major theme in postmodern literature?",
+        "options": ["Fragmentation and ambiguity", "Romantic love", "Medieval chivalry", "Industrialization"],
+        "answer": "Fragmentation and ambiguity"
+    },
+    {
+        "id": 115,
+        "question": "Who is a prominent feminist writer in English literature?",
+        "options": ["Virginia Woolf", "Jane Austen", "Charlotte Brontë", "George Eliot"],
+        "answer": "Virginia Woolf"
+    },
+    {
+        "id": 116,
+        "question": "Which Indian writer is known for the novel 'The God of Small Things'?",
+        "options": ["Arundhati Roy", "R.K. Narayan", "Salman Rushdie", "Vikram Seth"],
+        "answer": "Arundhati Roy"
+    },
+    {
+        "id": 117,
+        "question": "What is the study of sounds in a language called?",
+        "options": ["Phonetics", "Morphology", "Syntax", "Semantics"],
+        "answer": "Phonetics"
+    },
+    {
+        "id": 118,
+        "question": "Which of the following is a branch of linguistics that studies word formation?",
+        "options": ["Phonetics", "Morphology", "Syntax", "Semantics"],
+        "answer": "Morphology"
+    },
+    {
+        "id": 119,
+        "question": "What is the study of sentence structure called?",
+        "options": ["Phonetics", "Morphology", "Syntax", "Semantics"],
+        "answer": "Syntax"
+    },
+    {
+        "id": 120,
+        "question": "Which of the following is an example of a tense in English?",
+        "options": ["Present Perfect", "Noun", "Adjective", "Preposition"],
+        "answer": "Present Perfect"
+    },
+    {
+        "id": 121,
+        "question": "What is the correct transformation of the sentence 'He said, 'I am tired'' into reported speech?",
+        "options": ["He said he is tired", "He said he was tired", "He said he has been tired", "He said he had been tired"],
+        "answer": "He said he was tired"
+    },
+    {
+        "id": 122,
+        "question": "Which of the following is an example of passive voice?",
+        "options": ["The cat chased the mouse", "The mouse was chased by the cat", "The mouse chased the cat", "The cat was chasing the mouse"],
+        "answer": "The mouse was chased by the cat"
+    },
+    {
+        "id": 123,
+        "question": "What is the study of the meaning of words and sentences called?",
+        "options": ["Phonetics", "Morphology", "Syntax", "Semantics"],
+        "answer": "Semantics"
+    },
+    {
+        "id": 124,
+        "question": "Which of the following is an example of an idiom?",
+        "options": ["Break the ice", "Run quickly", "Jump high", "Walk slowly"],
+        "answer": "Break the ice"
+    },
+    {
+        "id": 125,
+        "question": "What is the primary focus of translation studies?",
+        "options": ["Memorizing vocabulary", "Understanding cultural contexts", "Focusing on grammar rules", "Translating texts accurately"],
+        "answer": "Translating texts accurately"
+    },
+    {
+        "id": 126,
+        "question": "Which of the following is a major theme in feminist literature?",
+        "options": ["Gender equality", "Industrialization", "Romantic love", "Medieval chivalry"],
+        "answer": "Gender equality"
+    },
+    {
+        "id": 127,
+        "question": "Who is known for the novel 'Midnight's Children'?",
+        "options": ["Salman Rushdie", "Arundhati Roy", "R.K. Narayan", "Vikram Seth"],
+        "answer": "Salman Rushdie"
+    },
+    {
+        "id": 128,
+        "question": "Which literary period is known for the works of Chaucer?",
+        "options": ["Middle English Literature", "The Renaissance", "The Romantic Movement", "The Victorian Era"],
+        "answer": "Middle English Literature"
+    },
+    {
+        "id": 129,
+        "question": "Who wrote 'Paradise Lost'?",
+        "options": ["John Milton", "William Shakespeare", "Geoffrey Chaucer", "Edmund Spenser"],
+        "answer": "John Milton"
+    },
+    {
+        "id": 130,
+        "question": "Which of the following is a major theme in Romantic literature?",
+        "options": ["Nature and emotion", "Industrialization", "Medieval chivalry", "Postmodernism"],
+        "answer": "Nature and emotion"
+    },
+    {
+        "id": 131,
+        "question": "Who is known for the novel 'Wuthering Heights'?",
+        "options": ["Emily Brontë", "Charlotte Brontë", "Jane Austen", "George Eliot"],
+        "answer": "Emily Brontë"
+    },
+    {
+        "id": 132,
+        "question": "Which literary period is known for the works of Wordsworth and Coleridge?",
+        "options": ["The Romantic Movement", "The Renaissance", "The Victorian Era", "The Modern Period"],
+        "answer": "The Romantic Movement"
+    },
+    {
+        "id": 133,
+        "question": "Who wrote 'Ulysses'?",
+        "options": ["James Joyce", "T.S. Eliot", "W.B. Yeats", "Virginia Woolf"],
+        "answer": "James Joyce"
+    },
+    {
+        "id": 134,
+        "question": "Which of the following is a major theme in modern literature?",
+        "options": ["Alienation and isolation", "Romantic love", "Medieval chivalry", "Industrialization"],
+        "answer": "Alienation and isolation"
+    },
+    {
+        "id": 135,
+        "question": "Who is a prominent Indian writer in English?",
+        "options": ["R.K. Narayan", "Jane Austen", "Charlotte Brontë", "George Eliot"],
+        "answer": "R.K. Narayan"
+    },
+    {
+        "id": 136,
+        "question": "What is the study of the structure of phrases called?",
+        "options": ["Phonetics", "Morphology", "Syntax", "Phrase structure grammar"],
+        "answer": "Phrase structure grammar"
+    },
+    {
+        "id": 137,
+        "question": "Which of the following is an example of a word class?",
+        "options": ["Noun", "Present Perfect", "Passive voice", "Idiom"],
+        "answer": "Noun"
+    },
+    {
+        "id": 138,
+        "question": "What is the correct transformation of the sentence 'She said, 'I will come'' into reported speech?",
+        "options": ["She said she will come", "She said she would come", "She said she is coming", "She said she has come"],
+        "answer": "She said she would come"
+    },
+    {
+        "id": 139,
+        "question": "Which of the following is an example of active voice?",
+        "options": ["The book was read by her", "She read the book", "The book is being read by her", "The book has been read by her"],
+        "answer": "She read the book"
+    },
+    {
+        "id": 140,
+        "question": "What is the study of the meaning of words and sentences called?",
+        "options": ["Phonetics", "Morphology", "Syntax", "Semantics"],
+        "answer": "Semantics"
+    },
+    {
+        "id": 141,
+        "question": "Which of the following is an example of an idiom?",
+        "options": ["Kick the bucket", "Run quickly", "Jump high", "Walk slowly"],
+        "answer": "Kick the bucket"
+    },
+    {
+        "id": 142,
+        "question": "What is the primary focus of media studies?",
+        "options": ["Memorizing vocabulary", "Understanding cultural contexts", "Analyzing media content", "Focusing on grammar rules"],
+        "answer": "Analyzing media content"
+    },
+    {
+        "id": 143,
+        "question": "Which of the following is a major theme in postmodern literature?",
+        "options": ["Fragmentation and ambiguity", "Romantic love", "Medieval chivalry", "Industrialization"],
+        "answer": "Fragmentation and ambiguity"
+    },
+    {
+        "id": 144,
+        "question": "Who is known for the novel 'The Great Gatsby'?",
+        "options": ["F. Scott Fitzgerald", "Ernest Hemingway", "William Faulkner", "John Steinbeck"],
+        "answer": "F. Scott Fitzgerald"
+    },
+    {
+        "id": 145,
+        "question": "Which literary period is known for the works of Shakespeare?",
+        "options": ["The Renaissance", "The Romantic Movement", "The Victorian Era", "The Modern Period"],
+        "answer": "The Renaissance"
+    },
+    {
+        "id": 146,
+        "question": "Who wrote 'The Canterbury Tales'?",
+        "options": ["Geoffrey Chaucer", "William Shakespeare", "John Milton", "Edmund Spenser"],
+        "answer": "Geoffrey Chaucer"
+    },
+    {
+        "id": 147,
+        "question": "Which of the following is a major theme in Victorian literature?",
+        "options": ["Industrialization and social change", "Romantic love", "Medieval chivalry", "Postmodernism"],
+        "answer": "Industrialization and social change"
+    },
+    {
+        "id": 148,
+        "question": "Who is known for the novel 'Jane Eyre'?",
+        "options": ["Charlotte Brontë", "Emily Brontë", "Jane Austen", "George Eliot"],
+        "answer": "Charlotte Brontë"
+    },
+    {
+        "id": 149,
+        "question": "Which literary movement is associated with Wordsworth and Coleridge?",
+        "options": ["The Romantic Movement", "The Renaissance", "The Victorian Era", "The Modern Period"],
+        "answer": "The Romantic Movement"
+    },
+    {
+        "id": 150,
+        "question": "Who wrote '1984'?",
+        "options": ["George Orwell", "Aldous Huxley", "H.G. Wells", "Ray Bradbury"],
+        "answer": "George Orwell"
+    },
+    {
+        "id": 151,
+        "question": "What is the primary objective of teaching English literature?",
+        "options": ["Memorizing texts", "Developing critical thinking and appreciation", "Focusing on grammar rules", "Translating texts"],
+        "answer": "Developing critical thinking and appreciation"
+    },
+    {
+        "id": 152,
+        "question": "Which method of English Language Teaching emphasizes the use of the target language exclusively?",
+        "options": ["Direct Method", "Bilingual Method", "Grammar-Translation Method", "Audio-Lingual Method"],
+        "answer": "Direct Method"
+    },
+    {
+        "id": 153,
+        "question": "What is the focus of the Audio-Lingual Method in language teaching?",
+        "options": ["Grammar rules", "Repetition and drills", "Real-life communication", "Translation"],
+        "answer": "Repetition and drills"
+    },
+    {
+        "id": 154,
+        "question": "Which of the following is a key principle of the Humanistic Approach in language teaching?",
+        "options": ["Focusing on grammar rules", "Encouraging self-directed learning", "Memorization", "Repetition"],
+        "answer": "Encouraging self-directed learning"
+    },
+    {
+        "id": 155,
+        "question": "What is the primary goal of Continuous and Comprehensive Evaluation (CCE)?",
+        "options": ["Memorizing content", "Assessing overall development of learners", "Focusing on grammar rules", "Translating texts"],
+        "answer": "Assessing overall development of learners"
+    },
+    {
+        "id": 156,
+        "question": "Who is known as the father of English poetry?",
+        "options": ["Geoffrey Chaucer", "William Shakespeare", "John Milton", "Edmund Spenser"],
+        "answer": "Geoffrey Chaucer"
+    },
+    {
+        "id": 157,
+        "question": "Which literary period is known for the works of Shakespeare?",
+        "options": ["The Renaissance", "The Romantic Movement", "The Victorian Era", "The Modern Period"],
+        "answer": "The Renaissance"
+    },
+    {
+        "id": 158,
+        "question": "Who wrote 'The Faerie Queene'?",
+        "options": ["Edmund Spenser", "John Donne", "John Milton", "Geoffrey Chaucer"],
+        "answer": "Edmund Spenser"
+    },
+    {
+        "id": 159,
+        "question": "Which of the following is a major theme in Victorian literature?",
+        "options": ["Industrialization and social change", "Romantic love", "Medieval chivalry", "Postmodernism"],
+        "answer": "Industrialization and social change"
+    },
+    {
+        "id": 160,
+        "question": "Who is known for the novel 'Pride and Prejudice'?",
+        "options": ["Jane Austen", "Charlotte Brontë", "Emily Brontë", "George Eliot"],
+        "answer": "Jane Austen"
+    },
+    {
+        "id": 161,
+        "question": "Which literary movement is associated with Wordsworth and Coleridge?",
+        "options": ["The Romantic Movement", "The Renaissance", "The Victorian Era", "The Modern Period"],
+        "answer": "The Romantic Movement"
+    },
+    {
+        "id": 162,
+        "question": "Who wrote 'The Waste Land'?",
+        "options": ["T.S. Eliot", "W.B. Yeats", "James Joyce", "Virginia Woolf"],
+        "answer": "T.S. Eliot"
+    },
+    {
+        "id": 163,
+        "question": "Which of the following is a major theme in postmodern literature?",
+        "options": ["Fragmentation and ambiguity", "Romantic love", "Medieval chivalry", "Industrialization"],
+        "answer": "Fragmentation and ambiguity"
+    },
+    {
+        "id": 164,
+        "question": "Who is a prominent feminist writer in English literature?",
+        "options": ["Virginia Woolf", "Jane Austen", "Charlotte Brontë", "George Eliot"],
+        "answer": "Virginia Woolf"
+    },
+    {
+        "id": 165,
+        "question": "Which Indian writer is known for the novel 'The God of Small Things'?",
+        "options": ["Arundhati Roy", "R.K. Narayan", "Salman Rushdie", "Vikram Seth"],
+        "answer": "Arundhati Roy"
+    },
+    {
+        "id": 166,
+        "question": "What is the study of sounds in a language called?",
+        "options": ["Phonetics", "Morphology", "Syntax", "Semantics"],
+        "answer": "Phonetics"
+    },
+    {
+        "id": 167,
+        "question": "Which of the following is a branch of linguistics that studies word formation?",
+        "options": ["Phonetics", "Morphology", "Syntax", "Semantics"],
+        "answer": "Morphology"
+    },
+    {
+        "id": 168,
+        "question": "What is the study of sentence structure called?",
+        "options": ["Phonetics", "Morphology", "Syntax", "Semantics"],
+        "answer": "Syntax"
+    },
+    {
+        "id": 169,
+        "question": "Which of the following is an example of a tense in English?",
+        "options": ["Present Perfect", "Noun", "Adjective", "Preposition"],
+        "answer": "Present Perfect"
+    },
+    {
+        "id": 170,
+        "question": "What is the correct transformation of the sentence 'He said, 'I am tired'' into reported speech?",
+        "options": ["He said he is tired", "He said he was tired", "He said he has been tired", "He said he had been tired"],
+        "answer": "He said he was tired"
+    },
+    {
+        "id": 171,
+        "question": "Which of the following is an example of passive voice?",
+        "options": ["The cat chased the mouse", "The mouse was chased by the cat", "The mouse chased the cat", "The cat was chasing the mouse"],
+        "answer": "The mouse was chased by the cat"
+    },
+    {
+        "id": 172,
+        "question": "What is the study of the meaning of words and sentences called?",
+        "options": ["Phonetics", "Morphology", "Syntax", "Semantics"],
+        "answer": "Semantics"
+    },
+    {
+        "id": 173,
+        "question": "Which of the following is an example of an idiom?",
+        "options": ["Break the ice", "Run quickly", "Jump high", "Walk slowly"],
+        "answer": "Break the ice"
+    },
+    {
+        "id": 174,
+        "question": "What is the primary focus of translation studies?",
+        "options": ["Memorizing vocabulary", "Understanding cultural contexts", "Focusing on grammar rules", "Translating texts accurately"],
+        "answer": "Translating texts accurately"
+    },
+    {
+        "id": 175,
+        "question": "Which of the following is a major theme in feminist literature?",
+        "options": ["Gender equality", "Industrialization", "Romantic love", "Medieval chivalry"],
+        "answer": "Gender equality"
+    },
+    {
+        "id": 176,
+        "question": "Who is known for the novel 'Midnight's Children'?",
+        "options": ["Salman Rushdie", "Arundhati Roy", "R.K. Narayan", "Vikram Seth"],
+        "answer": "Salman Rushdie"
+    },
+    {
+        "id": 177,
+        "question": "Which literary period is known for the works of Chaucer?",
+        "options": ["Middle English Literature", "The Renaissance", "The Romantic Movement", "The Victorian Era"],
+        "answer": "Middle English Literature"
+    },
+    {
+        "id": 178,
+        "question": "Who wrote 'Paradise Lost'?",
+        "options": ["John Milton", "William Shakespeare", "Geoffrey Chaucer", "Edmund Spenser"],
+        "answer": "John Milton"
+    },
+    {
+        "id": 179,
+        "question": "Which of the following is a major theme in Romantic literature?",
+        "options": ["Nature and emotion", "Industrialization", "Medieval chivalry", "Postmodernism"],
+        "answer": "Nature and emotion"
+    },
+    {
+        "id": 180,
+        "question": "Who is known for the novel 'Wuthering Heights'?",
+        "options": ["Emily Brontë", "Charlotte Brontë", "Jane Austen", "George Eliot"],
+        "answer": "Emily Brontë"
+    },
+    {
+        "id": 181,
+        "question": "Which literary period is known for the works of Wordsworth and Coleridge?",
+        "options": ["The Romantic Movement", "The Renaissance", "The Victorian Era", "The Modern Period"],
+        "answer": "The Romantic Movement"
+    },
+    {
+        "id": 182,
+        "question": "Who wrote 'Ulysses'?",
+        "options": ["James Joyce", "T.S. Eliot", "W.B. Yeats", "Virginia Woolf"],
+        "answer": "James Joyce"
+    },
+    {
+        "id": 183,
+        "question": "Which of the following is a major theme in modern literature?",
+        "options": ["Alienation and isolation", "Romantic love", "Medieval chivalry", "Industrialization"],
+        "answer": "Alienation and isolation"
+    },
+    {
+        "id": 184,
+        "question": "Who is a prominent Indian writer in English?",
+        "options": ["R.K. Narayan", "Jane Austen", "Charlotte Brontë", "George Eliot"],
+        "answer": "R.K. Narayan"
+    },
+    {
+        "id": 185,
+        "question": "What is the study of the structure of phrases called?",
+        "options": ["Phonetics", "Morphology", "Syntax", "Phrase structure grammar"],
+        "answer": "Phrase structure grammar"
+    },
+    {
+        "id": 186,
+        "question": "Which of the following is an example of a word class?",
+        "options": ["Noun", "Present Perfect", "Passive voice", "Idiom"],
+        "answer": "Noun"
+    },
+    {
+        "id": 187,
+        "question": "What is the correct transformation of the sentence 'She said, 'I will come'' into reported speech?",
+        "options": ["She said she will come", "She said she would come", "She said she is coming", "She said she has come"],
+        "answer": "She said she would come"
+    },
+    {
+        "id": 188,
+        "question": "Which of the following is an example of active voice?",
+        "options": ["The book was read by her", "She read the book", "The book is being read by her", "The book has been read by her"],
+        "answer": "She read the book"
+    },
+    {
+        "id": 189,
+        "question": "What is the study of the meaning of words and sentences called?",
+        "options": ["Phonetics", "Morphology", "Syntax", "Semantics"],
+        "answer": "Semantics"
+    },
+    {
+        "id": 190,
+        "question": "Which of the following is an example of an idiom?",
+        "options": ["Kick the bucket", "Run quickly", "Jump high", "Walk slowly"],
+        "answer": "Kick the bucket"
+    },
+    {
+        "id": 191,
+        "question": "What is the primary focus of media studies?",
+        "options": ["Memorizing vocabulary", "Understanding cultural contexts", "Analyzing media content", "Focusing on grammar rules"],
+        "answer": "Analyzing media content"
+    },
+    {
+        "id": 192,
+        "question": "Which of the following is a major theme in postmodern literature?",
+        "options": ["Fragmentation and ambiguity", "Romantic love", "Medieval chivalry", "Industrialization"],
+        "answer": "Fragmentation and ambiguity"
+    },
+    {
+        "id": 193,
+        "question": "Who is known for the novel 'The Great Gatsby'?",
+        "options": ["F. Scott Fitzgerald", "Ernest Hemingway", "William Faulkner", "John Steinbeck"],
+        "answer": "F. Scott Fitzgerald"
+    },
+    {
+        "id": 194,
+        "question": "Which literary period is known for the works of Shakespeare?",
+        "options": ["The Renaissance", "The Romantic Movement", "The Victorian Era", "The Modern Period"],
+        "answer": "The Renaissance"
+    },
+    {
+        "id": 195,
+        "question": "Who wrote 'The Canterbury Tales'?",
+        "options": ["Geoffrey Chaucer", "William Shakespeare", "John Milton", "Edmund Spenser"],
+        "answer": "Geoffrey Chaucer"
+    },
+    {
+        "id": 196,
+        "question": "Which of the following is a major theme in Victorian literature?",
+        "options": ["Industrialization and social change", "Romantic love", "Medieval chivalry", "Postmodernism"],
+        "answer": "Industrialization and social change"
+    },
+    {
+        "id": 197,
+        "question": "Who is known for the novel 'Jane Eyre'?",
+        "options": ["Charlotte Brontë", "Emily Brontë", "Jane Austen", "George Eliot"],
+        "answer": "Charlotte Brontë"
+    },
+    {
+        "id": 198,
+        "question": "Which literary movement is associated with Wordsworth and Coleridge?",
+        "options": ["The Romantic Movement", "The Renaissance", "The Victorian Era", "The Modern Period"],
+        "answer": "The Romantic Movement"
+    },
+    {
+        "id": 199,
+        "question": "Who wrote '1984'?",
+        "options": ["George Orwell", "Aldous Huxley", "H.G. Wells", "Ray Bradbury"],
+        "answer": "George Orwell"
+    },
+    {
+        "id": 200,
+        "question": "Which of the following is a major theme in modern literature?",
+        "options": ["Alienation and isolation", "Romantic love", "Medieval chivalry", "Industrialization"],
+        "answer": "Alienation and isolation"
+    }
+  ]

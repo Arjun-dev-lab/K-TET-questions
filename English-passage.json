@@ -1,0 +1,730 @@
+[
+    {
+      "id": 1,
+      "passage": "The Blue Whale is the largest animal on Earth, reaching lengths of up to 100 feet and weights of up to 200 tons. Despite its massive size, the Blue Whale feeds primarily on tiny shrimp-like animals called krill. They consume up to 4 tons of krill every day during feeding season. Blue Whales are found in all the world's oceans except the Arctic.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the primary food source of the Blue Whale?",
+          "options": ["Fish", "Plankton", "Krill", "Algae"],
+          "answer": "Krill"
+        },
+        {
+          "id": 2,
+          "question": "How much krill does a Blue Whale consume daily during feeding season?",
+          "options": ["1 ton", "2 tons", "3 tons", "4 tons"],
+          "answer": "4 tons"
+        },
+        {
+          "id": 3,
+          "question": "In which ocean are Blue Whales not found?",
+          "options": ["Atlantic", "Pacific", "Indian", "Arctic"],
+          "answer": "Arctic"
+        },
+        {
+          "id": 4,
+          "question": "What is the maximum length a Blue Whale can reach?",
+          "options": ["50 feet", "75 feet", "100 feet", "125 feet"],
+          "answer": "100 feet"
+        },
+        {
+          "id": 5,
+          "question": "What is the maximum weight of a Blue Whale?",
+          "options": ["100 tons", "150 tons", "200 tons", "250 tons"],
+          "answer": "200 tons"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "passage": "Thomas Edison was an American inventor and businessman who is best known for inventing the phonograph, the motion picture camera, and the electric light bulb. Edison held over 1,000 patents for his inventions and significantly impacted the modern world with his contributions to technology.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is Thomas Edison best known for inventing?",
+          "options": ["The telephone", "The radio", "The electric light bulb", "The airplane"],
+          "answer": "The electric light bulb"
+        },
+        {
+          "id": 2,
+          "question": "How many patents did Thomas Edison hold?",
+          "options": ["100", "500", "1,000", "1,500"],
+          "answer": "1,000"
+        },
+        {
+          "id": 3,
+          "question": "Which of the following is NOT an invention by Thomas Edison?",
+          "options": ["The phonograph", "The motion picture camera", "The electric light bulb", "The computer"],
+          "answer": "The computer"
+        },
+        {
+          "id": 4,
+          "question": "What was Thomas Edison's nationality?",
+          "options": ["British", "Canadian", "Australian", "American"],
+          "answer": "American"
+        },
+        {
+          "id": 5,
+          "question": "In which field did Thomas Edison primarily work?",
+          "options": ["Medicine", "Technology", "Agriculture", "Finance"],
+          "answer": "Technology"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "passage": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize foods with the help of chlorophyll. During photosynthesis, plants take in carbon dioxide and water and convert them into glucose and oxygen. This process is vital for the survival of most life on Earth.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What do plants take in during photosynthesis?",
+          "options": ["Oxygen and water", "Carbon dioxide and water", "Glucose and oxygen", "Sunlight and oxygen"],
+          "answer": "Carbon dioxide and water"
+        },
+        {
+          "id": 2,
+          "question": "What is produced as a result of photosynthesis?",
+          "options": ["Carbon dioxide and water", "Oxygen and glucose", "Sunlight and chlorophyll", "Water and sunlight"],
+          "answer": "Oxygen and glucose"
+        },
+        {
+          "id": 3,
+          "question": "Which pigment is essential for photosynthesis?",
+          "options": ["Hemoglobin", "Melanin", "Chlorophyll", "Carotene"],
+          "answer": "Chlorophyll"
+        },
+        {
+          "id": 4,
+          "question": "What is the primary source of energy for photosynthesis?",
+          "options": ["Water", "Oxygen", "Sunlight", "Glucose"],
+          "answer": "Sunlight"
+        },
+        {
+          "id": 5,
+          "question": "Why is photosynthesis important for life on Earth?",
+          "options": ["It provides food for plants only", "It produces oxygen necessary for most living organisms", "It takes in oxygen from the atmosphere", "It reduces the amount of carbon dioxide in the atmosphere"],
+          "answer": "It produces oxygen necessary for most living organisms"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "passage": "The Great Wall of China is one of the most famous structures in the world. It was built to protect Chinese states and empires from invasions and raids. The wall stretches over 13,000 miles and took centuries to complete. It is often considered one of the greatest architectural feats in history.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What was the primary purpose of the Great Wall of China?",
+          "options": ["To serve as a trade route", "To protect against invasions", "To mark territorial boundaries", "To promote tourism"],
+          "answer": "To protect against invasions"
+        },
+        {
+          "id": 2,
+          "question": "How long is the Great Wall of China?",
+          "options": ["1,300 miles", "5,000 miles", "10,000 miles", "13,000 miles"],
+          "answer": "13,000 miles"
+        },
+        {
+          "id": 3,
+          "question": "How long did it take to complete the Great Wall of China?",
+          "options": ["10 years", "50 years", "Centuries", "Decades"],
+          "answer": "Centuries"
+        },
+        {
+          "id": 4,
+          "question": "Which country is the Great Wall of China located in?",
+          "options": ["Japan", "India", "China", "Korea"],
+          "answer": "China"
+        },
+        {
+          "id": 5,
+          "question": "Why is the Great Wall of China considered a great architectural feat?",
+          "options": ["It is the tallest structure in the world", "It was built without any modern tools", "It spans a large distance and took a long time to complete", "It is made entirely of gold"],
+          "answer": "It spans a large distance and took a long time to complete"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "passage": "Albert Einstein, one of the most influential physicists of the 20th century, developed the theory of relativity, which revolutionized our understanding of time, space, and energy. His famous equation E=mc^2 demonstrated the relationship between mass and energy. Einstein received the Nobel Prize in Physics in 1921 for his explanation of the photoelectric effect.",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What theory did Albert Einstein develop?",
+          "options": ["Theory of evolution", "Theory of relativity", "Quantum theory", "Atomic theory"],
+          "answer": "Theory of relativity"
+        },
+        {
+          "id": 2,
+          "question": "What is the famous equation by Einstein that relates mass and energy?",
+          "options": ["F=ma", "E=hf", "E=mc^2", "PV=nRT"],
+          "answer": "E=mc^2"
+        },
+        {
+          "id": 3,
+          "question": "In which year did Einstein receive the Nobel Prize in Physics?",
+          "options": ["1905", "1915", "1921", "1930"],
+          "answer": "1921"
+        },
+        {
+          "id": 4,
+          "question": "What was the Nobel Prize awarded for?",
+          "options": ["Theory of relativity", "Development of quantum mechanics", "Explanation of the photoelectric effect", "Discovery of the neutron"],
+          "answer": "Explanation of the photoelectric effect"
+        },
+        {
+          "id": 5,
+          "question": "What field did Albert Einstein primarily work in?",
+          "options": ["Chemistry", "Biology", "Physics", "Mathematics"],
+          "answer": "Physics"
+        }
+      ]
+    },
+    {
+        "id": 6,
+        "passage": "The Taj Mahal, located in Agra, India, is one of the most famous monuments in the world. It was built by Mughal Emperor Shah Jahan in memory of his beloved wife, Mumtaz Mahal. The Taj Mahal is an exquisite example of Mughal architecture, combining elements from Persian, Ottoman Turkish, and Indian architectural styles. It is made of white marble and is known for its intricate carvings and beautiful gardens.",
+        "questions": [
+        {
+            "id": 1,
+            "question": "Who built the Taj Mahal?",
+            "options": ["Akbar", "Shah Jahan", "Aurangzeb", "Babur"],
+            "answer": "Shah Jahan"
+        },
+        {
+            "id": 2,
+            "question": "In memory of whom was the Taj Mahal built?",
+            "options": ["Nur Jahan", "Jodha Bai", "Mumtaz Mahal", "Hamida Banu Begum"],
+            "answer": "Mumtaz Mahal"
+        },
+        {
+            "id": 3,
+            "question": "Which architectural styles are combined in the Taj Mahal?",
+            "options": ["Persian, Ottoman Turkish, and Indian", "Gothic, Baroque, and Renaissance", "Romanesque, Byzantine, and Islamic", "Classical, Modern, and Postmodern"],
+            "answer": "Persian, Ottoman Turkish, and Indian"
+        },
+        {
+            "id": 4,
+            "question": "What material is the Taj Mahal primarily made of?",
+            "options": ["Sandstone", "Granite", "White marble", "Limestone"],
+            "answer": "White marble"
+        },
+        {
+            "id": 5,
+            "question": "What is the Taj Mahal known for?",
+            "options": ["Its tall towers", "Its intricate carvings and beautiful gardens", "Its modern design", "Its large domes"],
+            "answer": "Its intricate carvings and beautiful gardens"
+        }
+        ]
+    },
+    {
+        "id": 7,
+        "passage": "Nelson Mandela was a South African anti-apartheid revolutionary, political leader, and philanthropist who served as President of South Africa from 1994 to 1999. He was the country's first black head of state and the first elected in a fully representative democratic election. Mandela's presidency marked the end of decades of institutionalized racial segregation and discrimination in South Africa.",
+        "questions": [
+        {
+            "id": 1,
+            "question": "Who was Nelson Mandela?",
+            "options": ["An American civil rights leader", "A South African anti-apartheid revolutionary", "An Australian politician", "A British philanthropist"],
+            "answer": "A South African anti-apartheid revolutionary"
+        },
+        {
+            "id": 2,
+            "question": "When did Nelson Mandela serve as President of South Africa?",
+            "options": ["1989-1994", "1994-1999", "2000-2005", "2005-2010"],
+            "answer": "1994-1999"
+        },
+        {
+            "id": 3,
+            "question": "What was significant about Nelson Mandela's presidency?",
+            "options": ["He was the first black head of state in South Africa", "He was the first white head of state in South Africa", "He was the first female head of state in South Africa", "He was the youngest head of state in South Africa"],
+            "answer": "He was the first black head of state in South Africa"
+        },
+        {
+            "id": 4,
+            "question": "What did Mandela's presidency mark the end of?",
+            "options": ["Colonial rule", "Institutionalized racial segregation and discrimination", "Monarchical government", "Military dictatorship"],
+            "answer": "Institutionalized racial segregation and discrimination"
+        },
+        {
+            "id": 5,
+            "question": "Which years was Nelson Mandela active in politics?",
+            "options": ["1940s-1960s", "1960s-1980s", "1980s-2000s", "1990s-2010s"],
+            "answer": "1980s-2000s"
+        }
+        ]
+    },
+    {
+        "id": 8,
+        "passage": "Mount Everest, located in the Himalayas, is the highest mountain in the world, with its peak at 29,032 feet (8,848 meters) above sea level. It is part of the border between Nepal and the Tibet Autonomous Region of China. Every year, mountaineers from all over the world attempt to reach the summit of this formidable peak, facing challenges such as extreme weather, avalanches, and altitude sickness.",
+        "questions": [
+        {
+            "id": 1,
+            "question": "Where is Mount Everest located?",
+            "options": ["Andes", "Rocky Mountains", "Himalayas", "Alps"],
+            "answer": "Himalayas"
+        },
+        {
+            "id": 2,
+            "question": "How high is Mount Everest's peak above sea level?",
+            "options": ["20,000 feet", "25,000 feet", "29,032 feet", "35,000 feet"],
+            "answer": "29,032 feet"
+        },
+        {
+            "id": 3,
+            "question": "Which countries share the border where Mount Everest is located?",
+            "options": ["India and China", "Nepal and China", "Pakistan and India", "Bhutan and Nepal"],
+            "answer": "Nepal and China"
+        },
+        {
+            "id": 4,
+            "question": "What challenges do mountaineers face when attempting to climb Mount Everest?",
+            "options": ["Extreme weather, avalanches, and altitude sickness", "Lack of food and water", "Animal attacks", "Navigation difficulties"],
+            "answer": "Extreme weather, avalanches, and altitude sickness"
+        },
+        {
+            "id": 5,
+            "question": "What is the primary reason mountaineers attempt to climb Mount Everest?",
+            "options": ["To study geology", "To reach the highest point on Earth", "To practice skiing", "To conduct scientific research"],
+            "answer": "To reach the highest point on Earth"
+        }
+        ]
+    },
+    {
+        "id": 9,
+        "passage": "Isaac Newton was an English mathematician, physicist, astronomer, and author who is widely recognized as one of the most influential scientists of all time. He formulated the laws of motion and universal gravitation, which laid the groundwork for classical mechanics. Newton's book 'Philosophiæ Naturalis Principia Mathematica' (often referred to as the 'Principia') is considered one of the most important works in the history of science.",
+        "questions": [
+        {
+            "id": 1,
+            "question": "Who was Isaac Newton?",
+            "options": ["A French philosopher", "An American biologist", "An English mathematician and physicist", "A German chemist"],
+            "answer": "An English mathematician and physicist"
+        },
+        {
+            "id": 2,
+            "question": "What did Newton formulate?",
+            "options": ["The theory of evolution", "The laws of motion and universal gravitation", "The periodic table", "The theory of relativity"],
+            "answer": "The laws of motion and universal gravitation"
+        },
+        {
+            "id": 3,
+            "question": "What is Newton's book 'Principia' considered?",
+            "options": ["A novel", "A textbook", "One of the most important works in the history of science", "A historical fiction"],
+            "answer": "One of the most important works in the history of science"
+        },
+        {
+            "id": 4,
+            "question": "In which fields did Isaac Newton primarily work?",
+            "options": ["Mathematics, physics, and astronomy", "Chemistry, biology, and medicine", "Literature, history, and art", "Sociology, psychology, and anthropology"],
+            "answer": "Mathematics, physics, and astronomy"
+        },
+        {
+            "id": 5,
+            "question": "What was the impact of Newton's laws of motion and universal gravitation?",
+            "options": ["They were quickly disproven", "They laid the groundwork for classical mechanics", "They had no significant impact", "They were only relevant in the 18th century"],
+            "answer": "They laid the groundwork for classical mechanics"
+        }
+        ]
+    },
+    {
+        "id": 10,
+        "passage": "The Great Barrier Reef, located off the coast of Queensland, Australia, is the largest coral reef system in the world. It is composed of over 2,900 individual reefs and 900 islands stretching for over 1,400 miles. The reef is home to a diverse array of marine life, including over 1,500 species of fish, 400 species of coral, and various species of sharks, rays, and sea turtles.",
+        "questions": [
+        {
+            "id": 1,
+            "question": "Where is the Great Barrier Reef located?",
+            "options": ["The Caribbean Sea", "The Mediterranean Sea", "Off the coast of Queensland, Australia", "Off the coast of California, USA"],
+            "answer": "Off the coast of Queensland, Australia"
+        },
+        {
+            "id": 2,
+            "question": "How many individual reefs make up the Great Barrier Reef?",
+            "options": ["1,000", "2,000", "2,900", "4,000"],
+            "answer": "2,900"
+        },
+        {
+            "id": 3,
+            "question": "How many islands are part of the Great Barrier Reef?",
+            "options": ["100", "300", "600", "900"],
+            "answer": "900"
+        },
+        {
+            "id": 4,
+            "question": "How long does the Great Barrier Reef stretch?",
+            "options": ["500 miles", "1,000 miles", "1,400 miles", "2,000 miles"],
+            "answer": "1,400 miles"
+        },
+        {
+            "id": 5,
+            "question": "What types of marine life are found in the Great Barrier Reef?",
+            "options": ["Only fish", "Only coral", "Fish, coral, sharks, rays, and sea turtles", "Only sharks"],
+            "answer": "Fish, coral, sharks, rays, and sea turtles"
+        }
+        ]
+    },
+    {
+        "id": 11,
+        "passage": "The Pyramids of Giza, located in Egypt, are one of the most well-known archaeological sites in the world. They were built as tombs for the Pharaohs and are a testament to the engineering skills of the ancient Egyptians. The largest of the pyramids, the Great Pyramid of Giza, was constructed for Pharaoh Khufu and is one of the Seven Wonders of the Ancient World.",
+        "questions": [
+        {
+            "id": 1,
+            "question": "Where are the Pyramids of Giza located?",
+            "options": ["Mexico", "Greece", "Egypt", "China"],
+            "answer": "Egypt"
+        },
+        {
+            "id": 2,
+            "question": "What were the Pyramids of Giza built as?",
+            "options": ["Temples", "Palaces", "Tombs", "Fortresses"],
+            "answer": "Tombs"
+        },
+        {
+            "id": 3,
+            "question": "Who was the Great Pyramid of Giza constructed for?",
+            "options": ["Tutankhamun", "Ramses II", "Khufu", "Cleopatra"],
+            "answer": "Khufu"
+        },
+        {
+            "id": 4,
+            "question": "What does the Great Pyramid of Giza represent?",
+            "options": [
+            "One of the Seven Wonders of the Modern World",
+            "One of the Seven Wonders of the Ancient World",
+            "One of the Seven Wonders of the Natural World",
+            "One of the Seven Wonders of the Medieval World"
+            ],
+            "answer": "One of the Seven Wonders of the Ancient World"
+        },
+        {
+            "id": 5,
+            "question": "What do the Pyramids of Giza demonstrate about the ancient Egyptians?",
+            "options": ["Their military strength", "Their agricultural skills", "Their engineering skills", "Their artistic abilities"],
+            "answer": "Their engineering skills"
+        }
+        ]
+    },
+    {
+        "id": 12,
+        "passage": "William Shakespeare, often referred to as the 'Bard of Avon,' is one of the most influential playwrights and poets in English literature. His works, including tragedies like 'Hamlet,' comedies like 'A Midsummer Night's Dream,' and histories like 'Henry V,' have been performed and studied worldwide. Shakespeare's writing is known for its rich language, complex characters, and exploration of timeless themes.",
+        "questions": [
+        {
+            "id": 1,
+            "question": "What is William Shakespeare often referred to as?",
+            "options": ["The Poet of the Thames", "The Bard of Avon", "The Scribe of London", "The Playwright of Stratford"],
+            "answer": "The Bard of Avon"
+        },
+        {
+            "id": 2,
+            "question": "Which of the following is a tragedy written by Shakespeare?",
+            "options": ["Hamlet", "A Midsummer Night's Dream", "Much Ado About Nothing", "The Merchant of Venice"],
+            "answer": "Hamlet"
+        },
+        {
+            "id": 3,
+            "question": "Which of the following is a comedy written by Shakespeare?",
+            "options": ["Macbeth", "Julius Caesar", "A Midsummer Night's Dream", "Othello"],
+            "answer": "A Midsummer Night's Dream"
+        },
+        {
+            "id": 4,
+            "question": "What are Shakespeare's works known for?",
+            "options": [
+            "Simple language and straightforward plots",
+            "Rich language, complex characters, and timeless themes",
+            "Rhyming couplets and short length",
+            "Historical accuracy and factual details"
+            ],
+            "answer": "Rich language, complex characters, and timeless themes"
+        },
+        {
+            "id": 5,
+            "question": "Where have Shakespeare's works been performed and studied?",
+            "options": ["Only in England", "In European countries only", "Worldwide", "Only in North America"],
+            "answer": "Worldwide"
+        }
+        ]
+    },
+    {
+        "id": 13,
+        "passage": "The Mona Lisa is one of the most famous paintings in the world, created by the Italian artist Leonardo da Vinci. It is renowned for its subject's enigmatic expression and masterful use of sfumato, a technique that creates a soft, gradual transition between colors and tones. The painting is housed in the Louvre Museum in Paris, where it attracts millions of visitors each year.",
+        "questions": [
+        {
+            "id": 1,
+            "question": "Who created the Mona Lisa?",
+            "options": ["Michelangelo", "Leonardo da Vinci", "Raphael", "Donatello"],
+            "answer": "Leonardo da Vinci"
+        },
+        {
+            "id": 2,
+            "question": "What is the Mona Lisa renowned for?",
+            "options": [
+            "Its bright colors and large size",
+            "Its subject's enigmatic expression and masterful use of sfumato",
+            "Its depiction of a historical event",
+            "Its abstract style"
+            ],
+            "answer": "Its subject's enigmatic expression and masterful use of sfumato"
+        },
+        {
+            "id": 3,
+            "question": "What technique did Leonardo da Vinci use in the Mona Lisa?",
+            "options": ["Pointillism", "Fresco", "Sfumato", "Impasto"],
+            "answer": "Sfumato"
+        },
+        {
+            "id": 4,
+            "question": "Where is the Mona Lisa housed?",
+            "options": ["The British Museum", "The Uffizi Gallery", "The Vatican Museums", "The Louvre Museum"],
+            "answer": "The Louvre Museum"
+        },
+        {
+            "id": 5,
+            "question": "How many visitors does the Mona Lisa attract each year?",
+            "options": ["Hundreds", "Thousands", "Millions", "Billions"],
+            "answer": "Millions"
+        }
+        ]
+    },
+    {
+        "id": 14,
+        "passage": "Marie Curie was a pioneering scientist known for her groundbreaking research on radioactivity. She was the first woman to win a Nobel Prize and remains the only person to have won Nobel Prizes in two different scientific fields: Physics and Chemistry. Her discoveries, including the elements polonium and radium, have had a lasting impact on science and medicine.",
+        "questions": [
+        {
+            "id": 1,
+            "question": "What was Marie Curie known for?",
+            "options": [
+            "Discovering the structure of DNA",
+            "Research on radioactivity",
+            "Developing the theory of relativity",
+            "Inventing the microscope"
+            ],
+            "answer": "Research on radioactivity"
+        },
+        {
+            "id": 2,
+            "question": "How many Nobel Prizes did Marie Curie win?",
+            "options": ["One", "Two", "Three", "Four"],
+            "answer": "Two"
+        },
+        {
+            "id": 3,
+            "question": "In which scientific fields did Marie Curie win Nobel Prizes?",
+            "options": ["Physics and Medicine", "Chemistry and Biology", "Physics and Chemistry", "Medicine and Biology"],
+            "answer": "Physics and Chemistry"
+        },
+        {
+            "id": 4,
+            "question": "What elements did Marie Curie discover?",
+            "options": ["Helium and neon", "Gold and silver", "Polonium and radium", "Iron and copper"],
+            "answer": "Polonium and radium"
+        },
+        {
+            "id": 5,
+            "question": "What was the impact of Marie Curie's discoveries?",
+            "options": [
+            "They had no significant impact",
+            "They were only relevant in the 19th century",
+            "They have had a lasting impact on science and medicine",
+            "They were quickly disproven"
+            ],
+            "answer": "They have had a lasting impact on science and medicine"
+        }
+        ]
+    },
+    {
+        "id": 15,
+        "passage": "The Internet, a global network of interconnected computers, has revolutionized the way people communicate, access information, and conduct business. It began as a project by the U.S. Department of Defense in the 1960s and has since grown into a vast, decentralized system that connects billions of devices worldwide. The Internet has transformed industries, including media, education, and commerce, and continues to evolve with advancements in technology.",
+        "questions": [
+        {
+            "id": 1,
+            "question": "What is the Internet?",
+            "options": [
+            "A type of computer hardware",
+            "A global network of interconnected computers",
+            "A software program",
+            "A social media platform"
+            ],
+            "answer": "A global network of interconnected computers"
+        },
+        {
+            "id": 2,
+            "question": "When did the Internet begin as a project?",
+            "options": ["1940s", "1950s", "1960s", "1970s"],
+            "answer": "1960s"
+        },
+        {
+            "id": 3,
+            "question": "Who initiated the project that led to the creation of the Internet?",
+            "options": ["NASA", "The U.S. Department of Defense", "The European Union", "The United Nations"],
+            "answer": "The U.S. Department of Defense"
+        },
+        {
+            "id": 4,
+            "question": "How has the Internet transformed industries?",
+            "options": [
+            "By making them less efficient",
+            "By decreasing their reach",
+            "By revolutionizing communication, information access, and business",
+            "By limiting technological advancements"
+            ],
+            "answer": "By revolutionizing communication, information access, and business"
+        },
+        {
+            "id": 5,
+            "question": "What continues to drive the evolution of the Internet?",
+            "options": [
+            "Advancements in technology",
+            "Decreased global connectivity",
+            "Reduced investment in infrastructure",
+            "Declining interest in digital communication"
+            ],
+            "answer": "Advancements in technology"
+        }
+        ]
+    },
+    {
+        "id": 16,
+        "passage": "Charles Darwin was an English naturalist and biologist best known for his contributions to the science of evolution. His book 'On the Origin of Species,' published in 1859, introduced the theory of natural selection, which posits that organisms better adapted to their environment tend to survive and produce more offspring. Darwin's work has had a profound impact on our understanding of the natural world.",
+        "questions": [
+        {
+            "id": 1,
+            "question": "Who was Charles Darwin?",
+            "options": ["A French chemist", "An English naturalist and biologist", "An American physicist", "A German astronomer"],
+            "answer": "An English naturalist and biologist"
+        },
+        {
+            "id": 2,
+            "question": "What is the title of Darwin's famous book on evolution?",
+            "options": ["The Descent of Man", "The Expression of Emotions", "On the Origin of Species", "The Voyage of the Beagle"],
+            "answer": "On the Origin of Species"
+        },
+        {
+            "id": 3,
+            "question": "When was 'On the Origin of Species' published?",
+            "options": ["1820", "1859", "1871", "1882"],
+            "answer": "1859"
+        },
+        {
+            "id": 4,
+            "question": "What theory did Darwin introduce in his book?",
+            "options": ["The theory of relativity", "The theory of evolution by natural selection", "The theory of gravitation", "The theory of electromagnetism"],
+            "answer": "The theory of evolution by natural selection"
+        },
+        {
+            "id": 5,
+            "question": "What impact has Darwin's work had on our understanding of the natural world?",
+            "options": ["It has had no significant impact", "It has been disproven", "It has had a profound impact", "It has been ignored"],
+            "answer": "It has had a profound impact"
+        }
+        ]
+    },
+    {
+        "id": 17,
+        "passage": "The Eiffel Tower, located in Paris, France, is one of the most recognizable landmarks in the world. It was designed by the engineer Gustave Eiffel and completed in 1889 as the entrance arch to the 1889 World's Fair. The tower stands 1,083 feet tall and was the tallest man-made structure in the world until the completion of the Chrysler Building in New York City in 1930.",
+        "questions": [
+        {
+            "id": 1,
+            "question": "Where is the Eiffel Tower located?",
+            "options": ["London, England", "Berlin, Germany", "Paris, France", "Rome, Italy"],
+            "answer": "Paris, France"
+        },
+        {
+            "id": 2,
+            "question": "Who designed the Eiffel Tower?",
+            "options": ["Gustave Eiffel", "Auguste Bartholdi", "Le Corbusier", "Antoni Gaudí"],
+            "answer": "Gustave Eiffel"
+        },
+        {
+            "id": 3,
+            "question": "When was the Eiffel Tower completed?",
+            "options": ["1876", "1889", "1900", "1912"],
+            "answer": "1889"
+        },
+        {
+            "id": 4,
+            "question": "What was the original purpose of the Eiffel Tower?",
+            "options": ["A radio antenna", "A monument to war heroes", "The entrance arch to the 1889 World's Fair", "A royal palace"],
+            "answer": "The entrance arch to the 1889 World's Fair"
+        },
+        {
+            "id": 5,
+            "question": "How tall is the Eiffel Tower?",
+            "options": ["800 feet", "950 feet", "1,083 feet", "1,200 feet"],
+            "answer": "1,083 feet"
+        }
+        ]
+    },
+    {
+        "id": 18,
+        "passage": "Jane Austen was an English novelist known for her six major novels, including 'Pride and Prejudice,' 'Sense and Sensibility,' and 'Emma.' Her works explore themes of love, marriage, and social class in early 19th-century England. Austen's keen observations and witty commentary on the manners and mores of her time have made her one of the most beloved authors in English literature.",
+        "questions": [
+        {
+            "id": 1,
+            "question": "Who was Jane Austen?",
+            "options": ["A French poet", "An English novelist", "An American playwright", "A German philosopher"],
+            "answer": "An English novelist"
+        },
+        {
+            "id": 2,
+            "question": "How many major novels did Jane Austen write?",
+            "options": ["Four", "Five", "Six", "Seven"],
+            "answer": "Six"
+        },
+        {
+            "id": 3,
+            "question": "Which of the following is a novel by Jane Austen?",
+            "options": ["Wuthering Heights", "Jane Eyre", "Pride and Prejudice", "Great Expectations"],
+            "answer": "Pride and Prejudice"
+        },
+        {
+            "id": 4,
+            "question": "What themes do Austen's works explore?",
+            "options": ["War and peace", "Science and technology", "Love, marriage, and social class", "Crime and punishment"],
+            "answer": "Love, marriage, and social class"
+        },
+        {
+            "id": 5,
+            "question": "Why is Jane Austen beloved in English literature?",
+            "options": [
+            "For her scientific discoveries",
+            "For her keen observations and witty commentary on manners and mores",
+            "For her historical accuracy",
+            "For her political treatises"
+            ],
+            "answer": "For her keen observations and witty commentary on manners and mores"
+        }
+        ]
+    },
+    {
+        "id": 19,
+        "passage": "Galileo Galilei was an Italian astronomer, physicist, and engineer who is often referred to as the 'father of modern observational astronomy' and the 'father of modern physics.' He made significant contributions to the scientific revolution of the Renaissance, including improvements to the telescope and consequent astronomical observations that supported the Copernican theory of heliocentrism.",
+        "questions": [
+        {
+            "id": 1,
+            "question": "Who was Galileo Galilei?",
+            "options": ["A Spanish explorer", "A French mathematician", "An Italian astronomer, physicist, and engineer", "A British biologist"],
+            "answer": "An Italian astronomer, physicist, and engineer"
+        },
+        {
+            "id": 2,
+            "question": "What is Galileo often referred to as?",
+            "options": [
+            "The father of modern medicine",
+            "The father of modern observational astronomy",
+            "The father of modern chemistry",
+            "The father of modern philosophy"
+            ],
+            "answer": "The father of modern observational astronomy"
+        },
+        {
+            "id": 3,
+            "question": "What significant contributions did Galileo make during the Renaissance?",
+            "options": [
+            "Advances in literature",
+            "Improvements to the telescope and astronomical observations",
+            "Innovations in art and sculpture",
+            "Developments in music composition"
+            ],
+            "answer": "Improvements to the telescope and astronomical observations"
+        }
+        ]
+    }
+    
+]
