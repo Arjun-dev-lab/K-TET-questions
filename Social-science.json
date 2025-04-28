@@ -1,0 +1,602 @@
+[
+    {
+      "id": 1,
+      "question": "Which period is known as the Stone Age?",
+      "options": ["Paleolithic Age", "Neolithic Age", "Bronze Age", "Iron Age"],
+      "answer": "Paleolithic Age"
+    },
+    {
+      "id": 2,
+      "question": "What marked the beginning of agriculture in human history?",
+      "options": ["Domestication of animals", "Use of stone tools", "Cultivation of crops", "Discovery of fire"],
+      "answer": "Cultivation of crops"
+    },
+    {
+      "id": 3,
+      "question": "Which civilization is known for its pyramids?",
+      "options": ["Egyptian", "Chinese", "Mesopotamian", "Harappan"],
+      "answer": "Egyptian"
+    },
+    {
+      "id": 4,
+      "question": "Which civilization developed along the Yellow River?",
+      "options": ["Egyptian", "Chinese", "Mesopotamian", "Harappan"],
+      "answer": "Chinese"
+    },
+    {
+      "id": 5,
+      "question": "Which civilization is associated with the Indus Valley?",
+      "options": ["Egyptian", "Chinese", "Mesopotamian", "Harappan"],
+      "answer": "Harappan"
+    },
+    {
+      "id": 6,
+      "question": "What was the main feature of the Industrial Revolution?",
+      "options": ["Agricultural advancements", "Mass production using machines", "Exploration of new lands", "Development of art and culture"],
+      "answer": "Mass production using machines"
+    },
+    {
+      "id": 7,
+      "question": "What was the main feature of the Agrarian Revolution?",
+      "options": ["Industrialization", "Improvement in farming techniques", "Urbanization", "Colonial expansion"],
+      "answer": "Improvement in farming techniques"
+    },
+    {
+      "id": 8,
+      "question": "Which economic system is based on private ownership and profit?",
+      "options": ["Capitalism", "Socialism", "Feudalism", "Communism"],
+      "answer": "Capitalism"
+    },
+    {
+      "id": 9,
+      "question": "What is the main goal of socialism?",
+      "options": ["Private ownership", "Equal distribution of wealth", "Profit maximization", "Colonial expansion"],
+      "answer": "Equal distribution of wealth"
+    },
+    {
+      "id": 10,
+      "question": "Which movement aimed to improve the working conditions of laborers?",
+      "options": ["Labour movements", "Social reform movements", "National movements", "Peasant movements"],
+      "answer": "Labour movements"
+    },
+    {
+      "id": 11,
+      "question": "What was the main cause of colonialism in India?",
+      "options": ["Exploration", "Trade and economic exploitation", "Cultural exchange", "Religious missions"],
+      "answer": "Trade and economic exploitation"
+    },
+    {
+      "id": 12,
+      "question": "Which group led the peasant struggles in colonial India?",
+      "options": ["Tribals", "Workers", "Women", "Farmers"],
+      "answer": "Farmers"
+    },
+    {
+      "id": 13,
+      "question": "Who were the Poligars?",
+      "options": ["Tribal leaders", "Peasant leaders", "Local chieftains in South India", "Sepoys"],
+      "answer": "Local chieftains in South India"
+    },
+    {
+      "id": 14,
+      "question": "What was the main cause of the Revolt of 1857?",
+      "options": ["Economic exploitation", "Religious interference", "Introduction of new rifles", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "id": 15,
+      "question": "Who was the leader of the Revolt of 1857 in Jhansi?",
+      "options": ["Rani Lakshmibai", "Tantia Tope", "Bahadur Shah II", "Nana Saheb"],
+      "answer": "Rani Lakshmibai"
+    },
+    {
+      "id": 16,
+      "question": "Which social reformer fought against child marriage?",
+      "options": ["Raja Ram Mohan Roy", "Swami Vivekananda", "Ishwar Chandra Vidyasagar", "Jyotirao Phule"],
+      "answer": "Ishwar Chandra Vidyasagar"
+    },
+    {
+      "id": 17,
+      "question": "Who founded the Brahmo Samaj?",
+      "options": ["Raja Ram Mohan Roy", "Swami Vivekananda", "Ishwar Chandra Vidyasagar", "Jyotirao Phule"],
+      "answer": "Raja Ram Mohan Roy"
+    },
+    {
+      "id": 18,
+      "question": "What was the main goal of the Indian National Movement?",
+      "options": ["Economic reforms", "Independence from British rule", "Social reforms", "Religious unity"],
+      "answer": "Independence from British rule"
+    },
+    {
+      "id": 19,
+      "question": "Who is known as the 'Father of the Nation' in India?",
+      "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Subhas Chandra Bose", "Bhagat Singh"],
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "id": 20,
+      "question": "Which event marked the beginning of the Gandhian era in the Indian National Movement?",
+      "options": ["Non-Cooperation Movement", "Quit India Movement", "Civil Disobedience Movement", "Salt Satyagraha"],
+      "answer": "Non-Cooperation Movement"
+    },
+    {
+      "id": 21,
+      "question": "Which movement was led by Mahatma Gandhi against the salt tax?",
+      "options": ["Non-Cooperation Movement", "Quit India Movement", "Civil Disobedience Movement", "Salt Satyagraha"],
+      "answer": "Salt Satyagraha"
+    },
+    {
+      "id": 22,
+      "question": "What was the main goal of the Quit India Movement?",
+      "options": ["Economic reforms", "Immediate independence from British rule", "Social reforms", "Religious unity"],
+      "answer": "Immediate independence from British rule"
+    },
+    {
+      "id": 23,
+      "question": "Which movement in Kerala focused on social equality and education?",
+      "options": ["Vaikom Satyagraha", "Temple Entry Movement", "Nivarthana Agitation", "Malabar Rebellion"],
+      "answer": "Vaikom Satyagraha"
+    },
+    {
+      "id": 24,
+      "question": "Who led the Temple Entry Movement in Kerala?",
+      "options": ["Sree Narayana Guru", "Ayyankali", "Chattampi Swamikal", "K. Kelappan"],
+      "answer": "K. Kelappan"
+    },
+    {
+      "id": 25,
+      "question": "What was the main goal of the Nivarthana Agitation in Kerala?",
+      "options": ["Land reforms", "Representation for backward communities", "Independence from British rule", "Social equality"],
+      "answer": "Representation for backward communities"
+    },
+    {
+      "id": 26,
+      "question": "Which event is associated with the Malabar Rebellion?",
+      "options": ["Peasant uprising", "Temple entry protest", "Labour strike", "Sepoy mutiny"],
+      "answer": "Peasant uprising"
+    },
+    {
+      "id": 27,
+      "question": "Who was the leader of the Malabar Rebellion?",
+      "options": ["Variyamkunnath Kunjahammed Haji", "K. Kelappan", "Ayyankali", "Sree Narayana Guru"],
+      "answer": "Variyamkunnath Kunjahammed Haji"
+    },
+    {
+      "id": 28,
+      "question": "Which movement in Kerala focused on the rights of Dalits?",
+      "options": ["Vaikom Satyagraha", "Temple Entry Movement", "Nivarthana Agitation", "Ayyankali's movement"],
+      "answer": "Ayyankali's movement"
+    },
+    {
+      "id": 29,
+      "question": "Who founded the SNDP Yogam in Kerala?",
+      "options": ["Sree Narayana Guru", "Ayyankali", "Chattampi Swamikal", "K. Kelappan"],
+      "answer": "Sree Narayana Guru"
+    },
+    {
+      "id": 30,
+      "question": "What was the main goal of the SNDP Yogam?",
+      "options": ["Social equality", "Economic reforms", "Religious unity", "Political independence"],
+      "answer": "Social equality"
+    },
+    {
+      "id": 31,
+      "question": "Which movement in Kerala focused on the rights of women?",
+      "options": ["Vaikom Satyagraha", "Temple Entry Movement", "Nivarthana Agitation", "Ayyankali's movement"],
+      "answer": "Temple Entry Movement"
+    },
+    {
+      "id": 32,
+      "question": "Who was the leader of the Nivarthana Agitation?",
+      "options": ["Sree Narayana Guru", "Ayyankali", "Chattampi Swamikal", "K. Kelappan"],
+      "answer": "K. Kelappan"
+    },
+    {
+      "id": 33,
+      "question": "What was the main goal of the Vaikom Satyagraha?",
+      "options": ["Temple entry for all castes", "Land reforms", "Representation for backward communities", "Independence from British rule"],
+      "answer": "Temple entry for all castes"
+    },
+    {
+      "id": 34,
+      "question": "Who was the leader of the Vaikom Satyagraha?",
+      "options": ["Sree Narayana Guru", "Ayyankali", "Chattampi Swamikal", "K. Kelappan"],
+      "answer": "K. Kelappan"
+    },
+    {
+      "id": 35,
+      "question": "Which movement in Kerala focused on the rights of tribals?",
+      "options": ["Vaikom Satyagraha", "Temple Entry Movement", "Nivarthana Agitation", "Ayyankali's movement"],
+      "answer": "Ayyankali's movement"
+    },
+    {
+      "id": 36,
+      "question": "Who was the leader of the Temple Entry Movement?",
+      "options": ["Sree Narayana Guru", "Ayyankali", "Chattampi Swamikal", "K. Kelappan"],
+      "answer": "K. Kelappan"
+    },
+    {
+      "id": 37,
+      "question": "What was the main goal of the Temple Entry Movement?",
+      "options": ["Temple entry for all castes", "Land reforms", "Representation for backward communities", "Independence from British rule"],
+      "answer": "Temple entry for all castes"
+    },
+    {
+      "id": 38,
+      "question": "Which movement in Kerala focused on the rights of workers?",
+      "options": ["Vaikom Satyagraha", "Temple Entry Movement", "Nivarthana Agitation", "Ayyankali's movement"],
+      "answer": "Nivarthana Agitation"
+    },
+    {
+      "id": 39,
+      "question": "Who was the leader of the Nivarthana Agitation?",
+      "options": ["Sree Narayana Guru", "Ayyankali", "Chattampi Swamikal", "K. Kelappan"],
+      "answer": "K. Kelappan"
+    },
+    {
+      "id": 40,
+      "question": "What was the main goal of the Nivarthana Agitation?",
+      "options": ["Representation for backward communities", "Land reforms", "Temple entry for all castes", "Independence from British rule"],
+      "answer": "Representation for backward communities"
+    },
+    {
+      "id": 41,
+      "question": "Which movement in Kerala focused on the rights of peasants?",
+      "options": ["Vaikom Satyagraha", "Temple Entry Movement", "Nivarthana Agitation", "Malabar Rebellion"],
+      "answer": "Malabar Rebellion"
+    },
+    {
+      "id": 42,
+      "question": "Who was the leader of the Malabar Rebellion?",
+      "options": ["Variyamkunnath Kunjahammed Haji", "K. Kelappan", "Ayyankali", "Sree Narayana Guru"],
+      "answer": "Variyamkunnath Kunjahammed Haji"
+    },
+    {
+      "id": 43,
+      "question": "What was the main goal of the Malabar Rebellion?",
+      "options": ["Peasant rights", "Temple entry for all castes", "Representation for backward communities", "Independence from British rule"],
+      "answer": "Peasant rights"
+    },
+    {
+      "id": 44,
+      "question": "Which movement in Kerala focused on the rights of women?",
+      "options": ["Vaikom Satyagraha", "Temple Entry Movement", "Nivarthana Agitation", "Ayyankali's movement"],
+      "answer": "Temple Entry Movement"
+    },
+    {
+      "id": 45,
+      "question": "Who was the leader of the Temple Entry Movement?",
+      "options": ["Sree Narayana Guru", "Ayyankali", "Chattampi Swamikal", "K. Kelappan"],
+      "answer": "K. Kelappan"
+    },
+    {
+      "id": 46,
+      "question": "What was the main goal of the Temple Entry Movement?",
+      "options": ["Temple entry for all castes", "Land reforms", "Representation for backward communities", "Independence from British rule"],
+      "answer": "Temple entry for all castes"
+    },
+    {
+      "id": 47,
+      "question": "Which movement in Kerala focused on the rights of tribals?",
+      "options": ["Vaikom Satyagraha", "Temple Entry Movement", "Nivarthana Agitation", "Ayyankali's movement"],
+      "answer": "Ayyankali's movement"
+    },
+    {
+      "id": 48,
+      "question": "Who was the leader of the Nivarthana Agitation?",
+      "options": ["Sree Narayana Guru", "Ayyankali", "Chattampi Swamikal", "K. Kelappan"],
+      "answer": "K. Kelappan"
+    },
+    {
+      "id": 49,
+      "question": "What was the main goal of the Nivarthana Agitation?",
+      "options": ["Representation for backward communities", "Land reforms", "Temple entry for all castes", "Independence from British rule"],
+      "answer": "Representation for backward communities"
+    },
+    {
+      "id": 50,
+      "question": "Which movement in Kerala focused on the rights of workers?",
+      "options": ["Vaikom Satyagraha", "Temple Entry Movement", "Nivarthana Agitation", "Ayyankali's movement"],
+      "answer": "Nivarthana Agitation"
+    },
+    {
+      "id": 51,
+      "question": "Which period is known as the Neolithic Age?",
+      "options": ["Old Stone Age", "New Stone Age", "Bronze Age", "Iron Age"],
+      "answer": "New Stone Age"
+    },
+    {
+      "id": 52,
+      "question": "What was the main feature of the Bronze Age?",
+      "options": ["Use of stone tools", "Use of bronze tools", "Domestication of animals", "Cultivation of crops"],
+      "answer": "Use of bronze tools"
+    },
+    {
+      "id": 53,
+      "question": "Which civilization is known for its cuneiform script?",
+      "options": ["Egyptian", "Chinese", "Mesopotamian", "Harappan"],
+      "answer": "Mesopotamian"
+    },
+    {
+      "id": 54,
+      "question": "Which civilization is associated with the Great Wall?",
+      "options": ["Egyptian", "Chinese", "Mesopotamian", "Harappan"],
+      "answer": "Chinese"
+    },
+    {
+      "id": 55,
+      "question": "Which civilization is known for its advanced drainage system?",
+      "options": ["Egyptian", "Chinese", "Mesopotamian", "Harappan"],
+      "answer": "Harappan"
+    },
+    {
+      "id": 56,
+      "question": "What was the main cause of the Industrial Revolution?",
+      "options": ["Agricultural advancements", "Invention of steam engines", "Exploration of new lands", "Development of art and culture"],
+      "answer": "Invention of steam engines"
+    },
+    {
+      "id": 57,
+      "question": "What was the main cause of the Agrarian Revolution?",
+      "options": ["Industrialization", "Introduction of new crops", "Urbanization", "Colonial expansion"],
+      "answer": "Introduction of new crops"
+    },
+    {
+      "id": 58,
+      "question": "Which economic system is based on collective ownership?",
+      "options": ["Capitalism", "Socialism", "Feudalism", "Communism"],
+      "answer": "Socialism"
+    },
+    {
+      "id": 59,
+      "question": "What is the main goal of communism?",
+      "options": ["Private ownership", "Equal distribution of wealth", "Profit maximization", "Colonial expansion"],
+      "answer": "Equal distribution of wealth"
+    },
+    {
+      "id": 60,
+      "question": "Which movement aimed to improve the rights of workers?",
+      "options": ["Labour movements", "Social reform movements", "National movements", "Peasant movements"],
+      "answer": "Labour movements"
+    },
+    {
+      "id": 61,
+      "question": "What was the main cause of colonialism in India?",
+      "options": ["Exploration", "Trade and economic exploitation", "Cultural exchange", "Religious missions"],
+      "answer": "Trade and economic exploitation"
+    },
+    {
+      "id": 62,
+      "question": "Which group led the tribal struggles in colonial India?",
+      "options": ["Tribals", "Workers", "Women", "Farmers"],
+      "answer": "Tribals"
+    },
+    {
+      "id": 63,
+      "question": "Who were the Sepoys?",
+      "options": ["Tribal leaders", "Peasant leaders", "Indian soldiers in British army", "Local chieftains"],
+      "answer": "Indian soldiers in British army"
+    },
+    {
+      "id": 64,
+      "question": "What was the main cause of the Revolt of 1857?",
+      "options": ["Economic exploitation", "Religious interference", "Introduction of new rifles", "All of the above"],
+      "answer": "All of the above"
+    },
+    {
+      "id": 65,
+      "question": "Who was the leader of the Revolt of 1857 in Kanpur?",
+      "options": ["Rani Lakshmibai", "Tantia Tope", "Bahadur Shah II", "Nana Saheb"],
+      "answer": "Nana Saheb"
+    },
+    {
+      "id": 66,
+      "question": "Which social reformer fought against sati?",
+      "options": ["Raja Ram Mohan Roy", "Swami Vivekananda", "Ishwar Chandra Vidyasagar", "Jyotirao Phule"],
+      "answer": "Raja Ram Mohan Roy"
+    },
+    {
+      "id": 67,
+      "question": "Who founded the Arya Samaj?",
+      "options": ["Raja Ram Mohan Roy", "Swami Vivekananda", "Dayananda Saraswati", "Jyotirao Phule"],
+      "answer": "Dayananda Saraswati"
+    },
+    {
+      "id": 68,
+      "question": "What was the main goal of the Indian National Movement?",
+      "options": ["Economic reforms", "Independence from British rule", "Social reforms", "Religious unity"],
+      "answer": "Independence from British rule"
+    },
+    {
+      "id": 69,
+      "question": "Who is known as the 'Father of the Nation' in India?",
+      "options": ["Mahatma Gandhi", "Jawaharlal Nehru", "Subhas Chandra Bose", "Bhagat Singh"],
+      "answer": "Mahatma Gandhi"
+    },
+    {
+      "id": 70,
+      "question": "Which event marked the beginning of the Gandhian era in the Indian National Movement?",
+      "options": ["Non-Cooperation Movement", "Quit India Movement", "Civil Disobedience Movement", "Salt Satyagraha"],
+      "answer": "Non-Cooperation Movement"
+    },
+    {
+      "id": 71,
+      "question": "Which movement was led by Mahatma Gandhi against the salt tax?",
+      "options": ["Non-Cooperation Movement", "Quit India Movement", "Civil Disobedience Movement", "Salt Satyagraha"],
+      "answer": "Salt Satyagraha"
+    },
+    {
+      "id": 72,
+      "question": "What was the main goal of the Quit India Movement?",
+      "options": ["Economic reforms", "Immediate independence from British rule", "Social reforms", "Religious unity"],
+      "answer": "Immediate independence from British rule"
+    },
+    {
+      "id": 73,
+      "question": "Which movement in Kerala focused on social equality and education?",
+      "options": ["Vaikom Satyagraha", "Temple Entry Movement", "Nivarthana Agitation", "Malabar Rebellion"],
+      "answer": "Vaikom Satyagraha"
+    },
+    {
+      "id": 74,
+      "question": "Who led the Temple Entry Movement in Kerala?",
+      "options": ["Sree Narayana Guru", "Ayyankali", "Chattampi Swamikal", "K. Kelappan"],
+      "answer": "K. Kelappan"
+    },
+    {
+      "id": 75,
+      "question": "What was the main goal of the Nivarthana Agitation in Kerala?",
+      "options": ["Land reforms", "Representation for backward communities", "Independence from British rule", "Social equality"],
+      "answer": "Representation for backward communities"
+    },
+    {
+      "id": 76,
+      "question": "Which event is associated with the Malabar Rebellion?",
+      "options": ["Peasant uprising", "Temple entry protest", "Labour strike", "Sepoy mutiny"],
+      "answer": "Peasant uprising"
+    },
+    {
+      "id": 77,
+      "question": "Who was the leader of the Malabar Rebellion?",
+      "options": ["Variyamkunnath Kunjahammed Haji", "K. Kelappan", "Ayyankali", "Sree Narayana Guru"],
+      "answer": "Variyamkunnath Kunjahammed Haji"
+    },
+    {
+      "id": 78,
+      "question": "Which movement in Kerala focused on the rights of Dalits?",
+      "options": ["Vaikom Satyagraha", "Temple Entry Movement", "Nivarthana Agitation", "Ayyankali's movement"],
+      "answer": "Ayyankali's movement"
+    },
+    {
+      "id": 79,
+      "question": "Who founded the SNDP Yogam in Kerala?",
+      "options": ["Sree Narayana Guru", "Ayyankali", "Chattampi Swamikal", "K. Kelappan"],
+      "answer": "Sree Narayana Guru"
+    },
+    {
+      "id": 80,
+      "question": "What was the main goal of the SNDP Yogam?",
+      "options": ["Social equality", "Economic reforms", "Religious unity", "Political independence"],
+      "answer": "Social equality"
+    },
+    {
+      "id": 81,
+      "question": "Which movement in Kerala focused on the rights of women?",
+      "options": ["Vaikom Satyagraha", "Temple Entry Movement", "Nivarthana Agitation", "Ayyankali's movement"],
+      "answer": "Temple Entry Movement"
+    },
+    {
+      "id": 82,
+      "question": "Who was the leader of the Nivarthana Agitation?",
+      "options": ["Sree Narayana Guru", "Ayyankali", "Chattampi Swamikal", "K. Kelappan"],
+      "answer": "K. Kelappan"
+    },
+    {
+      "id": 83,
+      "question": "What was the main goal of the Vaikom Satyagraha?",
+      "options": ["Temple entry for all castes", "Land reforms", "Representation for backward communities", "Independence from British rule"],
+      "answer": "Temple entry for all castes"
+    },
+    {
+      "id": 84,
+      "question": "Who was the leader of the Vaikom Satyagraha?",
+      "options": ["Sree Narayana Guru", "Ayyankali", "Chattampi Swamikal", "K. Kelappan"],
+      "answer": "K. Kelappan"
+    },
+    {
+      "id": 85,
+      "question": "Which movement in Kerala focused on the rights of tribals?",
+      "options": ["Vaikom Satyagraha", "Temple Entry Movement", "Nivarthana Agitation", "Ayyankali's movement"],
+      "answer": "Ayyankali's movement"
+    },
+    {
+      "id": 86,
+      "question": "Who was the leader of the Temple Entry Movement?",
+      "options": ["Sree Narayana Guru", "Ayyankali", "Chattampi Swamikal", "K. Kelappan"],
+      "answer": "K. Kelappan"
+    },
+    {
+      "id": 87,
+      "question": "What was the main goal of the Temple Entry Movement?",
+      "options": ["Temple entry for all castes", "Land reforms", "Representation for backward communities", "Independence from British rule"],
+      "answer": "Temple entry for all castes"
+    },
+    {
+      "id": 88,
+      "question": "Which movement in Kerala focused on the rights of workers?",
+      "options": ["Vaikom Satyagraha", "Temple Entry Movement", "Nivarthana Agitation", "Ayyankali's movement"],
+      "answer": "Nivarthana Agitation"
+    },
+    {
+      "id": 89,
+      "question": "Who was the leader of the Nivarthana Agitation?",
+      "options": ["Sree Narayana Guru", "Ayyankali", "Chattampi Swamikal", "K. Kelappan"],
+      "answer": "K. Kelappan"
+    },
+    {
+      "id": 90,
+      "question": "What was the main goal of the Nivarthana Agitation?",
+      "options": ["Representation for backward communities", "Land reforms", "Temple entry for all castes", "Independence from British rule"],
+      "answer": "Representation for backward communities"
+    },
+    {
+      "id": 91,
+      "question": "Which movement in Kerala focused on the rights of peasants?",
+      "options": ["Vaikom Satyagraha", "Temple Entry Movement", "Nivarthana Agitation", "Malabar Rebellion"],
+      "answer": "Malabar Rebellion"
+    },
+    {
+      "id": 92,
+      "question": "Who was the leader of the Malabar Rebellion?",
+      "options": ["Variyamkunnath Kunjahammed Haji", "K. Kelappan", "Ayyankali", "Sree Narayana Guru"],
+      "answer": "Variyamkunnath Kunjahammed Haji"
+    },
+    {
+      "id": 93,
+      "question": "What was the main goal of the Malabar Rebellion?",
+      "options": ["Peasant rights", "Temple entry for all castes", "Representation for backward communities", "Independence from British rule"],
+      "answer": "Peasant rights"
+    },
+    {
+      "id": 94,
+      "question": "Which movement in Kerala focused on the rights of women?",
+      "options": ["Vaikom Satyagraha", "Temple Entry Movement", "Nivarthana Agitation", "Ayyankali's movement"],
+      "answer": "Temple Entry Movement"
+    },
+    {
+      "id": 95,
+      "question": "Who was the leader of the Temple Entry Movement?",
+      "options": ["Sree Narayana Guru", "Ayyankali", "Chattampi Swamikal", "K. Kelappan"],
+      "answer": "K. Kelappan"
+    },
+    {
+      "id": 96,
+      "question": "What was the main goal of the Temple Entry Movement?",
+      "options": ["Temple entry for all castes", "Land reforms", "Representation for backward communities", "Independence from British rule"],
+      "answer": "Temple entry for all castes"
+    },
+    {
+      "id": 97,
+      "question": "Which movement in Kerala focused on the rights of tribals?",
+      "options": ["Vaikom Satyagraha", "Temple Entry Movement", "Nivarthana Agitation", "Ayyankali's movement"],
+      "answer": "Ayyankali's movement"
+    },
+    {
+      "id": 98,
+      "question": "Who was the leader of the Nivarthana Agitation?",
+      "options": ["Sree Narayana Guru", "Ayyankali", "Chattampi Swamikal", "K. Kelappan"],
+      "answer": "K. Kelappan"
+    },
+    {
+      "id": 99,
+      "question": "What was the main goal of the Nivarthana Agitation?",
+      "options": ["Representation for backward communities", "Land reforms", "Temple entry for all castes", "Independence from British rule"],
+      "answer": "Representation for backward communities"
+    },
+    {
+      "id": 100,
+      "question": "Which movement in Kerala focused on the rights of workers?",
+      "options": ["Vaikom Satyagraha", "Temple Entry Movement", "Nivarthana Agitation", "Ayyankali's movement"],
+      "answer": "Nivarthana Agitation"
+    }
+  ]
